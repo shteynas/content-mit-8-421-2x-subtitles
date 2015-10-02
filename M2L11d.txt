@@ -1,0 +1,144 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L11d.txt
+#
+# Captions for 8.421x module
+#
+# This file has 134 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+That a given electric field states so to speak,
+just disappear, they are no longer stable,
+and this is a process, which is called field ionization.
+The phenomenon is that sufficiently strong
+electric fields ionize the atom.
+
+And whenever there is a single model
+and I can give you an analytic answer, I try to do that,
+because I feel a lot of our intuition
+is shaped by understanding simple models.
+And the simplest model for field ionization
+is just a classical model by calculating
+what is the settle point in the combined
+potential of the nucleus, which is a Coulomb potential,
+and the external magnetic field.
+So many features of the experiment
+can be understood by this simple free-line derivation.
+So we have a potential.
+One part of it is the Coulomb potential and focusing
+on one special direction here.
+And then, in addition, we apply an electric field.
+And the electric field creates a linear potential.
+And if I take the sum of the two, at large distances
+it's the electric field which dominates,
+then the Coulomb potential takes over.
+
+So that's how it looks like.
+So now we have the situation if you would put in atoms
+and we would look at the energy eigenvalues, at this point,
+this is the maximum excited state in the atom, which
+is still stable.
+So what I want to derive for you is
+what determines sustainability is simply the center point.
+When the binding energy of the excited state for which we
+use the [INAUDIBLE] formula is not stronger
+than the position of the center point,
+the atom becomes unstable and it becomes field ionized.
+And we'll discuss a little bit later
+if this really applies to real atoms.
+The quick answer is for lithium and all of the other atoms,
+it applies for hydrogen. It doesn't, because hydrogen
+is too many [? symmetries ?], too many exact degeneracies.
+
+OK.
+So the total potential is the Coulomb potential
+plus the electric potential.
+
+What we need is the position of the settle point where
+we have a maximum in this one.
+This is a one dimensional cut, and this one dimensional cut
+has a maximum at this position.
+And by taking the derivative of the total potential,
+you immediately find this to be of that value.
+And now what we are calculating next
+is, what is the potential energy at this point.
+And this is E to the three halves.
+And now what you want to do is, we
+want to postulate that for field ionization,
+this should be able to the binding
+energy of the electron, which is nothing else
+than the [INAUDIBLE] constant divided by N squared.
+
+OK.
+Now here we have the square root of the electric field
+from this calculation.
+So that means the critical electric field will scale
+as one over N to the fourth.
+And this is famous scaling, which
+can be found in many textbooks that the critical electric
+field for ionization equals-- and now
+that's the beauty of atomic units--
+it is one over 16 n to the fourth.
+Beautiful formula derived from the settle point criteria.
+Of course, what I mean here is-- and if you do the derivation,
+it's in atomic units-- which means
+in units of the atomic unit of the electric field, which
+is E over the [INAUDIBLE] radius squared.
+So it's a simple model.
+It's an analytic result. The question is, is it valid?
+Does it make any sense?
+And the answer is yes, but in a quantum mechanical problem,
+you would actually use Schrodinger's equation
+as your potential.
+But then the onset of field ionization
+comes when tunneling becomes possible for this area.
+But it is the nature of tunneling
+that if you're a little bit too low, tunneling is negligible.
+You may have ionization rates of one per millisecond or so.
+And if you just go a little bit closer,
+it becomes exponentially larger.
+So therefore, this scaling is very, very accurate,
+because the transition where you go
+from weak tunneling to strong tunneling
+to spilling over the barrier, it's
+a very narrow range of electric fields.
+But yes, people have looked at it in great details
+and to calculated corrections due to tunneling.
+So these are quantum corrections to the classical threshold
+which I just calculated.
+
+But now in hydrogen, a lot of in error mixing matrix elements,
+matrix elements due to the electric field
+between nL states vanish.
+Hydrogen is just too pure, too precise.
+There are [INAUDIBLE] quantum numbers
+where you can exactly [? dianalyze ?] hydrogen
+electric fields, and you find some stable states, which
+do not decay, and they above the classical threshold
+we have just calculated.
+So as Dan Kleppner would have said,
+"The simplest of all atoms is the most complicated
+when it comes to field ionization,
+because it has a lot of stable states
+above the classical barrier."
+So you can sort of envision that their
+will be orbits, which are just confined to this region
+and the electron never samples the settle point.
+And if you look at it this diagram on the Wiki,
+these are actually calculations for hydrogen,
+which include ionization rates.
+You will find that the states, which
+are the ones which go down, which are on the down hill
+side of the electric field.
+You see all of this here marked and on set for ionization.
+And then you see a rapid increase
+in the ionization rate.
+But you also see those hydrogenic state,
+which go upward in energy.
+And they refused to ionize because of the symmetry
+of [INAUDIBLE] coordinates and the things I've mentioned.
+Anyway it's too special to spend more time here in class on it,
+but I just think you should at least know qualitatively
+what is different for hydrogen.

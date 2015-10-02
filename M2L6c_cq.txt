@@ -1,0 +1,26 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L6c_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 16 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+The question is, what is the leading correction
+to this formula.
+This effect that we have in ionic core,
+does it make a constant offset to the binding energy?
+Or does it make the correction, which goes as 1 over n squared.
+This [INAUDIBLE] scale-- the overall spectrum--
+it would actually lead to a modified rescaled root back
+constant.
+Or is the correction higher order in n?
+Or finally, is it a correction which
+changes the you effective principle [INAUDIBLE]
+to number n?
+
+Maybe you know the answer or maybe you
+want to try to guess the answer.

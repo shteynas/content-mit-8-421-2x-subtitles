@@ -1,0 +1,114 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L7h.txt
+#
+# Captions for 8.421x module
+#
+# This file has 104 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+The last conclusion to the fine structure is the Darwin term.
+The Darwin term is sort of peculiar,
+but there is a sort of an intuitive picture
+in which I can derive it.
+It starts by saying that an electron-- well, we an electron
+is, as far as we know, a point object.
+But in order to derive the Darwin term,
+we assume that the electron is not arbitrarily, accurately
+localized, but it is smeared out.
+And you may remember when I discussed
+fundamental units and the fine structure constant alpha
+and I told you that alpha-- the fact that alpha is small
+leads to the fact that people say
+electromagnetic interactions are weak.
+I discussed that if you want to do similar particle physics
+and use single particle pictures and single particle creations
+you can never assume that a particle you localized better
+than its Compton wavelengths.
+If you would localize a particle better than the Compton
+wavelengths, it would have a momentum uncertainty, which
+would lead to an energy uncertainty, which
+is larger than its rest mass and you get into quantum theory
+and [? pair ?] production.
+So at some point you have to be aware
+that single particle pictures break down
+when you assume a localization of particles
+better than the Compton wavelengths.
+So therefore-- and I'm waving my hands
+because it's a hand-waving argument--
+but we can derive the [INAUDIBLE] of Darwin term
+by assuming that the electron is sort of smeared out
+over a dimension.
+And this dimension can only be the Compton wavelengths.
+
+Which is h bar over mc.
+And there is a nice German word for it,
+how you can imagine that the electron is smeared out.
+It was by the word [NON-ENGLISH SPEECH].
+And I think the German word is much nicer
+than its translation, which is trembling motion.
+So at least in this picture you assume that the electron
+is sort of smeared out.
+It's not because the electron has a size.
+It just trembles.
+It just trembles.
+And it leads to a smear out over the Compton wavelengths.
+But that implies now that if this trembling motion is
+sufficiently fast we should not use in our Schroedinger
+equation the coulomb potential.
+You should use the coulomb potential
+which is spatially averaged over their Compton wavelengths.
+
+So therefore, the phenomenological derivation
+of the Darwin term goes by replacing the coulomb potential
+in the Schroedinger equation by the spatially averages coulomb
+potential.
+So let me assume-- let me now derive what that means.
+So if you assume there is a very small displacement s,
+now we can take the coulomb potential
+and expand it into-- it's coulomb potential
+plus derivative times s plus the second order Taylor expansion
+the xi, the xj component.
+And then we need the second order derivative xi
+xj of the coulomb potential.
+So the correction is now-- well, if we average it
+in an isotopic way, the gradient term,
+the linear term doesn't contribute.
+It just averages to zero.
+So the leading correction can comes from the curvature term.
+So therefore we have to take the curvature or the Laplacian
+of the coulomb potential.
+This scale of sx square sy square sz square is
+the Compton wavelength squared.
+And, well, maybe I'm taking the argument off the Compton
+wavelengths now too literally, but at least
+if I want to carry it through, sx square, sy square,
+sz square are each of them 1/3 of s absolute value squared.
+So if I now use the coulomb potential
+I obtain the result where I have the Laplacian of 1 over r.
+And su of course [? no ?] is the 1
+over r function has a non-vanishing Laplacian
+only at the origin.
+So therefore the correction is only valid for s electrons,
+which have a non-vanishing probably
+to feel the origin of the coulomb potential.
+
+I did a lot of hand waving here.
+And, yes, those factors of 1/3 are
+the fact that the electron is smeared out
+over the Compton radius there may be three factors.
+But, OK.
+This is the physical picture.
+You can get an exact result by simply
+taking the [INAUDIBLE] creation [? during ?] the
+non-relativistic approximation.
+And the term which appears in the Pauli equation
+is actually the same.
+The only thing which is different
+is that the prefector is 1/6.
+the exact prefector is 1/8.
+So this, the exact result, actually
+validates that the physical picture we have used
+is at least a reasonable approximation.

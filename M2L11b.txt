@@ -1,0 +1,162 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L11b.txt
+#
+# Captions for 8.421x module
+#
+# This file has 152 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So today I want to talk to you briefly
+what happens when we go beyond perturbation theory,
+when we go beyond the quadratic Stark effect,
+and that leads us to a discussion of stability
+of atoms in strong electric field and field ionization.
+I like to sort of feature this, because it allows
+me to tell you something about the peculiar properties
+of Rydberg atoms and also the ionization of Rydberg atoms
+for electric field.
+This is how people in our field create cold plasmas,
+and it's also a way to do a very sensitive detection of atoms.
+So what I'm telling you today is interesting for its own sake
+but also because it's an important tool
+for manipulating atoms, creating plasmas,
+or sensitive detection.
+So this will probably only take 10 or 20 minutes,
+and then we want to go from DC electric fields
+to AC electric fields.
+So we then discuss the AC polarizability and, well,
+that will take us from perturbation theory
+in a time-independent way, what we have done now for DC fields
+to time-dependent perturbation theory.
+So all the topics are a lot of basic aspects of quantum
+physics but, as usual, I try to give you
+some special perspectives from the atomic physics side.
+
+So in perturbation theory, we have a mixture of other states,
+and the said mixture is done with the matrix element,
+and in perturbation theory we always
+have an energy denominator-- intermediate state
+to ground state-- and if the electric field is smaller
+than this value, then we add mixture of other states
+until the ground state is smaller.
+So usually when we estimate the validity of perturbation
+theory, we look for the state which
+is closest to the ground state for which the energy
+denominator is smallest, so therefore "i"
+here is the nearest state, but-- and this
+is important-- of opposite parity.
+
+Otherwise, because of the parity selection rule,
+the matrix element would be 0, and the electric field
+does nothing.
+I made a comment on Friday, but let me do it again.
+That, of course, means that we apply electric field
+to our favorite atoms, we don't have
+to worry about the other hyperfine states.
+The other hyperfine states have the same spatial wave function,
+have the same parity, so we really
+are talking about the first excited state,
+in a concrete example, for those of you who work with-- alkalize
+with an S ground state.
+The relevant energy scale here is the excitation energy
+to the first P state.
+So let's just estimate for a single electron atom.
+This is a hydrogenic estimate.
+The excitation energy to the first excited
+state, 1 is to 2 p, is about 1 Rydberg,
+and the Rydberg is nothing-- or Hartree--
+and it's nothing else than e square
+over a naught, its electric potential of two charges
+separated by Bohr radius.
+And if we estimate that the matrix element
+for strong transition is on the order of the Bohr radius,
+there is no other length scales in the problem,
+we find that the value for the electric field in atomic units
+is the charge divided by the Bohr radius squared,
+and this is really high.
+It is on the order of 5 times 10 to the 9 volt per centimeter,
+and this is 1,000 times larger than laboratory
+electric fields.
+
+Those fields would just create sparking along the electrodes.
+You cannot apply such high electric fields
+in a laboratory.
+So therefore nothing to worry about.
+If you have ground state atoms, the Stark effect
+and perturbation theory is all you need.
+Actually, it would be a little bit more precise when
+I use the Rydberg and a naught.
+I made a little bit over estimate,
+so that typically the critical electric field
+which would cause a breakdown of perturbation theory
+for the ground state is around 10
+to the 9 volt per centimeter.
+So we are safe when we talk about ground states,
+but once we go to the excited state,
+we have degeneracy-- P states with 3, 4 degeneracy--
+and they are states with opposite parity.
+So we can have mixing there and actually,
+as you will see for excited states,
+we have already a breakdown of perturbation theory
+at very, very small electric field.
+So let us discuss hydrogenic orbits with principal quantum
+number n, and if we estimate what
+is the size of the matrix element,
+well, it's not just a naught.
+There is a scaling with n, which is n square.
+The matrix element in higher and higher excited state scales
+with n square.
+
+Well, how does the energy separation scale?
+Well, let's not discuss hydrogen here,
+because in hydrogen energy levels are degenerate,
+and we would immediately get a breakdown
+of perturbation theory.
+Let's rather formulate it for general atoms,
+and we had this nice discussion about the quantum defect,
+so if you compare the energy of two l states, they scale as 1
+over n square.
+But for different l states, we have different quantum defects.
+Delta l plus 1, and here we have delta l,
+so therefore doing an expansion in n,
+which we assume to be large, we find that the energy difference
+is proportional to the difference between the quantum
+defects for the two states we want
+to mix with the electric field and then, again,
+the scaling with the principal quantum number is n cube.
+So therefore we find for the critical field
+using the criterion I mentioned above, we take the energy
+splitting-- the energy denominator which appears
+in perturbation theory-- we divide
+by the value of the matrix element.
+Well, we had the Rydberg constant,
+or 2 times the Rydberg constant is nothing else than b
+square over a naught.
+The matrix element was 1 over a naught,
+and then we have the difference between quantum defects.
+And now-- and this makes it really so dramatic--
+we had an n square scaling of the matrix element
+and we have n to the minus 3 scaling of energy differences,
+so that means the critical field scales by n to the 5.
+Go to an excited state with n equals 10,
+and the breakdown of perturbation theory
+happens 100,000 times earlier.
+So some of the scaling in atomic physics
+is very, very dramatic when you to higher-- more highly excited
+state.
+
+If you throw in that quantum defects become
+very small once you go beyond S and P states,
+the higher states just don't penetrate into the nucleus,
+so if l is larger than 2, if you have more complicated atoms,
+you may add the angular momentum of the core here.
+So if you put n to the 5 scaling and the small quantum defect
+together, you find that critical electric fields
+are smaller than 1 volt per centimeter,
+already for principal quantum numbers as low as 7.
+So it means bring a 1.5 volt battery close to your atom,
+and you drive it crazy, you drive it out
+of perturbation theory.

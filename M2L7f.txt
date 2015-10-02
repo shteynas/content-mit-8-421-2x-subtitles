@@ -1,0 +1,32 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L7f.txt
+#
+# Captions for 8.421x module
+#
+# This file has 22 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+The kinetic energy contribution is a simply expansion.
+You can get it from the Pauli approximation.
+You take the Dirac equation, deal
+with all the operators in the Dirac equation
+and do an expansion.
+But you can also just lean back and say OK,
+what is the kinetic energy?
+And use the relativistic form the kinetic energy,
+which is rest energy and pc squared, the square root of it.
+And if you say the kinetic energy is the energy minus mc
+squared, and then you take the full relativistic expression
+for the total energy minus 1.
+And now you do a Taylor expansion of the square root.
+You find the non-relativistic kinetic energy
+in the first collection term with all
+of the correct pre-factors.
+It's this one.
+
+So this is a relativistic energy collection
+in the Pauli equation.
+That's all we have to say.

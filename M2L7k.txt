@@ -1,0 +1,76 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L7k.txt
+#
+# Captions for 8.421x module
+#
+# This file has 66 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let me draw you sort of an energy level diagram,
+put in a few numbers which then leads us
+to the discussion of the lamb shift.
+We have hydrogenic energy levels with n equals 1 and n equals 2.
+We have s states and we have p states.
+We just discussed the fine structure,
+which shifts down the energy of all those levels in the ground.
+I mentioned that the fine structure
+is alpha to the 4 mc squared.
+And for the ground state, the prefector is minus 1/8.
+And this is the one-- the term designation is 1/2.
+Here we get the 2s 1/2 level.
+And the shift is minus 5 over 128 in the same unit,
+alpha to 4 mc squared.
+We have the exact degeneracy between the s 1/2
+and the 2 p 1/2 state where s that p 3/2 state is only
+shifted by minus 1 over 128.
+To put in some numbers in electron volt,
+the fine structure in the ground state
+is on the order of 10 to the minus 4 electron volt.
+The splitting here, which is the fine structure
+splitting of the p 1/2 and the p 3/2 state is 4 times 10
+to the minus 5 electron volt. So that means at the level of 10
+to the minus 4 electron colt we understand atomic structure.
+
+Well, but we want to go further.
+And the next thing we want to discuss
+is that what is the exact degeneracy between s 1/2
+and p 1/2 is actually lifted when we input use photons, when
+we allow the electrons to couple to the electromagnetic.
+That's QED, quantum electrodynamics.
+And that introduced a lens shift, which, in the n
+equals 2 state, is 10 to the minus 6
+electron volt, which is approximately 1 gigahertz.
+And that's what we want to derive next.
+Since I have this nice level diagram,
+I want to also indicate to you what we do next week.
+And this is when we bring in the proton,
+not just-- so far we have said there is a point charge.
+But the proton is a real particle which has finite size,
+but also it has finite angular momentum.
+And then we have to bring in fine structure.
+And we will learn that the 1s 1/2 ground state splits
+into two hyperfine components.
+And the hyperfine structure will be at a similar energy
+scale as the lamb shift.
+And actually this fine structure splitting
+is the famous 14-- it's about 1 gigahertz.
+It's the famous 1420 megahertz line,
+which everybody who does astrophysics knows about it.
+It's also, in other units, the famous hydrogen maser,
+which has an emission line at 21 centimeter.
+Anyway, this is sort of our road map.
+We have taken care of everything down to 10
+to the minus 5 electron volts.
+And now we want to proceed in the next today
+and in the lecture to 10 to the minus 6.
+First, the lamb shift where we are still
+holding on, that the nucleus as a point charge
+has no structure.
+Then we have done everything we can do.
+What happens in the coulomb field of point charge?
+We have the spin of the electron, we have QED.
+We have done everything.
+And then what remains is to put in the structure

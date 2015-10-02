@@ -1,0 +1,110 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L7d.txt
+#
+# Captions for 8.421x module
+#
+# This file has 100 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+How do you measure an 8,000 second lifetime?
+Well, there is a recent paper a few years
+ago-- a physical review letter, Determination of the Lifetime
+of Metastable Helium.
+Traditionally people have measured the lifetime
+of metastable helium in the following way-- no,
+they haven't observed helium for 8,000 seconds
+because if you have helium in the metastable state
+maybe after a few seconds there are some collisions-- collision
+or deactivation.
+8,000 seconds you would just have
+many, many systematic effects.
+What people did is they put some atoms
+into the metastable state, measured the number of excited
+atoms, and then maybe during 100 milliseconds 1 out
+of 80,000 atoms should decay.
+And by determining what small fraction of the atoms
+has decayed or how many photons you observe
+in 100 milliseconds divided by the total number of atoms,
+that's how you can measure the lifetime.
+Of course the problem is, yes, you
+can measure the number of photons
+but if you want to divide by the number of atoms
+you have to know very accurately how many atoms you have.
+And this Australian group used a very clever trick
+to eliminate this uncertainty and this is as follows.
+We have this extremely long lived
+8,000 seconds lifetime here and this is the transition.
+But you can now excite the atom to the triplet PCO state, which
+is also-- it's a triplet state but-- well, I
+assume because it has a p state it has been orbit coupling.
+The lifetime is, well, for an atom is very long.
+Typically atoms decay nanoseconds but this lifetime
+is milliseconds.
+So what they did is they just excited all the atoms
+with a strongly saturating laser to the triplet PCO transition
+and then within a few milliseconds all the atoms
+emitted.
+And so all they had to do is measure accurately
+the ratio of the VUV photons emitted
+on by the triplet count state and by the triplet PCO state.
+And then the number of atoms cancelled out,
+all they had to do is measure the ratio of two VUV
+intensities.
+
+So based on that research now we have higher accuracy
+on the lifetime of metastable helium.
+The question is, when I said we have
+to violate the above assumptions to get
+any decay between singlet and triplet.
+Metastable helium, pretty much everything
+you can think about it is forbidden.
+So, for a long time people believed
+it was a two photon transition, that one photon transition was
+forbidden but a two photon transition was allowed.
+We know now that the decay path is
+one photon and one transition-- magnetic dipole transition.
+If you don't know what M1 is, we discuss it later in the course.
+But you may find it interesting that until rather recently
+it was not clear what that the decay path is.
+Well, recently means probably a few decades ago,
+but for a long time it wasn't even clear
+and the calculations were not accurate enough--
+what was the mechanism by which the metastable constant
+of helium could decay.
+
+When I prepared the class I wanted to give you
+a simple picture and say hey, it is this mechanism
+which causes the transition from the triplet count
+state to the singlet count state but I couldn't
+find a simple operator.
+It seems it's a little bit more complicated.
+The best I can tell you is that the decay path requires
+higher order terms using the Dirac equation with coupling
+to the electromagnetic field.
+
+Any questions?
+Yes, Nancy.
+If the measurement of the lifetime of that state,
+what is the limiting factor?
+What [INAUDIBLE] this measurement
+to be that more precise?
+Do you know?
+Here is the reference.
+I mean this was a highly accurate measurement
+for that it improved all previous measurements.
+What the current limit of accuracy is, I don't remember.
+But for instance, they had to put all atoms
+into the excited state or by a strong saturation.
+Of course saturation is never complete,
+maybe there is a limitation to that.
+Finally, you have to measure the ratio
+of photons emitted by that state and emitted by that state.
+Rather they are the vacuum u.v. But you
+may have a systematic effect if your photo detector has
+a slightly different detection efficiency for 58
+nanometer and 62 nanometer.
+I mean, nothing is perfect, but I really
+have to refer you to the reference for details.

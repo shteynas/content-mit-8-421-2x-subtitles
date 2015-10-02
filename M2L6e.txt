@@ -1,0 +1,410 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L6e.txt
+#
+# Captions for 8.421x module
+#
+# This file has 400 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let's now proceed and discuss the helium atom.
+So we want to understand now what
+are the new effects when we have not only one electron, but two
+electrons.
+
+And don't worry.
+We're not proceeding to three, four, five, electrons.
+I think to go from one to two, we actually
+capture the most important step, namely the interaction
+between the two electrons, and what the results of that is.
+For the helium atom, there are some excellent treatments
+in standard textbooks of quantum mechanics.
+One is the famous quantum mechanic text
+by Cohen-Tannoudji, but also the text of--
+The reason why I have edit the helium atom for the curriculum
+is because it is a simple system where we can discuss
+singlet and triplet states.
+And singlet and triplet configuration
+is important for population of [? inoptic ?] lattices
+for quantum magnetism and such.
+Actually you can say, if you have two electrons,
+and they align in a triplet state or singlet state,
+one you can see is ferromagnetic,
+the other one is paired in antiferromagnetic.
+It's a simple example where we can discuss magnetism.
+So that's my motivation why I want you to know something
+about the helium atom.
+Let's now discuss energy levels of helium.
+
+Let's just start with the most basic model, where
+helium atom has two charges.
+So if you regard it as a hydrogen problem,
+and we put two electrons into the 1s state,
+we would expect that, based on hydrogenic model,
+that the binding energy of that is, per electron,
+is the [? wood ?] [? that ?] energy, as in hydrogen,
+but now we have to scale it with z squared, the nuclear charge,
+and this gives us a factor of four.
+So we would expect that per electron, the binding energy,
+in the most simple hydrogenic model is 54 electronvolt.
+So that would mean that the binding energy of the ground
+state is minus 108 electronvolt, however,
+the experimental result is that it's only 79 electronvolt.
+So we find that there is a big discrepancy or 29 electronvolt,
+which is really huge.
+So, what is responsible for this big discrepancy?
+Well, what we have neglected, of course,
+is the interaction between the electrons.
+
+So we can fix that in the simplest way,
+by keeping the wave function from the hydrogenic model,
+but now, calculating the electronic energies,
+the electronic, the electron-electron energy,
+by using the electron-electron interaction as a perturbation
+operator.
+So, we still use, a wavefunction for the ground state, electron
+one in the 1s state, so 1 0 0 is the designation for N L M,
+for the hydrogenic quantum numbers.
+And we assume that the ground state is simply
+the product of two electrons in the 1s state.
+So, if I calculate for this perturbation operator,
+the expectation value with this ground state,
+we find that there is an energy correction which
+is 34 electronvolt. So this removes
+most of the discrepancy.
+You can improve on it by a variation wave function,
+if you use hydrogenic eigenfunctions as your trial
+wavefunction, but you are now calculating
+those hydrogenic wavefunctions, not for nuclear charge
+two, by in nuclear charge C star, which
+you keep as a variation parameter,
+you find that you find even better wavefunctions,
+and you can remove two-thirds of this remaining discrepancy
+or five electronvolts.
+This variation wavefunction is left to you
+as a homework assignment.
+
+So as z is z equals 2, is replaced
+by a variation parameter.
+Anyway, that's all I want to tell you about the ground
+state of helium.
+It's pretty much finding a wavefunction which correctly
+captures the Coulomb energies, the interaction
+between the twin electrons.
+But what is much more interesting,
+and this is what I want to focus on
+for the rest of this lecture, is what
+happens in the excited state.
+Before I do that, let me just tell you
+what we just discussed.
+So we have this hydrogenic estimate,
+and eventually, the Coulomb energy, this
+is the energy level to what we have just discussed.
+But, you know, as the ground state has no degeneracy,
+and so we all talk about quantitative shifts.
+However, when we go to the excited state,
+we will find degeneracies, and degeneracies are much more
+interesting, because something which was degenerate can split,
+you have two different terms.
+So suddenly, there is richer physics.
+So therefore, we want to discuss now the excited state.
+So starting again with the hydrogenic model.
+In hydrogen, the 2s and 2p state are degenerate.
+So we have two configuration contributing
+to the same energy.
+One is 2s, and one is 2p.
+The binding energy in a hydrogenic model is a quarter
+[? of root back ?], [? root ?] [? back ?] over n squared and n
+is 2.
+We have to scale it by z squared,
+and we find 13.6 electronvolt.
+But now what happens is that we have to introduce the Coulomb
+energy between the electrons.
+And if you do that, it shifts up the levels in different ways.
+So this is 1s 2s, this is 1s 2p.
+So why is this different?
+
+Well, you can see the following--
+you have two electrons, and you have the helium nucleus.
+And you first put in the 1s electron, and now
+the second electron, when it is in a p state, in a 2p state,
+it's further out, and it pretty much experiences out there,
+the charge off the helium nucleus
+shielded by the 1s electron.
+And therefore, it sees, in effect,
+a smaller nuclear charge.
+Whereas the 2s electron penetrates deeper,
+gets closer to the nucleus, and will still
+realize that the nucleus has a charge of two, and not
+a shielded charge.
+So therefore you would expect that the shielding effect,
+due to the innermost electron, is
+more important, has a bigger effect for the 2p electron
+then for the 2s electron.
+
+So let me just write that down.
+So the 2p, it sees a shielded nucleus.
+
+In other words, what is experience more
+as an inner core, the Coulomb potential of helium plus,
+and not so much of helium 2 plus,
+and this is due to the 1s electron,
+and therefore the 2p electron has a smaller binding energy.
+It's actually comparable to the binding
+energy of the 2p state in hydrogen,
+which is on the order of four electronvolt.
+This effect is smaller for the 2s state.
+So let's go back to the energy diagram.
+So we have now the situation which are just described.
+We have two degenerate configurations
+for in the hydrogen model, and in the Coulomb energy
+between the electrons, there is quite a bit
+splitting of several electronvolts.
+
+But now, each level undergoes further splitting,
+and this is what I want to discuss.
+So we're just still sorting out just the preliminaries,
+what I really want to discuss with you
+is the singlet and triplet thing,
+but now we are there where we can do it.
+So if you have a configuration with 1s 2s,
+there are two possibilities for the total angular momentum.
+Two electrons, in an s state, there
+is no orbital angular momentum, but there
+are two spins one-half, and they can add up to one,
+or can add up to zero.
+So therefore we will have two different terms.
+One is singlet is zero, and one is triplet is one.
+And the splitting is 0.8 electronvolt,
+and this is what you want to discuss in the following.
+For completeness, but the physics is similar,
+let me mention that the 1s 2p state is also
+gives rise to two terms.
+We have now the total orbital angular momentum
+p, orbital angular momentum of one.
+The spin angular momentum is zero or one,
+so we have singlet and triplet.
+And the total angular momentum is one, in this case,
+or in this case, two, one, or zero,
+and the splitting in this situation
+is also on the order of a fraction of an electronvolt.
+So what we want to understand now is,
+why do we observe a splitting between these two levels, which
+seems to depend on the spin?
+How can the spin cause the splitting?
+Because the spin, so far, has not appeared in our Hamiltonian
+We really have a Hamiltonian, which
+is on only the Coulomb energy, and the spin,
+is not part of it.
+So we don't have a magnetic field
+to which the magnetic moment of the spin would couple.
+And also, we have not yet input new spin orbit coupling.
+But if this is on your mind, take it off your mind.
+Spin orbit coupling is a much, much smaller effect.
+One energy on the order of one electronvolt,
+you just cannot get from spin orbit coupling.
+Spin orbit coupling is smaller than electronic energies-- as I
+will explain to you on Friday-- is smaller
+by the fine-structure constant so the typical scale for spin
+orbit coupling is maybe 10 or 100 million electronvolt.
+It's much smaller.
+So therefore, we want to understand now
+why do we have spin-dependent energy.
+Also, we haven't coupled, at this point,
+the spin to any field.
+We are focusing now on the splitting.
+So we have the 1s 2s configuration.
+We get two terms, as I just discussed.
+One is singlet, and one is triplet.
+And still using the model, hydrogenic model
+of non-interacting electrons, we want
+to write down the wavefunction.
+So, the wavefunction of the two electrons
+is we have one electron in the 1s state,
+we have one electron in the 2s state.
+But now, since we have fermionic atoms,
+we have to correctly symmetrize it.
+So whether we want the symmetric or anti-symmetric combination,
+we exchange the two electrons, so now we
+have two and our one in reverse order.
+
+Of course, the total wavefunction for two fermions,
+has to be anti-symmetric, but the total wavefunction,
+is the product of the spatial wavefunction,
+which I just wrote down, times the spine wavefunction.
+The spin wavefunction can be anti-symmetric and symmetric,
+and the anti-symmetric spin wavefunction
+has to combine the symmetric spatial wave function, and vice
+versa, to make sure that the total wavefunction is
+anti-symmetric, and to correct description for fermions.
+The designation here, symmetric and ant-symmetric
+for the total wavefunction, reflects the spatial part.
+The total wavefunction, of course,
+including the spin wavefunction is always anti-symmetric.
+OK.
+So we have two wavefunctions.
+One has symmetric spatial wavefunction, the other one
+an anti-symmetric.
+The symmetric spatial wavefunction
+has an anti-symmetric spin wavefunction,
+and that means you have s equals zero.
+That's up down minus down up, it's anti-symmetric.
+Whereas the anti-symmetric spatial wavefunction
+goes together with the symmetric spin wavefunction s equals one.
+So this is the situation which gives rise to the triplet
+s 1 term, and this here is the singlet s 0 term.
+OK.
+As long as we have non-interacting electrons,
+the two wavefunctions are degenerate.
+But now we want to bring in the Coulomb energy between the two
+electrons, which we had already discussed before,
+and if you calculate, if you now calculate, the energy using
+this as a perturbation operator, well, remember,
+the wavefunction had two parts.
+It was 1 0 0 r 1, 2 0 0 r 2, and the part where r 1 and r 2
+were flipped.
+And now, if you have the wavefunction, the perturbation
+operator, we get a total of four terms.
+2 times 2, we have to sort of exit out.
+And we will then have this sort of diagonal parts.
+And we have the parts which are off-diagonal,
+and for the off-diagonal parts, it
+matters whether we hit the plus or minus sign.
+You know minus, if you have plus plus and minus
+minus, they give a positive contribution,
+but if you connect the wavefunction
+before and after the operator, plus with minus,
+we get minus signs.
+So in other words, we have one contribution
+where it doesn't matter whether we
+have the symmetrical and anti-symmetrical wavefunction,
+but then we have another term where
+it matters whether we have symmetric and anti-symmetric
+wavefunction.
+That's where the plus or minus sign
+from the symmetrized wavefunction appear.
+So we have two contributions now to the energy correction.
+One is independent of the spin wavefunction,
+whether we have the symmetric or anti-symmetric configuration,
+the other one is not.
+The first term is called the Coulomb energy.
+The second term is called the exchange energy.
+So, what we find is-- we have to trace back the sign--
+but you find that the triplet state, the triplet state
+is symmetric in spin, and anti-symmetric
+in the spatial wavefunction has the lower energy,
+is more strongly bound, because the anti-symmetric spatial
+wavefunction that uses the repulsive interaction
+between the two electrons.
+
+So in other words, we do not have any spin
+term in the Hamiltonian, it's just
+that whether the spin wavefunction is
+symmetric or anti-symmetric, it requires
+the spatial wavefunction to be the opposite.
+And now, when we calculate the Coulomb energy,
+for the spatial or anti-symmetrical spatial
+wavefunction, we find a big difference,
+and the big difference is the exchange energy.
+So it is a spin-dependent term for the total energy,
+but what is behind this energy is simply the Coulomb energy.
+So the spin through the symmetry of the wavefunction,
+leads to a difference in the Coulomb energy.
+And actually, what I'm telling you
+is the explanation why we have magnetism at room temperature.
+It was Heisenberg's idea when he realized,
+for the first time, what can cause ferromagnetism.
+It was pretty much the model of the helium atom expended
+to many, many electrons in the lattice.
+So the result is that the Curie temperature of thousands
+of degrees, we have magnetism below 1,000 degrees,
+this energy scale is an electronic energy,
+it's a Coulomb-energy scale, and not
+an energy scale where spin and direction comes into play.
+If it were not for the exchange energy,
+we would not have to have magnetic materials above one
+Curie.
+So this is what you see here in the Helium atom.
+How spin leads to an energy splitting,
+which is an electronic-Coulombic energy splitting.
+OK, let's make it maybe even more obvious.
+The above equation can be rewritten.
+
+So this energy splitting can be written
+as a constant alpha, plus a constant beta,
+times the product of S 1 and S 2.
+Well, what happens is, the product of S 1
+and S 2 can be written as minus S 1 squared minus S 2
+squared plus S squared is 1 squared is
+one-half times three-halves is three quarters is 2 squared is
+three quarters, and S squares is either zero or 2,
+depending whether you're in the singlet or triplet state.
+In other words, I just want to-- with the sidebar,
+which you've seen many, many times-- just to remind you,
+that the product of S 1 and S 2 has only two values, one
+for the singlet state, one for the triplet state.
+So therefore, if I have a singlet level
+and a triplet level, I can always parameterize it
+like this, and I can make it more obvious
+by showing what this formula, on the right hand side,
+has two values.
+One for S equals zero, and one for S equals 1.
+And this can be rewritten as alpha--
+you'll find a more explicit calculation in the Wiki,
+but it's also just one more line of algebra.
+You can write it in the following way.
+So therefore, the alpha and beta parameter
+are just a way of-- you have two energy levels,
+and you, with two constants, you can always
+describe two energy levels.
+Here I've done with alpha and beta.
+But before, I did it with the Coulomb energy and the exchange
+energy, which we obtained in this equation, when
+we perturbatively calculated the integral.
+So by writing it as S 1 dot S 2, I even suggest that the two
+spins interact like a dipole-dipole interaction,
+but they don't.
+It comes from the Coulomb interaction,
+but it is equivalent to a gigantic dipole-dipole
+interaction.
+So therefore, the conclusion of this
+is that what I've derived for you for the helium atom,
+it looks like the ferromagnetic spin-spin interaction.
+And well if it looks like it, is is actually
+an effective ferromagnetic spin-spin interaction.
+However, the coupling is purely electrostatic here,
+and not magnetic.
+
+OK.
+Yes.
+So, since we're still using the hydrogenic wavefunctions
+as a basis, how closely does this
+get to the actually measured [? ohm? ?]
+The question is, how-- how close do we
+get with hydrogenic wavefunctions
+to the actual measured energy?
+
+I don't know, I don't know the exact numbers for the excited
+state.
+I assume that it's similar to the ground state.
+You saw that for the ground state we had a big discrepancy.
+Most of that was closed by using hydrogenic wavefunctions,
+and just calculating the perturbative terms.
+So pretty much you get, quantitatively
+or semi-quantitatively, you get the picture out of it.
+And unless you're really interested in the absolute
+values, you can stop there.
+But one way to go further and reduce a discrepancy by 75%
+is to use this variation wavefunction
+values, hydrogenic wave function,
+but you use Z, the nuclear charge,
+as a variation parameter.
+And I mean this is-- it's amazing.
+I mean you a two-electron atom and you
+use a hydrogenic wavefunction with one [? feet ?] parameter
+and you get binding energies which are on the order of 70
+electronvolt accurate to within better than 3%, 4%, 5%.
+But by adding other terms, we're using little bit more fancy
+wavefunctions.

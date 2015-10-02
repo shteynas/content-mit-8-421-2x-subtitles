@@ -1,0 +1,16 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L10p_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 6 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Next question is, for L equals 0,
+the orbiting electron creates a magnetic field.
+And spin-orbit interaction can be simply regarded
+as the inner energy of in a electron's
+spin in this magnetic field.

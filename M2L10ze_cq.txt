@@ -1,0 +1,15 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L10ze_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 5 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Then finally, the last question.
+Same situation, positronium, but now at low magnetic fields.
+What are the magnetic moments of the four hyper
+fined states of positronium at low magnetic field?

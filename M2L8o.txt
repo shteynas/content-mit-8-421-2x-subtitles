@@ -1,0 +1,43 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L8o.txt
+#
+# Captions for 8.421x module
+#
+# This file has 33 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let's now talk about the volume effect.
+If we would look at the charge distribution
+in the nucleus as a function of R. If we go from one isotope
+to an heavier isotope with more neutrons,
+the nuclear radius becomes larger.
+And the charge becomes more spread out.
+So if I plot now the electrostatic potential--
+the electrostatic potential is, of course, the Coulomb
+potential, 1 over R, until we enter the charge distribution.
+And then, as you know from electrostatic,
+it continues-- this is one over R--
+and then it's flattened off.
+It continues quadratically.
+For the heavier-- oops, I wanted to change color--
+for the heavier nucleus, it is like this.
+And for the lighter nucleus, it like this.
+So in other words, the finite size of the nucleus
+is cutting off the Coulomb potential
+where it is strongest.
+And this happens the earlier, the larger,
+or the heavier the nucleus is.
+So therefore, what you obtain is, you obtain in perturbation
+theory, a level shift.
+Since it only affects the electron when
+it's very close to the origin, this level shift
+is, as other effects we have discussed today,
+proportional to the probability of the electron
+to be at the center.
+Only S electrons are affected.
+And well what is the effect in terms of energy?
+Well it's clear, the Coulomb potential is weakened.
+Therefore, this effect, the volume effect,

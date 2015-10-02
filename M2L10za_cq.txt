@@ -1,0 +1,26 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L10za_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 16 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let's now make it more interesting.
+Let's replace the proton by a positron, the anti-particle
+of the electron.
+So now we have the same, a similar situation.
+But what happens now is, of course, the contribution
+to the magnetic moment from the nucleus, which is now
+the positron, is as important as a contribution of the electron.
+So, you have two spin one-halfs coupled now.
+One is positive.
+One is negative.
+And you should figure out again, what are the energies?
+But before we talk about the energies,
+let's first talk about how many hyperfine states do we
+have in the ground state.
+One, two, three, or four?

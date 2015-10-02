@@ -1,0 +1,77 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L7j.txt
+#
+# Captions for 8.421x module
+#
+# This file has 67 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+The fact that we have spin and we have spin-orbit interaction
+means that the spin-orbit interaction l.s is not
+diagonal in l or s, so what we have to do is we
+have to introduce now the total angular momentum j.
+And since l plus s square equals j square,
+we can write the product ls as 1/2 j square
+minus l square minus s square.
+So therefore the ls interaction is diagonal in the j basis.
+So if you couple l and s to j, a given state of the operator j
+has a definite value for ls.
+Let's put in things together.
+So at the beginning of this class,
+we started out with a hydrogen atom--
+where let me just focus on n equals 2-- where we had n
+equals 2, all n equals 2 states have the same energy.
+That's what comes out of the non-relativistic Schrodinger
+equation with a Coulomb potential,
+and that means we had a degeneracy for the 2p 1/2,
+for the 2p 3/2, and the 2s 1/2 state.
+
+If you now put in spin-orbit interaction, well,
+nothing of course happens to the s 1/2 state
+because it has no orbital angular momentum.
+And then in the p 3/2 state, l equals
+1, one unit of orbital angular momentum,
+and the spins are aligned.
+In the p 1/2 state, they're anti-aligned.
+So therefore, the two terms have opposite shifts.
+So the p 3/2 state is shifted up and the p 1/2 state
+is shifted down.
+But then in the second step, we want
+to add in now the two other contributions
+to the fine structure, the kinetic and the Darwin term,
+and then something happens which is really remarkable.
+We have split the three levels.
+We have lifted the degeneracy between the three levels.
+But if you now add the kinetic and the Darwin term,
+it turns out that the s 1/2 and the p 1/2 states
+become exactly degenerate again, so there is still
+a degeneracy in the spectrum.
+
+If we would use a non-relativistic approach
+and derive the Darwin term, the spin-orbit term,
+and the relativistic correction separately,
+there would be no reason.
+It would just look like a freak accident in nature
+that those two levels come out equal.
+However, it's not a freak accident,
+it's a symmetry of the Dirac equation.
+So all those corrections have a deep connection
+in relativistic physics, and relativistic physics
+preserves the degeneracy in j.
+So let me write that down.
+So the fine structure does not lift the degeneracy
+between s 1/2 and p 1/2.
+It turns out that when we use the Dirac equation,
+we can get an exact expression for the fine structure
+into the [INAUDIBLE], and it's a principle quantum number,
+and then the fine structure only depends on j and not on l
+and s separately.
+So that tells us that eventually,
+the spin of the electron and the fine structure are really
+have deep origins in the relativistic nature
+of the underlying physics.
+
+Any questions about fine structure?

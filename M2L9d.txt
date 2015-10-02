@@ -1,0 +1,81 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L9d.txt
+#
+# Captions for 8.421x module
+#
+# This file has 71 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So this paper is 1933.
+Fifteen years before the Lamb Shift.
+And it says that one possible explanation
+for some discrepancy of the structure of the Balmer Lines
+is the effect of the interaction between the radiation field
+and the atom has been neglected.
+That's QED.
+You cannot just calculate the structural of the hydrogen atom
+from the Coulomb Field.
+You have to allow the radiation field, all the modes
+of the vacuum to be included.
+So this insight is not due to Lamb, it was there in already,
+1933.
+Same year, look at the title, "On the Breakdown
+of the Coulomb Law for the Hydrogen Atom."
+People speculated or discussed that the Coulomb Law will not
+be valid at very small distances.
+And this is ultimately what QED, radiative correction, the Lamb
+Shift, vacuum polarization, all of it brings about.
+
+Finally, people had an understanding of the hydrogen
+atom, and they measured-- and I want you to sort of keep
+that in mind-- they did optical--
+they measured the Balmer lines of hydrogen and/or helium.
+
+And then they couldn't fully resolve it
+because of the finite lifetime of the P state.
+But there was some hunch when you
+tried to get the envelope from the underlying structure that
+was a discrepancy.
+It was just not significant enough to say for sure
+there is an additional line shift, which
+is not accounted for by theory.
+There was a discussion that there
+is a deviation of the Coulomb Law, but here is the insight.
+Or as was indicated by previous authors,
+the interaction required to change the Coulomb Law
+at small distances is much too large
+to be accounted for by the assumption of a finite size
+of electron and proton.
+So the Coulomb Field has to be modified
+at short distances in a much stronger way than just
+the finite size of the proton.
+We talk about the finite size of the proton in a minute.
+And then of course, 1947, UIF oscillators
+have been developed in the pursuit of radar,
+experimental tools are there now.
+High power IF sources, tunable sources, and such.
+And then Lamb and Retherford in this landmark paper
+look at the fine structure of the hydrogen atom,
+and this is the famous result. They measured transitions
+as a function of magnetic field, and you
+see the solid line which I think was the theory without the Lamb
+Shift.
+The dashed line is the hyper fine structure of hydrogen,
+and the lines converge.
+And the difference is 1,000 megacycles.
+The first determination of the Lamb Shift.
+So this was 1947.
+It's interesting it's just one or two weeks later
+there is a theoretical paper by Hans Bethe providing
+an explanation for the Lamb Shift.
+So already coming up with the first model
+how to account for QED.
+I didn't look it up in detail, but I thought this [INAUDIBLE]
+was similar to what I presented you
+in class, that the electromagnetic zero point
+energy is shaking the electron and leading to corrections.
+But it's amazing that within weeks, theorists
+figured really out, yes, this is the explanation.

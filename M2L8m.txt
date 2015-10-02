@@ -1,0 +1,105 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L8m.txt
+#
+# Captions for 8.421x module
+#
+# This file has 95 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Formally, you can define the quadrupole moment
+by the expectation operator.
+You take the nucleus with maximum M I,
+and now you calculate the expectation value
+of this operator.
+This is, of course, motivated by just electrostatics.
+If you take an expansion of the classical electrostatic energy
+into multipoles, you find the quadrupole configuration
+to be related to a quadrupole moment.
+Quadrupole moments couple to the derivative of electric fields.
+And then, in this purely classical description,
+you have this term where beta is the angle between two symmetry
+axes, namely between the symmetry
+axis of the electric field gradient
+and the quadrupole tensor-- just the classical quadrupole
+tensor, as it comes out of Jackson.
+Yes, so you can see the quantum mechanical definition
+of the quadrupole moment.
+Or more generally, so this is quadrupole moment,
+if you a moment with L, the operator.
+Which tells you whether you have a non-vanishing moment.
+A non-vanishing deformation is actually a spherical tensor--
+TLM.
+
+And what you see above is a spherical tensor--
+T 2 0 L equals 2 M equals 0.
+And those spherical tensors are defined by the fact
+that they transform as spherical harmonics.
+And now you sort of realize what it means.
+If you want a magnetic or electric moment with L,
+the operator for the moment transforms
+like angular momentum L. And now you
+realize that you have the triangle rule.
+If you want a matrix element where I and L overlap with I,
+you want to make sure that I L and I couple.
+And you have a triangle rule.
+So therefore, if you want a magnetic moment,
+or electric moment of L, and you evaluate this expectation
+value, well a least the triangle rule
+can only be justified like this.
+Or in other words, you can only get a non-vanishing moment
+if L is smaller than 2 I. And this
+is what we discussed in the kicker question
+for the two cases of L equals 1 and L equals 2.
+So ultimately, it's the selection rule,
+which is related to the triangle rule for the additional angular
+momenta.
+
+But I like much better the argument,
+how many orientations do you need to find out
+that something is elliptical?
+But it's formalized here.
+All right, let's just spend one more minute
+on the quadrupolar structure.
+So based on the expansion of the electrostatic energy, what
+determines the quadrupolar structure
+is this angle-- this cosine angle.
+Which is the angle between the axis of the nucleus
+and the axis of an electric field gradient.
+And that means it is the angle-- it's
+the cosine of the angle between J, the outer environment,
+and I, the axis of the nucleus.
+So therefore, when we would derive-- I'm not deriving it,
+but if you would derive-- an expression for quadrupolar
+structure, the quadrupolar structure would
+be proportional to a quantity, C,
+which is nothing else than the dot product of I and J.
+And it is in my notes now, I and J have units of hbar.
+So I'm dividing it out here.
+As you know I dot J can be expressed by quantum numbers F
+F plus 1 minus I I plus 1 minus J J plus 1.
+So therefore, the quadrupolar energies, E2, L equals 2,
+E L equals 2, involve the quasi--
+the classical expression at cosine square.
+So therefore, you would expect there is a quadrupole constant,
+and then it is cosine square.
+But well, usually quantum mechanically,
+when we have the square of a quantity,
+we have to write it as quantity times quantity plus 1.
+So this is the quadrupolar structure.
+And to remind you, we just discussed
+that for the hydrogen atom.
+The magnetic hyperfine structure had
+involved the same product of I dot J, but in a linear way.
+So the reason why I'm not discussing quadrupolar
+structure in more detail is the hyperfine structure associated
+with quadrupole moments is much, much smaller
+than the hyperfine structure associated
+with magnetic moment, typically by a factor of 100.
+The only exceptions are molecules,
+because molecules can have-- because
+of molecular binding mechanisms-- a much, much
+larger electric field gradient.
+So therefore in molecules, quadrupolar structure is more important than in atoms

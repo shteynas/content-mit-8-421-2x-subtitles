@@ -1,0 +1,84 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L8a.txt
+#
+# Captions for 8.421x module
+#
+# This file has 74 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+The Lamb shift is merely due to the fact
+that if you have an atom consisting
+of an electronic coulomb field in proton,
+this is not a complete description.
+The atom lives in a vacuum and the vacuum
+is filled with electromagnetic waves.
+So what we have to include for an accurate
+description of atomic level structure
+is the coupling of the atomic system
+of the electron to all the modes of the electromagnetic field.
+And this is radiation.
+We will talk about the quantized electromagnetic field later.
+At this point I could introduce you
+to a simple model, fairly accurate model,
+of the lens shift by simply assuming--
+and that's what we did on Friday-- that we have
+fluctuating electric fields.
+Those was fluctuating electric field shake, accelerate,
+the electron.
+And the electron performs some oscillatory motion.
+And this oscillatory motion leads to an over reaching
+of the coulomb potential.
+And similarly, what we saw for the Darwin term,
+this overreaching of the coulomb potential
+takes away the singularity of the coulomb potential.
+And therefore, lowers the binding energy of the electron.
+
+So today I want to just say a few more words about the result
+we derived.
+And then we have done what happens
+to an electron in a coulomb field plus radiation.
+The next thing is then to discuss is then hyperfine structure.
+
+So let me first make one comment.
+When we integrated over all modes
+of the electromagnetic spectrum, we needed an upper cut off
+and a lower cut off due to logarithmic singularities.
+Eventually an upper cut off, yes.
+At relativistic, the last mass of the electron
+we have to cut off things.
+I just want to say one more word about the lower cut off.
+I suggested as a cut off the orbital frequency
+of the electron.
+So the justification for that is the following.
+The electron, the free electron-- the free electron,
+when it's driven, has an amplitude
+which is 1 over the frequency squared.
+So if you drive it slower and slower,
+its amplitude increases because it has more time
+to go in one direction.
+So this divergence at low frequency, of course,
+happens only for the free system.
+When you have a bound system like a harmonic oscillator
+and you drive it at lower and lower frequency,
+the response converges to a constant
+and not to a 1 over drive frequency squared singularity.
+So therefore, when we reach the--
+when the drive frequencies on the order
+of the-- oscillatory frequency of the bound system,
+the behavior changes.
+So we mimic this with an effective cut off because what
+you want to get rid of is a singularity.
+But in reality, of course, it should approach a constant
+at low frequency.
+And that is essentially the physics of the AC and then
+the DC Stark effect.
+So that was the rationale for the cut off.
+
+And let me just annotate here.
+And let's say for a free particle
+we had the situation that the amplitude was proportional to 1
+over the drive frequency, whereas for bound particle
+s mu should approach a constant for low frequencies.

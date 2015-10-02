@@ -1,0 +1,18 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L10b_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 8 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+The first questions take us back to electronic structure.
+It's a question about how do wave functions,
+how does density and how does inverse size scale
+with principle quantum number?
+So the first question is, how does
+1 over r, 1 over the size of the electronic wave function,
+how does it scale within?

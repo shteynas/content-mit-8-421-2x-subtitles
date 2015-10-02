@@ -1,0 +1,167 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L11j.txt
+#
+# Captions for 8.421x module
+#
+# This file has 157 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+The second point of discussion is the concept
+of the oscillator strengths.
+So what I'm teaching you in the next five minutes
+is so old fashioned that I sometimes wonder,
+should I still teach it or not.
+On the other hand, you find it in all the textbooks.
+You also want to understand a little bit the tradition,
+and at least I'm giving you some motivation
+to learn about it, that if I parametrize
+the matrix element within oscillator strengths,
+and most of your atoms-- most of the alkali
+atoms-- have an oscillator strength for the s
+to p transition for the d lines, which is unity.
+You can actually write down what is the matrix element, what
+is the spontaneous lifetime of your atom without knowing
+anything about atomic structure, just memorizing that f equals
+1-- the oscillator strength is 1-- is pretty much all you have
+to know about your atom, and the rest-- the only other thing you
+have to know is, what is the resonant frequency
+of your laser-- 780 nanometer, 589 nanometer, 671 nanometer.
+So the modern motivation for this old-fashioned concept
+is, for simple atoms where the oscillator strength
+is close to 1, this is probably the parametrization you
+want to use, because you can forget
+about the atomic structure.
+But the derivation would go as follows.
+I want to compare our result, how an atom
+responds to an electric field.
+I want to compare this result to the result
+of a classical oscillator, compare our result for the AC
+polarizability to a classical harmonic oscillator.
+So I assume this classical harmonic oscillator
+has a charge, a mass term, and a frequency.
+And both the atom and the classical harmonic oscillator
+are driven by the time-dependent electric field,
+which we have already parametrized by cosine omega t.
+If you look at the classical harmonic oscillator,
+you find that we derive it at omega
+and ask what is the time-dependent dipole moment.
+It's driven by the cosine term, and what I mean, of course,
+is dipole moment of a classical harmonic oscillator
+is nothing else than charge times displacement.
+And, well, if you spend one minute
+and solve the equation for the driven harmonic oscillator,
+you find that the response, the amplitude-- the steady state
+amplitude zk of the harmonic oscillator--
+is cosine omega t times a prefactor, which
+I'm writing down now.
+
+There is the resonant behavior.
+So that's the response of the classical harmonic oscillator.
+So this is just classical harmonic oscillator physics,
+and I now want to define a quantity, which
+I call the oscillator strength of the atom.
+I'm just jumping now from the harmonic oscillator to the atom
+and then I combine the two, and the oscillator strength
+is nothing else than a parametrization
+of the matrix element between two different states,
+but it's dimensionless, and it's made dimensionless
+by using the mass, by using h bar,
+and by using the transition frequency.
+So the atomic-- let me just make sure we keep track of it.
+This is the result for the classical harmonic oscillator,
+and this is now the result for the atom
+that we have found already the result for the atom before,
+and now I'm re-writing it simply by expressing
+the matrix element square by the oscillator strengths,
+and this here is just another expression
+for the polarizability alpha.
+Well, let's now compare the result
+of a quantum mechanical atom, exactly
+described time-dependent perturbation theory,
+to the result of a classical harmonic oscillator.
+
+The frequency structure is the same,
+so if I would now say we have an ensemble
+of harmonic oscillators, and the harmonic oscillators may have
+different frequencies and different charges,
+then I have made those formulas exactly equal.
+And I can now formulate that the atom reacts
+to an electric field-- to time-dependent
+electric field-- exactly as an ensemble
+of classical oscillators.
+If I would say I have an ensemble of oscillators
+with effective charge, then the response
+of the atom and the response of the ensemble
+of classical oscillators is absolutely identical.
+
+For the atom response as a set of classical oscillators
+with an effective which is given here.
+So therefore you don't have to go
+further if you want to have any intuition how an atom reacts
+to light.
+The classical harmonic oscillator
+is not an approximation.
+It is exact.
+That result is relevant, because it
+allows us to clearly formulate the classical correspondence.
+
+The second thing is, is you can easily
+show with basic commutator algebra,
+there is the Thomas-Kuhn sum rule, which
+is discussed in all texts in quantum physics, which
+says that the sum over all oscillator strengths is 1,
+so therefore we know if we have transitions from the ground
+state to different states, the sum of all the oscillator
+strengths to all the states can only be 1.
+And another advantage of the formulation
+with oscillator strengths is that it
+is a dimensionless unit.
+It's a dimensionless parameter, which
+tells us how the atom corresponds
+to an external electromagnetic field.
+If you have hydrogen, the 1s to 2p transition
+is the strongest transition, and it has a matrix element
+which corresponds to an oscillator strength of about
+0.4, so the rest comes from more highly excited states.
+However, for alkali atoms, the d line, the s to p transition,
+has an oscillator strength-- I didn't write down
+the second digit, but it's with excellent approximation--
+1.98 or something-- so not just qualitative,
+the almost quantitative, and you capture
+the response from the atom by saying f equals 1.
+So if you use for the alkali atoms f equals 1,
+then simply the transition frequency of the d line
+gives you the polarizability alpha
+and, as we will see later-- because we haven't introduced
+this-- but it will also give you gamma, the natural line width,
+because all the coupling to the electromagnetic field--
+to an external field-- is really captured
+by saying what the matrix element is,
+and f equals 1 is nothing else than saying the matrix
+element is such and such.
+And indeed, if I now use the definition of the oscillator
+strengths in reverse, the matrix element between two
+transitions, between two states, is the matrix element squared
+is the oscillator length times 1/2,
+and if you just go back and look at the formula,
+you find that this is now-- well, this is dimensionless,
+so we need now, because the left-hand side is the length
+squared, we need two lengths.
+One is the Compton wavelength, which is h bar over 2 times
+the mass of the electron, and lambda bar
+is the transition wavelength lambda divided by 2 pi.
+So therefore, I haven't found it anywhere in textbooks,
+but this is my sort of summary of this,
+for if you have a strong transition,
+and strong means that the oscillator length is
+close to 1, then the matrix element for the transition
+is approximately the geometric mean of the Compton wavelengths
+of the electron and the reduced wavelengths
+of the resonant transition.
+
+So now if you want to know what is
+the matrix element for the d line of rubidium,
+take the wavelength of 780 nanometer,
+take the Compton wavelength of the electron,

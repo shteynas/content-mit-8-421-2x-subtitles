@@ -1,0 +1,291 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L6a.txt
+#
+# Captions for 8.421x module
+#
+# This file has 281 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Before I continue with atomic structure,
+I want to start today to discuss the units, the atomic units,
+we are using to describe the atom.
+For every problem in physics, you
+have, what one may call natural units.
+And, for us, these are also called the atomic units.
+So what are atomic units?
+Well, atomic units are the units for lengths, for energy,
+for velocity, for electric field,
+and all these units should be-- you
+should be able to construct them out of fundamental constants.
+The fundamental constants, which appear in the Schrodinger
+equation for the electron within the atom
+are, the charge of the electron, the mass of the electron,
+and h bar.
+Now, is there any other fundamental constant
+we should include to construct our natural units?
+c.
+c?
+Good question.
+What about C, the speed of light?
+Should the speed of light be part
+of our system of atomic units?
+
+Could we not set it equal to one?
+Let's go there, because, if you set it to one,
+you have make a choice, you have constrained your system,
+and you almost obscuring the fact whether it should appear
+or not.
+Well, the strong message I want to give you
+is, at the level of electronic structure,
+at the level of the Schrodinger equation,
+it should not be there.
+Because we are talking, at this point,
+about solutions of the Schrodinger equation,
+the hydrogenic levels.
+And there is no c, no speed of light,
+in the Schrodinger equation.
+So c is not part of the fundamental constants
+we have to consider now.
+It will later come in the fine-structure constant,
+but this is a different story.
+So, we have three units, e, m, z,
+and you can just play the game of combinatorics
+and see can do find length which consist of those three units.
+And well, it's h squared, m over e squared.
+This is how you get the unit of length.
+And this length is called the Bohr radius
+and indeed, this is, sort of, the RMS size of the electron
+in the 1s state.
+You can play the game again and ask,
+can we construct an energy?
+Well you find that if you take e to the four,
+if you take the mass and finally divide by h square,
+then you have a unit of energy, and this unit of energy
+turns out to be one Hartree, or 27.2 electronvolt, or two
+Rydberg, twice the binding energy of the electron
+in the 1s state.
+And we had some discussion last week that the factor of two
+reflects the virial theorem.
+This is actually that one hardly is the Coulomb
+energy of the electron in the 1s state, which
+is a binding energy.
+But then half of it is kinetic energy,
+and therefore the total energy of this 1s electron
+is half the Coulomb energy, and it's that.
+But now-- OK, so so far, no c, the energy,
+the energy levels, the wavefunction,
+if there is no c, no speed of light in the Schrodinger
+equation, there is no c in the solution of the Schrodinger
+equation.
+And if you set it at one, sure, it wouldn't-- I mean,
+if you have a relativistic equation that c equals 1,
+you obscure the fake.
+But here, it's definitely not there.
+But now we can also see, well, there
+are other important energies.
+One energy is-- and now I bring in the c
+just because I want to compare two energies which
+include the speed of light-- the rest energy of the electron.
+Or a very fundamental unit of lengths,
+is h bar over m c, which is the Compton wavelengths-- so that's
+lambda Compton, the Compton wavelengths of the electron--
+and well if we try to figure out what
+is the ratio of the atomic units of lengths,
+and the Compton radius, we have to multiply
+with a dimensionless unit, which is h c over e squared,
+or if I take the reverse, e squared over h plus c.
+And similarly, here the dimensionless quantity
+to multiply is that.
+So what do we find now here is, what
+we get is a quantity which I want to call alpha,
+the fine-structure constant, and what
+I find here is the same constant, alpha to the minus 1,
+times the Compton wavelength.
+Let me discuss the fine-structure constant
+in a second, but there's still two more atomic units
+we want to discuss.
+There is the velocity, and there is the electric field.
+I can simply get the velocity by saying,
+well, the velocity and its kinetic energy is m v squared--
+and if said m v squared, I want to skip all factors of unity,
+so that's not one-half, it's just m v squared--
+and if I said m v squared equal to one Hartree,
+then I find that the atomic unit of velocity
+is e squared over h bar, but this turns out
+to be alpha times c.
+So again, what we find is alpha, the fine-structure
+constant, alpha is, of course, dimensionless,
+it is 1 over 137.
+So, therefore, we see that if the velocity-- and this is
+actually the orbital velocity of the 1s electron--
+if this is alpha times c, that confirms that the electron is
+non-relativistic-- we have solved
+the non-relativistic Schrodinger equation for it--
+and consistently we find that the velocity of the electron,
+is one over 137 of the speed of light.
+It's actually physics trivia.
+If somebody asks you, how fast is the electron
+in the hydrogen atom?
+Well, 1% of the speed of light.
+Of course, if you had solved the nonlinearistic--
+the non-relativistic Schrodinger equation, and you solve it for,
+let's say, a naked uranium nucleus, where
+z, the charge of the nucleus, is 92,
+then you find that this fine-structure constant times
+z is on the order of unity, you would
+find that the electron moves at the speed of light,
+and then you'll realize, gosh, I've
+solved the wrong equation, because
+in the relativistic Schrodinger equation, when the solution is
+that something moves at the speed of light,
+I better start with a different equation.
+But here we find we are consistent in electron
+in the hydrogen atom, for low nuclear charge
+of a few hydrogen, helium, and so on, is non-relativistic.
+So, let's just finish that.
+The electric field is the electric field
+felt by the electron which orbits
+the nucleus on the 1s shell, and this is 5.1 times 10
+to the 9 volt per centimeter.
+So everything I've constructed here out of the three
+fundamental constants, e, m, then h,
+are typical for the 1s electron for the ground
+state of hydrogen. Because the typical lengths, the Bohr
+radius, the typical energy, the Hartree, the typical velocity,
+which doesn't have a name, and the electric field
+experienced by this electron.
+So, let's now talk about alpha.
+
+So, alpha is dimensionless.
+If a constant has dimension, like h bar, like c,
+it actually, the value of it, reflects
+our system of metrology.
+If you define the second in a different way,
+h bar will change, c will change, so a lot of constants
+are not fundamental constants, this
+being fundamental to the physics at hand,
+they are more kind of translating
+our metrological system into the equations we
+use to describe our system.
+But if something has no dimension,
+it is not related to a unit, like the kilogram
+or the second, it has really, fundamental importance.
+So, therefore alpha is the fundamental constant
+in atomic physics.
+
+And if you have a fundamental constant,
+ultimately, there should be a theory of everything,
+which should ultimately, which should ultimately
+predict the value of alpha, which ultimately be predicted
+by a complete theory.
+
+So alpha, the fine-structure constant, is smaller than 1.
+It's 1 over 137.
+And the fact that alpha is smaller than 1,
+is often phrased in these words, since alpha
+is much smaller than 1, this implies
+the electromagnetic interactions are weak.
+
+OK, I want to explain that.
+I mean, I've heard this many, many times,
+but what does it mean, interactions are weak?
+So let me give you sort of my, 90 seconds,
+sort of my spiel on it.
+Why does alpha mean that the electromagnetic interactions
+are weak?
+Well, we have to compare the electromagnetic interaction
+to something else, and the result will be,
+for this situation I create, the electromagnetic interactions
+are weak.
+Electromagnetic interactions of the Coulomb field
+gets, of course, stronger and stronger and stronger
+the closer you move two charges together.
+So what does it mean that the Coulomb interaction is weak?
+Weak as compared to strong interactions
+or other interactions.
+Well, let me try to justify it as follows.
+We cannot go to arbitrary small distances.
+You can do it in classical physics,
+but not in quantum physics.
+So, if you go to very small distances,
+if you localize particles very tightly,
+they have a lot of momentum uncertainty.
+The momentum uncertainty means energy uncertainty.
+And the energy uncertainty may mean
+that we can create electrons and positron pairs.
+So the moment we have an energy uncertainty,
+by our definition of bringing two particles close together,
+And this energy uncertainty is larger than the rest mass,
+we have to be very careful.
+We can no longer use a single particle description.
+Or our concept of single particle physics
+breaks down if you have similar particles prepared
+with an energy uncertainty, which would spontaneously
+create more particles.
+So therefore, let me postulate that if energy,
+that our picture, how we think about those interactions
+arranging two charges, and writing down what the Coulomb
+energy is, that if energy uncertainties become
+on the order of the rest energy, than the concept
+of similar particles breaks down.
+Of course, that's not the end of physics.
+You need now field theory for particles, where particles are
+just excitations in a field.
+But here, in atomic physics, you want
+to describe an electron bound to a nucleus,
+and we want to use those concepts.
+So let's just sort of say, what does it mean with delta E
+is m c square?
+Well, that means the momentum uncertainty is
+on the order of m c, and with this momentum uncertainty,
+I can localize particles to within h by over m c,
+and this just turns out to be the Compton
+radius of the electron.
+So therefore, I should be careful
+when I talk about the Coulomb energy between particles,
+if I would go closer than the Compton radius.
+So therefore, let me compare now,
+the Coulomb interaction at the Compton
+radius to something else.
+So this Coulomb energy is e squared
+over the radius, the Compton radius,
+and this turns out to be e squared m c over h bar.
+So unless I want to get into quantum field
+theory of particles before I need a different description,
+the strongest Coulomb interaction
+I can create, by putting two particles at the Compton radius
+is that.
+And I can now compare this Coulomb interaction,
+the Coulomb energy, to the rest energy, m c squared,
+and well, if I take what I had above e squared,
+m c over h bar, I divide by m c squared,
+I find that e squared-- that the result, the ratio
+is e squared over h plus c, and this is just alpha.
+So in other words, what I've shown to you,
+if you try to bring two charges as close as possible,
+before spontaneous pair production sets in,
+then you'll find that the Coulomb energy is not
+in the dominant energy in the system,
+the dominant energy is the rest energy,
+is the mass of the electron itself.
+And the ratio of those two energies at this point,
+is, of course, completely independent of what
+metrological system you use for energy lengths and such.
+It's really something which says something fundamental
+about the nature of interaction.
+And what I just presented to you leads to the statement
+that the Coulomb interaction, the electromagnetic interaction
+is weak, because the fine-structure constant
+is much smaller than unit.
+
+Of course, if you use a nucleus of uranium, naked uranium,
+and people have iron traps, where
+they create uranium-92 plus, and then they add an electron,
+you're really studying very interesting physics.
+You're studying the physics of an electron for which
+the effective fine-structure constant is
+on the order of unity.
+And that's why people are very interested in it.

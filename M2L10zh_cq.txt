@@ -1,0 +1,40 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L10zh_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 30 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I just want to ask you two quick question.
+I will do the perturbation theory
+and I will explain everything.
+But maybe you want to predict the result which
+I want to derive in the next 10 minutes.
+And the question is what will we actually
+get for the expectation value of H prime?
+Will we get the expectation value of the dipole operator
+times the electric field?
+Or will we get the expectation value
+of the dipole operator times the electric field over 2?
+And the next question would be the same,
+but what do we get for the total Hamiltonian?
+So these are the questions.
+I want to discuss with you in the next 10 minute simply using
+perturbation theory expectation values.
+Expectation values of the total energy H naught plus H prime.
+But also expectation values of the electrostatic energy
+which is H prime.
+And the question is, when you can
+say for dimensionless units, what
+we get is a dipole moment times an electric field.
+And this is one of the situation where factors of 1/2
+are not just bookkeeping.
+Factors of 1/2 really reflect interesting physics.
+And I want to sort of highlight it by asking you.
+What would you expect would we get
+for those expectation values when we solve for atomic energy
+levels in electric field?

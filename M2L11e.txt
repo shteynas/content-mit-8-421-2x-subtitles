@@ -1,0 +1,101 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L11e.txt
+#
+# Captions for 8.421x module
+#
+# This file has 91 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let me now briefly mention important applications
+of field ionization.
+
+One is close to 100% detection efficiency for atoms.
+If you want to detect single atoms-- for instance,
+you have a krypton sample, and you
+want to find a rare isotope of krypton
+for dating the material.
+You need an extremely high sensitivity
+and you may just have a few single atoms in the sample.
+One way to do it would be that you excite the atom, maybe
+through an intermediate state to Rydberg state.
+
+And then by just applying a few volts per centimeter
+you get an ion.
+And ions can be counted by particle detectors.
+You can accelerate the ion, smash it into a surface,
+and count the particles with close to 100% efficiency.
+And this is one of the most sensitive detection schemes.
+I remember in the aftermath of Chernobyl,
+there was an interest in detection schemes
+for radioactive strontium.
+And on the wiki, I give you a reference
+where some people developed this resonance ionization
+spectroscopy for some atomic isotopes which, unfortunately,
+appeared more frequently after the Chernobyl disaster.
+And they developed an effort based
+on excitation to Rydberg states which was more sensitive
+than other methods.
+You may ask, why don't you ionize it with a laser?
+Well, the fact is, you can photoionize it with a laser.
+That's another alternative.
+But it takes much more laser power,
+because if you excite into the continuum,
+the matrix element is much smaller.
+And often, if you want to have 100% ionization probability
+to go into the continuum, you need such high laser power
+that you may get some background form off resonant ionization
+of other elements and such.
+So Rydberg atoms is really the smart way to go.
+You go to an almost unbound electron,
+and then it's just the electric field which causes
+the final act of ionization.
+I also want to briefly mention the famous experiments
+on Rydberg atoms by Herbert Walther and Serge Haroche
+and collaborators would not have been possible
+without field ionization.
+I'll give you this one reference,
+but I'm sure you'll find more in the actually very,
+very nicely written Nobel lecture of Serge Haroche.
+I just read it a few weeks ago, and it's
+a delight to read how he exposes the field.
+So they did QED experiments by having
+microwave transitions between atoms
+in two highly excited states.
+Let's say, with principal quantum number 50 and 51.
+So there is now conveniently in the microwave regime.
+Then those atoms are passed through a cavity,
+and in this cavity, single atoms interact with single photons.
+And they have done beautiful quantum non-demolition
+experiments of single photons and that's
+really wonderful state of the art experiments.
+But back to Rydberg atoms and field ionization.
+Eventually the read out of those experiments
+was, you prepare atoms homes in the state 50 or 51,
+and afterwards if they have absorbed or emitted a photon,
+they should be in a different state.
+So we're interested in a very high detection
+efficiency, which could distinguish between 50 and 51.
+And of course there is a way to distinguish that.
+And this is because of n to the 4.
+You first apply an electric field
+which can only field ionize 51, and then you
+allow the atoms to propagate into a slightly
+higher electric field, and then the 50s are ionized.
+So the standard experiment is that you
+pass those atoms between two field plates
+and by putting an angle between them that indicates
+the voltage is increasing.
+And then you have two little holes.
+You have some Channeltron particle detectors,
+and the first detector will detect the 51's,
+and the second detector will detect the lower lying states.
+So you can detect every atom with high probability,
+but also in a state selective way.
+
+So this way of doing state selective field ionization,
+based on the discussion we had earlier.
+This is the method of choice for experiments
+involving Rydberg atoms.

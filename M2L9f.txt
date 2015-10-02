@@ -1,0 +1,175 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L9f.txt
+#
+# Captions for 8.421x module
+#
+# This file has 165 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Step forward to the optical spectroscopy.
+You'll remember originally-- and this is why the Lamb Shift
+wasn't jumping into people's eye when they did spectroscopy
+of the Balmer Spectrum of hydrogen--
+you cannot resolve the structure,
+the Lamb Shift is there, but it's hidden in the envelope
+of the unresolved lines.
+And now the advent of lasers.
+And people immediately developed saturation spectroscopy.
+That's how most of our laboratories
+stabilized their lasers, using Doppler-free saturation
+spectroscopy.
+And when saturation spectroscopy was
+invented by Hansch and Shawlow, for the first time
+you can break through the Doppler [INAUDIBLE].
+And now you see the lines resolved.
+And here, I think for the first time,
+you see two peaks separated, and the splitting
+is the Lamb Shift, which until then, was only accessible
+for radio frequency methods.
+Of course, these were the first lasers, just pulse lasers.
+And you couldn't even think about precision.
+But then of course, using metrology,
+using frequency chains, people do precision measurements
+in the optical domain.
+And these are now papers in the '90s.
+Optical measurement on the Lamb Shift
+in the ground state, not only the excited state.
+Talking about the comparison with experiment and theory.
+So experimental is pushed to higher and higher precision,
+and suddenly there was a discrepancy.
+And it was a discrepancy in the 1 S Lamb Shift.
+In the 1 S state, the Lamb Shift is much bigger
+than in 2S state, because the electron interacts much more
+intimately with the origin where the Coulomb potential is
+strongest.
+And people found that the experiment didn't any longer
+agree with theory.
+But then the theorists had to check all their assumptions,
+and it was found that there's some two
+new binding corrections which were surprisingly large.
+Often, you make an estimate that those terms are small.
+But you say it's higher order, but you may not
+know the pre-factor.
+And here, something was surprisingly large,
+and by now you've proven the theory
+there was again, agreement between experiment and theory.
+It's getting now down to the kilohertz level.
+At least as a few years ago, this
+was sort of state of the art.
+Remember, the Lamb Shift is about 1,000 megacycles,
+1 gigahertz.
+And now the precision is in the single kilohertz.
+
+And as I pointed out, precision was
+reached by directing, measuring the frequency of lasers,
+frequency metrology.
+This was actually-- for historic interest,
+frequency metrology they use peak nodes
+between the laser used to measure the hydrogen
+line and some other lasers.
+So this is just a few years before comb generators,
+frequency combs completely changed things again.
+But they had already the precision of a direct frequency
+measurement.
+You can read about it when I paused it.
+It shows you what the error budget
+is in those measurements.
+This is the slide I borrowed from Ted Hansch.
+Optical Spectroscopy of Hydrogen.
+It just shows the advances in frequency metrology.
+It shows that how caesium clocks and optical spectroscopy-- how
+they have changed in precision.
+And eventually we are now past the time
+where optical spectroscopy is more
+accurate than microwave and radio frequency spectroscopy.
+Optical clocks are more accurate than the caesium frequency
+standards.
+And I'm sure in your lifetime you will experience
+a redefinition of the second, because the caesium clock is
+no longer accurate enough to compare with the most
+precise optical measurements.
+And I think there was a peak gap-- a change in slope here.
+In the old days, you measured the wavelengths of light
+by making a measurement of the wavelengths
+using maybe a grading, or interferometry.
+But when you now started to measure frequencies directly,
+then there was a change in slope,
+and major improvements in precision.
+And today, of course, the most precise measurements
+of laser frequencies is not through the wavelengths,
+directly count the number of cycles in a peak node,
+with an optical comb generator.
+So what can you do with ever-increasing precision?
+If you measure very, very accurately,
+an atomic line-- let's say the 1S 2S
+transition in hydrogen using 2 photon spectroscopy-- what you
+can do is you can measure it, and a few years later, you
+can measure it again.
+And now it becomes an interesting question
+if you have this precision.
+Will the result be the same as a function of time?
+If there were a small change, which there wasn't, you
+could only come to one conclusion,
+and this is fundamental constants in nature,
+change as a function of time.
+So at least precision of the metrology
+is now being used to test with a fundamental constants,
+or nearly constant as a function of time.
+Precision is even more improving.
+The latest in the development of the spectroscopy of hydrogen
+is what is called the size of the proton puzzle.
+In your homework assignment, you are actually
+calculating what is the correction due to transition
+frequencies in hydrogen?
+Because you don't have a proton field of a point particle,
+the proton has a finite size.
+Or vice versa.
+If you have sufficient prediction,
+if you have sufficient accuracy of the measurement,
+you can determine the size of the proton
+from the measured transition frequencies.
+And this was done.
+And in 2010 there was the big surprise
+that the size of the proton determined
+form hydrogen spectroscopy did not
+agree with scattering measurements
+where you scatter I think, electrons and protons
+to measure the proton size.
+So this is still a puzzle.
+It's called the proton radius puzzle,
+and it's not clear what is causing it.
+What happened is in 2010, that there
+was a big improvement in measuring
+the size of the proton, and this was
+done by replacing the electron with a muon, which
+is a heavy electron.
+But since the muon is so much heavier,
+the bore orbit of the muon, the negative particle
+going around the proton is much smaller.
+
+So therefore the-- Lamb Shift also--
+but also the correction due to the finite size of the proton
+is much, much larger, because there
+is much more overlay of the muonic wave
+function with the proton than from electron.
+So there was a huge improvement in the precision
+of the measurement of the proton size.
+And this has really lead to what is called the proton radius
+puzzle.
+And it's not sure if that is at the same level of the Lamb
+Shift, which gave rise just fundamental new physics.
+Maybe this is the discovery of a new Lamb Shift in 2010,
+and it changes our understanding of fundamental physics.
+But maybe it's something else.
+The answer is not there.
+At least this is 2010.
+A few years of checking the theory
+and checking the experiment has not removed the discrepancy.
+Rather to the contrary, it has hardened
+that there is some discrepancy which needs to be resolved.
+So this was just sort of a little shot of excursion,
+or a little bit of summary of spectroscopy of hydrogen
+over 80 years from precursors to the Lamb Shift,

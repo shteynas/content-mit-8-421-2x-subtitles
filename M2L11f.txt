@@ -1,0 +1,136 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L11f.txt
+#
+# Captions for 8.421x module
+#
+# This file has 126 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Atoms in oscillating electric fields.
+
+Of course, the next step is, and this
+is where we are working towards, we will in the next lectures
+develop a deeper understanding what happens
+when atoms interact with light.
+And oscillating electric fields is already
+pretty close to light.
+And I want to actually also show you
+that we capture already a lot of the phenomenon which happened
+with light except for a full understanding
+of spontaneous emission.
+So we pretty much, when we use an oscillating electric field,
+we allow the atom to interact with just one
+mode of the electromagnetic field, which is
+filled with a coherent state.
+And this is so classical that we don't even
+need field quantization.
+We just use a classical electric field.
+And this already gives us the interaction of atoms with light
+except for spontaneous emission, which
+involves all the other modes.
+So that's what we do later, but today we
+just do the same classical description
+of an atom in an oscillating electric field.
+And this is the theory of the AC Stark Effect.
+So all we do is application of Time Dependent Perturbation
+Theory.
+
+So our electric field is now time dependent,
+because the value epsilon polarization E hat,
+and it oscillates.
+Our perturbation Hamiltonian is exactly
+the same type of Hamiltonian that we
+had before for the DC Stark Effect,
+but now it's a time dependent one.
+And it will be useful to break up the oscillating
+term into E to the I omega T and E to the minus I omega T.
+I don't want to bore you with perturbation theory in quantum
+mechanics, because you've all seen it in 805 or 806.
+I just want to jump to the result.
+You find more details about it on the Wiki,
+but all you do is you parametrize your E function,
+you expand it into eigenstates with aptitude AN,
+and then you put it into the Schrodinger equation
+and assume that for short to times
+the atom is in the ground state, the amplitude
+of the crown state is one and the amplitude of the excited
+state is infinitesimal that you can use the lowest auto
+perturbation.
+This immediately gives you the first order result
+for the amplitude in excited state K.
+It only comes about because your initial state, the ground
+state, is coupled by the matrix element to the excited state.
+It's linear in applied electric field.
+So what you do is you have to Schrodinger equation
+and you indicated from time 0 to time one.
+And since you have into E to the I omega T and E
+to the minus I omega T, you get two time dependent terms.
+So what appears now is we have the frequencies omega
+N of the excited state.
+And now when the couple the excited state
+K to the ground state, what appears
+is the frequency difference between the two.
+It's pretty much the excitation gap.
+And we have a time dependent oscillation at omega.
+And then we have, of course, the same term where
+we flip the sign from omega.
+Let me write that more clearly.
+Where we flip the sign form omega to minus omega.
+So that's the second term.
+By integrating an exponential function with respect to time,
+we get an energy and frequency denominator, which is this one.
+So this is really just straight forward, most basic,
+clean [INAUDIBLE] application of perturbation theory.
+The only thing I want to discuss,
+because it's sometimes confuses people
+is that we integrate form times 0 to the finite time.
+And when you integrate, you get contributions
+from the upper indication limit and from the lower integration
+limit.
+And this contribution at the lower integration limit
+is actually a transient.
+It is at the frequency.
+
+It doesn't depend on omega, so it's
+a big node between the ground and excited state.
+I could say it frequency omega key,
+but then it, it's too bad that with the ground state
+it's only called KG.
+And this is 2.
+If you switch on appropriation, it's
+like you suddenly switch on the type of harmonic oscillator.
+And do you have some leaning, you
+have a transient at the natural frequency
+of the harmonic oscillator.
+It has nothing to do with the drive,
+it's just a sudden onset.
+So, like any transition, we haven't included damping here.
+We don't have spontaneous admission.
+Everything is undamped.
+But eventually all of those transients
+will damp out with time.
+And, as we should have known also from the beginning,
+when we drive a system, and we switch on a perturbation
+to think about an harmonic oscillator,
+you have a response at the harmonic oscillator frequency,
+which is always transient in nature,
+and then you have a response at the drive frequency.
+And we are interested, of course,
+only in the driven response.
+
+The driven response is at frequency plus minus omega.
+That's how we drive it.
+But now I have to be careful since I'm looking at the end
+amplitude and I factor out the time dependence of ray
+function, the time dependence of the eigenstates,
+I'm now looking for drive terms in this expression
+for the amplitude, which drive at frequency omega,
+but modified by the frequency of the count state.
+But anyway, what I mean is the relevant term is the one which
+depends on omega and in the following discussion,
+I simply top the minus one, because it's a transient if you
+would switch on your time dependent electric field
+in a smoother way, this term would disappear.

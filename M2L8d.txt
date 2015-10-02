@@ -1,0 +1,233 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L8d.txt
+#
+# Captions for 8.421x module
+#
+# This file has 223 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+We are now discussing the most important effect
+due to the hyperfine structure.
+And this is the effect that the nucleus has a magnetic moment,
+and this magnetic moment couples to the magnetic field.
+Even if you don't apply an external magnetic field--
+we talked about that on Wednesday-- there
+is an internal magnetic field created
+by the electron with total angular momentum J.
+So this is so to speak, the Zeeman Hamiltonian
+of the nucleus in the magnetic field created by the electron.
+And I will show you quickly in a simple derivation,
+what the result of that is, but before I
+do that, I also want to point out
+that there's an alternative.
+Right now, we said the nucleus experiences the magnetic field
+created by the electron, but we can also
+take the other approach.
+The nucleus creates a vector potential
+because of its magnetic moment, and the electron
+which goes around the nucleus is not only
+feeling the Coulomb potential, but also feeling a vector
+potential.
+And, of course, both different perspectives,
+whether the electron moves in the magnetic field
+of the nucleus or the nucleus experiences
+the magnetic field of the electron,
+both treatments have to agree.
+I follow the more standard treatment
+but the alternative treatment where the electron moves
+in this electric and magnetic potential of the nucleus
+is fully elaborated on the atomic physics Wiki.
+So alternatively, electron moves in the potential
+of the nucleus, which is the Coulomb potential.
+We've discussed that, but then there is also
+vector potential, created by the magnetic moment of the nucleus.
+So you simply assume this is a potentially created
+with a nucleus, and then you just
+solve Schrodinger's equation.
+And this support is carried out on the Wiki.
+However, since it's a little bit more standard
+and there's an easy semi-classical derivation,
+let me now discuss this one, because what
+I like about it is it addresses one intuitive quantity,
+namely the effect that there is an internal magnetic field.
+We're not just solving the Schrodinger equation
+for the whole system.
+We're really estimating what is the magnetic field which
+the electron creates at the position of the nucleus.
+So let's now do a semi-classical derivation
+of this internal magnetic field.
+And I would immediately tell you this derivation
+agrees quantitatively with a fully
+quantum mechanical treatment.
+So as often in these semi-classical derivations,
+we have to separate two parts.
+There are two ways how the electron
+creates a magnetic field at the nucleus.
+One is due to its orbital motion.
+The electron is a ring current and creates a magnetic field.
+But then the electron has magnetic moment
+due to its spin.
+This spin part is simply the potential of a magnetic dipole.
+A unit vector where the magnetic dipole moment of the electron
+is proportional to its spin, with a g-factor.
+However-- and you can find that in all textbooks
+on classical electrodynamics-- but there is one important term
+which we have to add here which is also part of classical E&M,
+and this is the delta function contribution.
+You've probably seen it.
+You'll find it in Jackson.
+If you haven't, the model is that you
+can assume that a magnetic moment is created by a ring
+current and the ring current creates a magnetic moment
+and you have the dipole potentially
+due to the magnetic moment.
+However, if you have a ring current,
+you can also ask what is the magnetic field
+inside the current loop, and then
+eventually do the transition where you allow
+the current loop to go to zero.
+That's how you make a point model of a magnetic dipole,
+but what remains is sort of, as a delta function,
+the location inside the loop.
+I'm emphasizing it because it will be eventually
+the delta function contribution, which
+is important for s electrons.
+And therefore, it is this contribution
+which is the dominant effect in many situations.
+
+OK.
+So this is a magnetic field created.
+It's a classical expression, but it's
+valid in quantum mechanics, the expression
+for the magnetic field created by the spin.
+The second contribution is the orbital contribution.
+And for that semi-classical, we just use Biot-Savart.
+
+So Biot-Savart is usually the three dimensional integer
+over the current density.
+The volume integral or you can rewrite it as the current I d r
+cos r over r cubed.
+And eventually, if you now put in the electron charge
+distribution, velocity cos r.
+Well, velocity cos r means we get-- and that's what we want,
+the orbital angular momentum.
+The 1 over r cubed term means we have
+to calculate an expectation value of the wave function
+which is 1 over r cubed.
+And the prefactor leads us-- it's
+nothing else-- than 2 times the Bohr magneton.
+
+So with those two terms, we can now obtain our final expression
+for the total magnetic field generated
+by the electron at the origin.
+And for that, I use the g-factor of 2
+as it comes out of Dirac theory.
+So now we have the total magnetic field.
+We had this contribution L over r cubed.
+If you inspect the dipole potential of this spin,
+it has a contribution s over r cubed,
+then it has this second contribution
+to the dipole potential.
+And finally, most importantly for the following discussion,
+the delta function contribution which I discussed earlier.
+
+If you have an s state, these first terms are 0, for L=0.
+Because these are sort of terms which
+have a dipole potential where positive and negative
+contributions cancel out when you
+do a spherical average and an s electron
+performs a spherical average.
+So it is 0 for L=0 due to the spherical average,
+whereas the second part-- it would be 0 for L non-equals
+to 0, because the probability for a non s electron to be
+at the nucleus is 0.
+So pretty much, this describes that.
+So this describes the hyperfine structure.
+Well, it describes the magnetic field created by the electron
+and now we have to do the usual projection
+in the following way: that the hyperfine structure is
+the Zeeman Hamiltonian of the internal magnetic field
+with a magnetic moment of the nucleus.
+And the magnetic moment of the nucleus
+is proportional to the angular momentum of the nucleus.
+Sort of this argument even if it were not proportionally,
+it would rapidly process and eventually be projected,
+and the only direction which survives
+is the direction of the angular momentum.
+And similarly, the magnetic field--
+you have a contribution of s the L, but s
+and L rapidly process around the resultant angle on momentum J,
+and therefore as a result, the internal magnetic field must
+be, can only be, parallel to the angular momentum J.
+If you do a fully quantum treatment,
+it comes out immediately.
+But if you do it semi-classically,
+you calculate a magnetic field, you sort of
+have to fall in this argument that you always
+project on the axis of angular momentum.
+And that means that the hyperfine interaction will
+be the Hamiltonian [INAUDIBLE] or the operator will be the dot
+product of our I dot J. For fine structure,
+we had L dot S. For hyperfine structure, we have I dot J.
+This is always how we couple angular momentum,
+with a dot product.
+The hyperfine constant goes by the letter, a.
+And since, historically, a is measured
+in frequency units in hertz, I have
+to put in h Planck's quantum.
+No, it's not h bar.
+For historical reasons, it's h.
+Yes?
+Are I and J dimensionless, or will they
+carry units in each bar?
+
+Here, they are dimensionless.
+Thanks for the question.
+Because h is in frequency units.
+It's in hertz and if you multiply with h,
+we have an energy.
+So therefore, I and J measure the angular momentum
+in unit of h bar.
+So it's not in that sense, it's a normalized angular momentum
+operator.
+The quantum numbers of I and J are not one half or one h bar.
+It's just one half or one.
+Other questions?
+
+OK.
+I can now take the expression with L and s and s dot r,
+and evaluate it further, but I feel
+I'm not providing any insight and you
+can read about it on the Wiki.
+So for non-s states, how to simplify this expression,
+and get the final textbook result, I refer to the Wiki.
+I want to discuss the most important part, namely
+for s electrons, because hydrogen, all the alkalis,
+have an s ground state.
+So in that case, all we have to consider
+is the delta function part, and if you
+project the magnetic field onto the angular momentum axis,
+we get the probability of the s electron to be at the origin.
+And therefore, for s states, the hyperfine constant
+is-- oh, I forgot one thing.
+We have to parametrize the magnetic moment of the nucleus.
+And that is done by using a nuclear magneton.
+It's the same as the Bohr magnetron
+where you have replaced the electron mass by the proton
+mass.
+And you have the nuclear g-factor.
+Just as a reminder, the g-factor of the proton is 5.6.
+The g-factor of the neutron is minus 3.8,
+so the g-factor has nothing to do--
+it's not even close to the factor 2,
+which we obtained in the Dirac equation for the electron.
+That just shows that the nucleons, protons and neutrons
+are more complicated.
+Well, they have quarks inside.
+They have a complicated internal structure.
+So therefore, the hyperfine constant involves now
+the -factor of the nucleus, the product of the nuclei magneton
+with the Bohr magneton And for hydrogen, this

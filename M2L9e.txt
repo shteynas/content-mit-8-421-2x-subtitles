@@ -1,0 +1,69 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L9e.txt
+#
+# Captions for 8.421x module
+#
+# This file has 59 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+For number of years, people pursued
+measurements of the Lamb Shift with higher and higher
+accuracy.
+I just like the last sentence here.
+This is now the next paper by Willis Lamb and Retherford.
+And they are sort of saying that they wanted to measure the Lamb
+Shift with higher precision, but then they
+said the program was large and encountered
+unexpected difficulties which required much more time
+to surmount.
+As a result, the paper promised two years ago was delayed.
+I think this applies to many, many papers to be written,
+but here the authors even say that up front it
+took us two years longer to do the research than they
+initially anticipated.
+You see now the growing accuracy.
+We have the Lamb Shift, which was
+on the order of thousand megacycles, one gigahertz,
+and the precision is now in the hundred kilohertz range.
+This was the technology of the original discovery.
+Then there was a next generation of experiments
+on the Lamb Shift using separated oscillatory fields,
+Ramsey techniques.
+We'll talk about that later in the course.
+And with these techniques, the accuracy of the Lamb Shift
+is now in the one digit further in the 10 kilohertz regime.
+There is a nice feature that we'll also discuss it later
+that it was possible to obtain linewidths
+which is sub natural.
+We talk about it that it's possible to do spectroscopy
+on unstable states, which provides linewidths, never
+within the natural linewidths.
+If you want to get one sentence, but as an appetizer,
+you just look at the atoms, which have not
+decayed for a long time.
+And if you play some tricks you can then
+get linewidths, which is several the lifetime, which corresponds
+to several of lifetimes, and not just to the one [INAUDIBLE]
+lifetime.
+But there are some conditions that have to be met,
+and those authors used it here to advantage
+to narrow the line for the measurement of the Lamb Shift.
+Yes?
+So the abstract says that the result is not
+in good agreement with theory.
+What was the theoretical-- how far had it--
+I don't know.
+I don't know it at this point.
+I will later give you comparison with theory
+which is highly accurate.
+So this was more some-- I assume at this point-- I'm not sure
+if it was an experimental difficulty.
+I didn't trace down what they meant in the abstract.
+
+So these are the same authors, just a few years later.
+The agreement between theory and experiment
+is at the 2 standard deviation.
+So I think this probably disappeared.
+And I don't know if it was a fault of theory or experiment.

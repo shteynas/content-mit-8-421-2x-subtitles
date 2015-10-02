@@ -1,0 +1,59 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L9m.txt
+#
+# Captions for 8.421x module
+#
+# This file has 49 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I have discussed for you the two limiting cases.
+The weak field and the strong field case.
+But you can solve it for also immediate fields.
+You simply have to do an exact diagonalization
+of the Hamiltonian, which involves
+the hyperfine coupling.
+And the hyperfine coupling, if you want,
+can be diagonalized as eigenfunctions
+where the quantum numbers are J, I,
+couple to F, and the projection of F,
+the magnetic quantum number is F.
+But now we have the Zeeman Hamiltonian where everything
+is projected on the z-axis.
+So we have mJ and mI.
+And this Zeeman term can be diagonalized
+in a different basis, which is the basis of J, I, mJ, and mI.
+So I've shown you the weak field limit, where we simply
+assumed those quantum numbers and calculated this term
+perturbatively.
+And I've shown you the high field limit where
+we use those quantum numbers and calculated this field
+perturbatively.
+But in general, you just have to write down
+the matrix element of this Hamiltonian in whatever basis
+you chose.
+You can use the weak field basis.
+This term is diagonal, this is off diagonal.
+Or you can use the strong field basis,
+where this is the diagonal, this is off diagonal,
+and simply diagonalize your Hamiltonian.
+Find the wave function, find the eigenenergies.
+And since for cases where S is equals 1/2, it's only a 2
+by 2 matrix, which has to be diagonalized.
+You can do it analytically, and this
+leads to the famous [INAUDIBLE] formula.
+So the solution is analytic for 3 equals 1/2.
+And it's a beautiful example which you should solve
+in your homework assignment.
+Let me just sketch the solution.
+When you go from the weak field from the strong field limit,
+the z component of the total angular momentum in one case
+is mF.
+In the other case, it is mI plus mJ.
+So when you go from one limit to the next,
+you connect only states where mI plus mJ equals mF.
+
+So the structure of the general solution
+can be explained by repulsion and anti-crossings

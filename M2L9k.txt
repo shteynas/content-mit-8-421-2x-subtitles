@@ -1,0 +1,92 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L9k.txt
+#
+# Captions for 8.421x module
+#
+# This file has 82 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let's immediately go to the high field limit.
+The high field limit means that the electronic Zeeman
+energy is much larger than the hyperfine coupling.
+And that means when we treat the problem,
+we first take care of the big contributions
+to the Hamiltonian.
+We try to solve it, if possible, exactly.
+And then the weaker term can be added perturbatively.
+So now we are in a situation that the Zeeman coupling
+is the big term, and the hyperfine coupling
+is the weaker term.
+So in other words, what comes first now is the Zeeman energy.
+So we are not coupling the electronic angular momentum
+the nuclear angular momentum to total angular momentum,
+because this coupling is weak.
+We'd rather say that the electronic
+and the nuclear angular momentum aligned
+with the magnetic field.
+We quantized along the direction of the magnetic field.
+And then later we add the hyperfine coupling
+in a perturbative way.
+So B0 is now quantizes J along the direction
+of the magnetic field.
+And therefore we use, as a good quantum number
+mJ, the projection of J on the external magnetic field axis.
+So this takes care of J. J and mJ are good quantum numbers.
+What about I?
+
+Dos the nuclear angular momentum and the nuclear magnetic moment
+strongly couple to the magnetic field?
+Well, the answer is yes, but the argument
+is a little bit more subtle.
+The direct coupling of the magnetic moment
+of the nucleus to the magnetic field maybe weak.
+So that may be smaller than the hyperfine interaction.
+
+So then you would say, naively well, the nuclear angular
+momentum should not couple to the magnetic field.
+It should first be couple through
+the hyperfine interaction.
+And the hyperfine interaction is I dot J.
+However, J, which coupled strongly to the magnetic field,
+because it couples through the Bohr magneton,
+has already been coupled to the magnetic field.
+So therefore the hyperfine interaction, which is I
+dot J. is now modified, because J couples
+to the magnetic field, which means we have to project it
+onto the magnetic field axis.
+So therefore the nucleus now experiences
+an electronic magnetic moment, and electronic angular
+momentum, which has really been coupled to the z-axis.
+And therefore, the hyperfine interaction
+is also coupling the nuclear angular momentum to the z-axis.
+
+So therefore the result is that it is now
+this indirect coupling.
+You couple the electron angular momentum to the z-axis,
+and the electron angular momentum
+couples the nuclear angular momentum to the z-axis.
+So we are now this quantizes the nuclear angular momentum
+along the z-axis, which means that n sub I
+becomes a good quantum number.
+Anyway, maybe the result is even simpler than the explanation.
+Our Zeeman Hamiltonian now simply means
+that we have an external magnetic field,
+and the electron couples to the magnetic field.
+So what matters is the projection mJ.
+The same happens for the nuclear magnetic moment.
+And now we have to add the hyperfine interaction, which
+was originally I dot J. But since I and J are projected
+on the z-axis, what is really left over only mI and mJ.
+I could have gotten this expression immediately
+by just telling you J and I no longer couple to F.
+This is destroyed by a strong, magnetic field.
+And the good quantum numbers are J and I, and their projection,
+mJ and mI.
+And then just writing down the expectation value
+of the Hamiltonian in these spaces
+would have immediately given me this result.
+But I wanted to give you sort of the Mormon
+mechanistic explanation what's going

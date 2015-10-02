@@ -1,0 +1,127 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L7e.txt
+#
+# Captions for 8.421x module
+#
+# This file has 117 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+We can now proceed form electronic energies, which
+were on the order of a root back, or remember atomic units,
+fine-structure constant squared times
+rest mass of the electron.
+So we've taken care of those energies.
+And now we want to take care of smaller corrections.
+And what we discuss next is the fine-structure
+and the lamb shift.
+So this is now the title of our next chapter, Fine-Structure
+and Lamb Shift.
+The fine-structure energies are alpha squared times smaller
+than the root back.
+So are on the order of alpha to the 4 mc squared.
+And well, if I write that as alpha square root back,
+which is the same.
+But this explains to you why alpha is called
+the fine-structure constant.
+People had learned about the hydrogen spectrum,
+Bohr's model and all that.
+And then they found r corrections.
+And those r corrections were on a scale
+alpha squared times smaller.
+And the constant which appears here,
+alpha, was called the fine-structure constant
+because it described the structure
+of the fine-structure corrections
+and the fine-structure splittings.
+Of course, if you want, you can make
+the fine-structure constant already
+appear for electronic energies, but this simply
+reflects that I have used the rest mass of the electron
+as a reference energy, which unless you
+want to discuss fundamental units, doesn't make any sense.
+Because c, the speed of light, does not
+appear in the electronic structure as we
+discussed earlier.
+So therefore, the fine-structure constant
+does enter the picture only when we now
+discuss fine-structure corrections,
+fine-structure splittings.
+The Lamb shift, which we will then discuss,
+is even higher order.
+It's alpha to the fifth.
+
+But just to tell you, the Lamb shift
+is on the order of a gigahertz.
+And you know that standard precision in all of your labs
+is now megahertz or better, so the Lamb shift,
+so it's alpha to the fifth, is a big effect
+on this scale of how we understand and probe
+the structure of atoms today.
+
+So let's talk about the fine-structure.
+
+You will actually find a complete discussion
+of the fine-structure in several textbooks
+on quantum mechanics-- Griffiths, Tannoudji,
+Gasiorowicz.
+What I want to do here is to have a careful discussion
+of the physical origin and provide
+a clear understanding what is responsible
+for the fine-structure.
+
+So if you just want to get an accurate result,
+there's only one thing you have to do, sort the Dirac equation.
+The solution of the Dirac equation for the hydrogen atom
+gives us the electronic structure,
+the same as comes out of the Bohr model,
+but now including the fine-structure.
+So it's nice.
+It just comes out.
+You don't have to put in the spin of the electron by hand.
+It comes out automatically.
+But it also comes out as a result,
+and you don't really understand what
+is the origin of that, because you've just treated everything
+fully relativistically.
+So what I want to show you here is
+I want to show you that we can distinguish
+three contributions.
+There are three physical effects which
+all come in at the level alpha to the 4 mc square.
+One is relativistic corrections to the kinetic energy.
+The second one is spin orbit coupling.
+And then there is a third one, which
+goes by the name Darwin term.
+And we can get this physical insight
+and obtain those three terms separately
+when we use what is called the Pauli
+approximate to the Dirac equation.
+If you do this so-called Pauli approximation
+to the Dirac equation, you simply
+have to expend the Dirac equation in powers of v over c.
+And then you get the Schrodinger equation plus correction terms.
+And what you obtain then is a Hamiltonian,
+which is the rest energy-- which is
+constant-- the non-relativistic kinetic energy, the Coulomb
+energy.
+But then we have three more terms,
+and these are the three contributions
+to the fine-structure.
+One is-- kinetic energy is p square,
+but now there is a higher order relativistic contribution,
+p to the 4.
+Then, there is a term, spin orbit coupling term.
+
+And then there is the third term which we will
+identify as the Darwin term.
+Laplace operator e square over r.
+So we have a kinetic energy correction.
+We have a spin orbit correction.
+And we have a Darwin term.
+And what we want to do in the next 45 minutes or so is
+we want to look at each of those.
+
+Any questions?

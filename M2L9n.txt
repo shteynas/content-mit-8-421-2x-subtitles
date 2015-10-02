@@ -1,0 +1,83 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L9n.txt
+#
+# Captions for 8.421x module
+#
+# This file has 73 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So let me show you the weak field, the strong field limit,
+and do a graphic interpolation.
+What I've chosen as an example is the case
+of a dublet S 1/2 ground state and a nuclear angular
+momentum of 3/2.
+And examples for that is sodium and rubidium 87.
+So it's moved up by 3/4, the other state
+is moved down by 5/4.
+And since F equals 1, has three components,
+F equals 2 has 5 components, the center of mass is preserved.
+We have calculated the g-factor for those states.
+And the g-factor tells us what is this structure
+in weak magnetic fields.
+So this is the weak magnetic field solution.
+At high magnetic field-- well you
+know what you have at high magnetic field.
+You have a single electron, which
+can be spin up and spin down.
+So if you have an electron which will spin up and spin down,
+it pretty much is linear Zeeman shift force spin down
+and linear Zeeman shift force spin up.
+So therefore, the energy levels will evolve like this.
+
+So another words, we have 8 levels.
+We have the structure at weak magnetic fields.
+At high magnetic fields of course, we also have 8 levels,
+but they pretty much group into spin up of the electrons,
+spin down of the electrons.
+And then for this, a small hyperfine structure
+on top of it, because now the nuclear spin
+can have various orientations.
+And I equals 3/2 state has four orientations, so
+therefore electrons spin up, and electrons spin down.
+We obtain 4 sub levels.
+And if you ask how did I connect it?
+What I've connected, the quantum number
+are such that what is here, the states are labeled
+by mI and mS. And here they're labeled by mF,
+but mF equals mI plus mS. So this
+is how you correlate the states in the high field case,
+to the states in the low field case.
+Here, we have mJ equals 1/2.
+Here we have the electron spin minus 1/2.
+
+These 4 levels are now four different quantum numbers
+for the nuclear angular momentum,
+which are minus 3/2, minus 1/2, plus 1/2, and plus 3/2.
+And this is what I meant by avoided crossing.
+You at some point I think, draw it yourself
+put the quantum numbers on it.
+Look at it, and you learn a lot by doing it.
+But what you realize also when you
+solve the Hamiltonian, that this structure can
+be explained the following way.
+You will always find you have states which are stretched,
+where there is only one state which has the maximum angular
+momentum inside all the stretched states.
+And then the other states you always
+will find two states which have the same total mF.
+And those two states avoid each other.
+So you can say, just pointing on two states,
+those two states, let's just assume the have same mF,
+they undergo an avoided crossing.
+And that's exactly what you get out
+of the diagonalization of a 2 by 2 matrix.
+So this whole diagram can be understood
+by you have stretched states which form a 1 by 1 matrix.
+There is no recoupling taking place.
+And then you have three pairs of states.
+You have three pairs of states which form 2 by 2 matrix.
+And in each pair, if you would now focus on it,
+you really see the avoided crossing, typical for a 2

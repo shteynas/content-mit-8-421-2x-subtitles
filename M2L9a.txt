@@ -1,0 +1,57 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L9a.txt
+#
+# Captions for 8.421x module
+#
+# This file has 47 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Last class we talked about isotope shifts,
+and there was the question, how big are those isotopes for some
+of your favorite atoms?
+And I just looked up some information on lithium,
+which is a light atom.
+And this paper here shows calculations
+compared with experiments.
+The isotope shift will give from lithium 6 to lithium 7,
+due the mass, lithium 6 to lithium 7
+is about 10 gigahertz.
+The volume effect is only 2 megahertz.
+1,000 times smaller.
+However, the precision of experiments
+is such that if you find an isotope shift,
+the mass effect can be exactly calculated
+from the atomic masses.
+You can still get information about the size
+of the atomic nucleus out of it.
+So this is the example of a light atom.
+10 gigahertz mass effect, 2 megahertz volume effect.
+
+And here is the rubidium atom.
+The isotope shift of the D1 line between 85 and 87
+is 77 megahertz only.
+The mass shift is 56 megahertz.
+And the remainder is mainly the volume effect.
+There's a specific mass effect due to electronic correlations
+if you [INAUDIBLE] electrons, which I think is small here,
+but I don't want to discuss it.
+So we can now compare the mass effect
+in rubidium versus lithium.
+First of all, a shift compared to infinite mass.
+The reduced mass effect is much bigger in lithium.
+It's 20 times bigger in lithium than rubidium.
+However, when you go from lithium 6 to lithium 7,
+the mass changes by 15%.
+So the delta m over m is also much larger for lithium
+than rubidium.
+And if you add those two factors,
+you find that the mass effect is 200 times larger in lithium.
+10 gigahertz versus 50 megahertz.
+And the nuclear volume effect is 2 megahertz for lithium,
+20 megahertz for rubidium.
+So that sets the scale.
+
+Any question about that?

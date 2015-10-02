@@ -1,0 +1,40 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L8e.txt
+#
+# Captions for 8.421x module
+#
+# This file has 30 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So this is hydrogen, and this h is now the Hamiltonian.
+So the hyperfine coupling Hamiltonian, which is I
+dot J, by using the expression for the total angular
+momentum, I plus J. And then we square it.
+When you evaluate the square, you get on the right insight
+an expression for I dot J. So I dot
+J is nothing else than 1/2 F square, minus I square,
+minus J square.
+And therefore, for hydrogen, one where I, J, and S are all 1/2--
+the proton has spin 1/2, the electron
+has spin 1/2, that's it.
+You have only two values or the resultant total angular
+momentum.
+1/2 and 1/2 can add up to 1 or 0.
+And now the hyperfine splitting is into F equals 1,
+and F equals 0 state.
+And one thing to remember is if you inspect the above formula
+wit the quantum numbers, you find immediately
+that compared to the degenerate line
+without hyperfine splitting-- so what comes out
+of the Dirac equation, the splitting is 1/4 and 3/4
+of the hyperfine constant.
+Since F equals 1 has a multiplicity of three,
+two MF quantum numbers plus minus 1 and 0, the rule
+that the center of mass, of this level does not change,
+due to hyperfine splitting.
+So the center of mass of hyperfine states
+is not changing.
+So we introduce a level splitting,

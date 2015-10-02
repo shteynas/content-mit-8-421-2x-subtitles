@@ -1,0 +1,30 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L8h_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 21 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+OK.
+So we have discussed those fundamental symmetries,
+but now I want to discuss something else related to it.
+Let's assume you have a nucleus.
+Is there a minimum requirement for the nucleus,
+for the angular momentum of the nucleus,
+in order to have a magnetic dipole,
+or to have an electric quadrupole.
+So let's formulate it as a clicker question.
+So here let's assume A is possible for any nucleus,
+no matter what the angular momentum is.
+Here we put in one half, or larger than one.
+And for the electric quadrupole we have the same choices.
+So you should decide, if I tell you
+a nucleus has a magnetic dipole, does
+that imply that there is a minimum amount of angular
+momentum of the nucleus there.
+And then we repeat the same question
+for the electric quadrupole.

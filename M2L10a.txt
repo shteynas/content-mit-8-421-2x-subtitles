@@ -1,0 +1,153 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L10a.txt
+#
+# Captions for 8.421x module
+#
+# This file has 143 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I want to give you sort of an-- summary
+that you see the bigger picture.
+That you see beyond the details.
+That what I actually taught you about atoms in magnetic field
+is some-- you can see-- paradigmatic example of quantum
+physics.
+What happens if you have two different terms in Hamiltonian
+and you have to interpolate between one and the other.
+Let's summarize as follows.
+What we have is-- we have Hamiltonian
+and it has one part.
+The hyperfine direction which depends on I dot J.
+And then it has an external magnetic field part.
+And what happens to the magnetic field which we assume,
+is in the J direction-- in the Z direction,
+are the Z components of the magnetic moment.
+And the Z component of the magnetic moment
+are proportional to the MJ, or MI quantum number.
+To the magnetic quantum number of the atom and the nucleus.
+So in a weak field-- in a weak field
+it is the hyperfine structure which dominates.
+So in a weak field we first solve
+for the hyperfine structure.
+And then we use the eigenfunction
+of the hyperfine structure.
+And the eigenfunction of the hyperfine structure
+have the quantum number F where J and I have coupled to F.
+And then we treat the magnetic Zeeman Hamiltonian
+perturbatively and that led us to the formulation of the Lande
+g -factor gF.
+The other case is the strong field case where
+the magnetic field dominates.
+Then we say-- OK.
+Then we simply solve for the hyperfine structure
+in the magnetic field.
+I know it's one of those words in quantum physics,
+or in physics, or maybe even in life.
+First things first.
+You should first take care of the big things,
+and this is now the magnetic field.
+And since the magnetic field Hamiltonian
+is diagonalized when we have eigenfunctions where MJ and MI
+are good quantum numbers.
+This is sort of-- if you ignore the hyperfine coupling,
+this is the exact [INAUDIBLE] of the Zeeman term.
+And then in perturbation theory we
+look for the hyperfine coupling.
+And well we do perturbation theory
+in eigenfunctions with MI and MJ.
+And that means if the I dot J term it is only the component
+MI MJ which remains.
+So I've given you those two cases.
+Now what you should also learn here in this example
+is the language which we use.
+And sometimes I would say the language can be more
+confusing than the equations.
+What we see here is we see that the angular
+momentum of the electron and of the nucleus
+are coupled to the magnetic field access.
+They are quantized.
+The approximate eigenstates are those
+which have a specific quantum number in the Z direction
+because a magnetic field points to the Z direction.
+So we're saying I and J are strongly coupled to the Z-axis
+by the magnetic field.
+And then we treat to the coupling of I
+and J with each other in perturbation theory.
+Whereas, in the previous case, we
+said I and J strongly couple.
+When I and J strongly couple, F becomes a good quantum number.
+And that means I and J both precess
+around the axis of the total angular momentum, F.
+And therefore, we say I and J couple to F.
+And then we solve the coupling for this coupling of F
+to the magnetic field in the second step.
+I hope you sort of see that there's sort of two
+limiting cases we take.
+We can exactly diagonalize one term
+and then we perturbatively add on the result
+for the second term.
+Of course in the age of computers
+I could have simply written down for you an Hamiltonian
+and say, well, it has to be-- it has
+to be numerically diagonalized, but I discussed instead
+what are two limiting cases.
+This discussion now allows me to discuss
+what happens when we go to even stronger fields.
+Well when we go to even stronger fields then
+we may have fields which are even
+stronger than the fine structure coupling.
+The coupling of the orbital angular
+momentum of the electron, and the spin angular momentum to J.
+And well without even any deviation, which is obvious,
+you know what happens now is that each component which
+provides magnetic moment.
+The spin, the orbital angular momentum, and the nucleus.
+The dominant term for each of them
+is the coupling to the magnetic field.
+So in strong magnetic fields these are the eigenstates.
+The eigenstates are labeled by MI, ML, MS.
+So we've taken care of the strong copying term.
+And now, in addition, we are now treating
+in perturbation theory.
+Some fine structure coupling, but the quantum numbers
+are already distributed, ML MS. There
+is a coupling between MI MS and a coupling between MI and ML.
+
+So this is sort of the limiting cases.
+But as a generalization of quantum mechanics,
+I thought that this was a nice example for an Hamiltonian,
+where we have different scalar products like B times S, B dot
+L, S dot L, I dot J. The question is, how do we
+take care of those different parts
+because they do not commute.
+Of course feel this would you say I simply diagonalize it
+and that's it?
+But if you want to develop intuition,
+then you have to discuss the limiting cases.
+And in particular the approach which
+allows an intuitive understanding
+is first things first.
+And between we first treat the stronger terms and then
+the weaker terms.
+And we can do-- we can quantitatively
+derive and [INAUDIBLE] derive expressions, for instance,
+for the Lande g -factor in this vector model.
+This vector model says that-- assumes, so to speak,
+that a state which has an eigenfunction of MJ
+rapidly precesses around this axis.
+And this vector model actually allows
+you to do easy calculations without
+Clebsch-Gordan coefficient.
+So the concept of the vector model
+is rapid precession for transverse components
+and projecting of vectors onto the axis around which we
+have rapid precession.
+But this is simply a tool to do calculations
+without the explicit use of Clapeyron coefficients.
+
+OK so this is what I wanted to tell you
+about atoms in magnetic field.
+Any questions?

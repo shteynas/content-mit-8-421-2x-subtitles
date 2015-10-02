@@ -1,0 +1,15 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L10n_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 5 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Fine structure-- the fine structure affects only states
+with L equals zero, for a coupling term
+L dot S. Is this statement, the way how it is written,
+true or false?

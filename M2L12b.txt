@@ -1,0 +1,123 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L12b.txt
+#
+# Captions for 8.421x module
+#
+# This file has 113 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I mentioned that the oscillator strength is actually
+one way to parametrize a matrix element.
+We'll actually talk most of the lecture
+today about matrix element, but I
+come to that in a few minutes.
+For me, the matrix element is nothing what you ever
+want to think about.
+Sure, it is a dimension of the [INAUDIBLE],
+but you don't even think in terms of length scale.
+There are two ways how you're going to use a matrix element.
+One is the matrix element squared times
+some other factor gives you the spontaneous line
+widths, and actual line widths, and that's
+a number you should know about your favorite atoms.
+Or another way to parametrize matrix element
+is by this dimensionless number, which is called the oscillator
+strength.
+And that's, of course, also related
+to semi-classical physics, and I mentioned
+that in the last class-- that the oscillator strength allows
+us to connect the quantum mechanical treatment of an atom
+to the response of a classical harmonic oscillator
+with a charge to an external electric field.
+So I use this expression that was the end of last class.
+I used this expression for the matrix element
+in terms of the oscillator strengths
+to give you a nice relationship for strong transition,
+as in the alkali d-lines where the oscillator
+strength is close to 1.
+You see that the matrix element is 1 over square root 2 times
+the geometric mean of the Compton
+wavelengths of the electron and the wavelengths
+of the transition.
+So that's actually important for the dipole approximation,
+because the Compton wavelength of the electron
+is very, very small, so therefore if the matrix element
+is the geometric mean of the two,
+that means that the matrix element is smaller
+than the optical wavelengths, and therefore the matrix
+element is the length scale-- development length scale--
+of the atom for transition.
+It is smaller than the optical wavelengths.
+And that means-- and we'll talk about it today--
+that in the expression e to the ikr, kr is really small.
+So we can do that dipole approximation.
+
+Now, I have a question for you.
+I didn't think clickers, because I don't have many questions
+to discuss today, but this almost--
+I mentioned that there is a sum rule for the oscillator
+strengths, and the sum rule limits it to 1,
+and if there's a really strong transition,
+it kind of exhausts the sum rule--
+and this is what I was talking about--
+but because the thought crossed my mind after last lecture,
+if I don't add something to it, you may actually use it
+as a proof, which would be wrong,
+that the matrix element cannot be larger than what is written
+on the right-hand side.
+On the other hand, we discussed in the context
+of Rydberg atoms, that Rydberg atoms
+can have huge matrix elements, matrix elements which
+they can really become huge.
+So how do you reconcile the fact that Rydberg atoms in large end
+states-- in states with large principle quantum numbers--
+can have huge matrix elements?
+How do you reconcile it with our discussion of oscillator
+strengths and sum rules?
+
+The answer is simple but subtle.
+
+So, is there the proof that peak matrix elements are not
+possible?
+Or if peak matrix elements-- huge matrix elements--
+are possible, what property of the oscillator strength
+did I not emphasize?
+Use logic.
+So first, are there atoms which have huge matrix elements?
+Yes.
+Rydberg atoms.
+So the left-hand side can be really huge.
+On the right-hand side, we have the wavelengths
+of the transition, which can be-- depends-- can get large.
+We have the Compton wavelengths, but then we
+have the oscillator strengths.
+And the oscillator strengths, the sum of all oscillator
+strengths is 1, but you have to be careful
+that not all oscillator strengths have to be positive.
+The definition of the oscillator strengths
+involves frequency from one state to the next,
+and depending whether you go up or down,
+the frequency has positive or negative sign.
+So therefore we have a sum rule for the ground state.
+All frequencies are positive, because you can only go up.
+So therefore the sum rule is only
+very useful for the ground state,
+because all oscillator strengths are positive,
+and if one oscillator strength is 1,
+you know no other transition has any strength at all.
+However, when you have an excited state that you
+find in oscillator strength which is 1,
+you could still have a lot of other strong transitions,
+but the oscillator strengths are positive and negative,
+and they compensate for each other in the sum rule.
+So just be careful about that.
+For the ground state, and this is what I've proven to you
+here, I think fairly rigorously, if you are in the ground state,
+the transition matrix element cannot be larger than
+the geometric mean of the reduced wavelengths
+and the Compton wavelengths, but for excited states you have
+to be careful, because the oscillator strength can
+[INAUDIBLE].

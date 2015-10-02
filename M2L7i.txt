@@ -1,0 +1,39 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L7i.txt
+#
+# Captions for 8.421x module
+#
+# This file has 29 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let us summarize.
+For the fine structure we have three different terms.
+And they all have a different signature.
+We have the relativistic kinetic energy correction.
+We have the spin-orbit coupling, and we have the Darwin term.
+We can now ask which term contributes for an s electron?
+Well, relative kinetic energy, of course.
+The Darwin term is only for s electrons.
+L-S does not contribute because an s electron has L equal zero.
+
+So if you go to p and d states, two states with finite angular
+momentum, then we get contribution of l s.
+We always get a relativistic kinetic energy contribution,
+but for finite angular momentum we don't have the Darwin term.
+And finally we can also classify those different contribution
+by asking what is the sign.
+Thus, so those corrections lower, or increase,
+the total energy.
+Well the Darwin term reduces the binding energy
+because it sort of takes a cusp away
+from the Coulomb interaction.
+The kinetic energy has the opposite sign.
+And spin-orbit coupling is L dot S,
+and S can be parallel or anti parallel to L.
+So, therefore, the spin-orbit in direction
+has plus or minus sign.
+
+Any questions about those three terms?

@@ -1,0 +1,214 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L9g.txt
+#
+# Captions for 8.421x module
+#
+# This file has 204 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So our next topic on our atoms in external magnetic fields,
+and the first chapter is on fine structure and the Lande'
+g-factor.
+But maybe more colloquially, atoms in external fields
+means that we add one more vector to the mix.
+In fine structure, we had orbital angular momentum
+and spin angular momentum, and we
+discussed how spin orbit coupling eventually couples
+L and S to J, and so on.
+But now we extend the game by one more vector, B,
+in external magnetic field.
+And it really becomes sort of a player in the game,
+because you know that if you have spin orbit coupling,
+we use the vector model that L and S couple and precess
+around the axis of J, the total angular momentum.
+So the game we played when we couple angular momentum is
+that angular momentum couple, they
+precess around an axis that involves new [? quantum ?]
+numbers and so on.
+But now, we can add a new axis, a quantization
+axis with a magnetic field, and then
+angular momentum will precess around the magnetic field.
+And there maybe actually a conflict,
+that for strong magnetic fields, the precession
+is different than at weak magnetic fields.
+And this is what we want to discuss now.
+So it is a game of L, S, and B. So what
+we are adding with magnetic fields is
+we are adding one term to the Hamilitonian, which
+is the zeeman term where we have an external magnetic field
+and we couple with a magnetic moment.
+So the one thing which makes it interesting
+when we discuss fine structure is the following,
+that we have actually two components to the angular
+momentum of the atom, which is the spin
+and the orbital angular momentum.
+And the two have different g-factors.
+So it's not that angular momentum,
+that the magnetic moment is just proportionate to the angular
+momentum, if the angular momentum comes from spin,
+it has a different weight than when the angular momentum comes
+from orbital angular momentum.
+And this is what people-- what we want to now understand.
+What is-- we want to understand, we
+want to determine what is the magnetic moment
+of the atom when the angular momentum has
+two different sources.
+And what we will find is we will find that there's
+a Lande' g-factor, which is sometimes 2, which is sometimes
+1, or which it sometimes has a value in between, depending
+how S and L are arranged with respect to each other.
+So our Hamilitonian is the Hamiltonian for the atom.
+We know that we have fine structure, we discuss that,
+which couples L and S. And now, we
+have the-- this I'm going to move--
+we have a magnetic moment due to the spin,
+and due to the orbital angular momentum,
+And that couples to the external magnetic field.
+So in other words, if you had no fine structure coupling,
+if S and L would not be coupled, the answer
+would be very simple.
+S just couples to the magnetic field,
+gives the zeeman effect, with a g-factor of 2,
+and L couples and gives it-- and couples to the magnetic field
+with a g-factor of 1.
+But now the two are coupled with respect to each other,
+and if you have a S coupling, the projection of S and L
+on the z-axis is not a good quantum number anymore.
+So therefore we have two different terms,
+which are diagonal in two different bases.
+And that's what we want to discuss.
+OK, so the g-factor of orbital angular momentum is 1,
+the g-factor of the spin is 2, or if you
+want to include the leading correction due to qed
+is the fine structure constant over 2p-- over 2pi.
+OK, we did discuss that the fine structure can
+be related as the zeeman energy of the spin
+in a magnetic field, which is created
+by the electron due to it's motion.
+Or if you take the frame of the electron,
+the electron sees the proton orbiting
+around that creates a magnetic field,
+and this magnetic field couples to this spin.
+So therefore, we can associate fine structure
+with an internal magnetic field inside the atom.
+
+And this internal magnetic field is rather large,
+it's on the order of one Tesla.
+So therefore, for our discussion of the Lande' g-factor
+and fine structure in applied magnetic fields,
+we will assume that we are in the weak field limit, where
+the fine structure term, the first term,
+is much larger than the zeeman term.
+Of course, if you use very strong magnets,
+you can go to the high field case,
+but I will discuss explicitly the transition from weak field
+to high field for hyper-fine structure.
+And the phenomenon for fine structure
+is completely analogous, it just happens at much higher fields.
+So anyway, I will discuss the high field case
+and the transition to the high field case
+with a much more relevant example
+of hyper-fine structure.
+And you can immediately apply to fine structure if you want.
+So if I wanted to calculate-- if i
+want to solve the problem-- calculate the Lande' g-factor,
+I could directly calculate just one matrix element
+and it would be done.
+So all I want to know is, what is the zeeman
+energy-- the zeeman energy divided by the magnetic field
+is a magnetic moment.
+And I can-- and since I assume that I'm in the weak field
+limit, I can simply use the quantum numbers S, L, and S
+and L coupled to J. And the magnetic quantum number is MJ.
+
+So by simply calculating this expectation value, I'm done,
+and I've solved the problem.
+
+However, I want to do the deviation using the vector
+model, because it provides some additional insight.
+So in the vector model, we have L and S. L and S
+coupled to J to the total angular momentum.
+So L-- and in the vector model, we
+assume that L and S rapidly precess around J,
+and therefore the only thing which matters
+are the projetion-- only the projections of L and S
+on the j-axis are important.
+So you can see if you look at the precession of L and S
+around J, the transverse components rapidly ever reach
+out and do not contribute.
+So therefore, our zeeman Hamilitonian
+has to be rewritten in the following way.
+The zeeman Hamiltonian was the magnetic moment
+times the external magnetic field, with a minus sign.
+But what matters are only-- what matters is the projection
+on the [? treaty ?] [? of ?] [? action ?] so we do
+the projection in this way.
+And also, in the end what matters
+is since the magnetic moments are aligned with J,
+it is now the scaler product [? rhythm ?]
+of the magnetic field with J.
+So in the vector model, we calculate the zeeman energies
+in that way.
+But just to mention that if you don't like the vector
+model and the assumption of rapid precession,
+just take this matrix element, it's exactly the same.
+In other words, I give you an intuitive picture
+what is inside those matrix elements.
+OK, so let's evaluate that.
+Let me factor out the poor [? magnetron ?]
+and we have J squared taking 1 of each bracket.
+And now, the magnetic moment, assuming
+that the g-factor off the spin is 2,
+the magnetic moment is the poor magnetron times L,
+the g-factor of L is 1, plus S, but the g-factor of S is 2.
+So this is now the magnetic moment accounting
+for the two different g-factors we projected on the j-axis.
+And the second bracket, B.J becomes the value
+of the magnetic field.
+We assume that the magnetic field points
+in the z direction, so therefore it
+is the z component of the total angular momentum.
+
+So let me collect the simple terms.
+Now L plus 2S can be written, because L plus S is
+J, can be written as J plus S. So now we have the product of J
+with J, which gives us J squared,
+and then we need the product of S and J. And as usual,
+we can get an expression for that
+by using the summation of angular momentum,
+and if we square it on the right hand side
+we have the scaler product of J and S,
+but we have now the scaler product of J and S
+expressed by L squared J squared S squared.
+J squared plus S squared minus L squared divided by J squared.
+We're just one line away from the final result.
+J Z is a good quantum number, its NJ,
+the projection of the total angular momentum on the z-axis.
+And on the bracket here is now the result, the famous result,
+for the Lande' g-factor.
+So we have J squared over J squared which gives us 1,
+and then I simply put in the quantum numbers
+for J squared S squared L squared, which
+is J times J plus 1, plus S times S plus 1,
+minus L times L plus 1.
+And we divide by 2 times J times J plus 1.
+The zeeman structure in a magnetic field is
+the [? poor ?] [? magnetron ?] times the magnetic field times
+the angular momentum in the J direction,
+but then we multiply with the g-factor.
+
+If we don't have spin, these are too
+limiting-- these are now limiting cases.
+if you do not have spin, then the only ingredients
+the only [? conclusion ?] to angular momentum
+is popular angular momentum, and we have a g-factor of 1.
+So the Lande' g-factor simply becomes GL.
+In the case we don't have angular momentum,
+and you can just evaluate this expression for L equals 0,
+you find indeed that the g-factor is 2.
+But it can have different values depending
+on the-- it depends on the atomic structure.
+So that's all I want to say about fine structure

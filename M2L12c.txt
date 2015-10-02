@@ -1,0 +1,165 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L12c.txt
+#
+# Captions for 8.421x module
+#
+# This file has 155 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Then let's talk quickly about the third point
+I wanted to discuss.
+And this is the relationship to the index of refraction.
+
+Whatever is appearing here is responsible for the index
+of refraction.
+The polarizability determines the dielectric constant,
+and use whatever relation you want.
+But for atomic physics's purpose,
+this is the useful relation.
+This is the index of refraction.
+It's related to the polarizability,
+and assuming the polarizability is small,
+we can use this [INAUDIBLE] extension.
+So roughly saying, n minus 1, the difference
+of the index of refraction from the vacuum,
+is proportionate to the [INAUDIBLE] density
+times the polarizability.
+
+OK.
+And we know this is what we get. [INAUDIBLE]
+The polarizability depends on [INAUDIBLE] squared,
+or 1 over detuning.
+Now I want to show you that did by just using that concept
+and putting in phenomenologically dissipation,
+we can get the full expression of what
+happens to a laser beam crossing an atomic medium,
+like a Bose-Einstein condensate, how much of the laser beam
+is absorbed, and what is the phase shift of the laser beam.
+
+So in order to get interesting or simpler formula,
+I want to now parametrize the matrix element
+by this quantity gamma.
+This will turn out to be the natural linewidth,
+but right now, since we haven't talked
+about spontaneous emission, just say I replace the matrix
+element by gamma.
+And then I can write the index of refraction
+in the following way.
+So the matrix element squared is now parametrized by gamma.
+I have also introduced a quantity, sigma 0,
+which will later be the resonant absorption
+cross-section for atoms.
+But again here, just use it as a parametrization.
+We have not introduced any new concept.
+I have just re-written this expression in this way,
+involving sigma 0, which is a cross-section, and gamma, which
+is an actual linewidth.
+
+OK.
+
+The polarizability depended-- that was perturbation
+theory-- 1 over the energy denominator,
+or 1 over the detuning.
+
+Now we have used with the oscillator strings the analogy
+to a classic harmonic oscillator.
+And at some level, you know that every harmonic oscillator
+has a little bit of damping.
+
+And the same applies to atomic oscillators.
+And you can account for the damping by putting
+into the frequency denominator of the [INAUDIBLE]
+1 over delta.
+Give it an imaginary part.
+So I'm just telling you here, yes, every oscillator
+has some damping, and I can phenomenologically
+account for the damping by making
+the resonant frequency or the detuning
+slightly complex by adding imaginary part.
+
+So if I now express all detunings,
+later on I want to express all detunings normalized
+to this linewidth parameter, or normalize
+for this imaginary part.
+So we have the situation that this expression, gamma
+over delta-- this was the expression
+[INAUDIBLE] expression for the polarizability--
+now requires a small imaginary part.
+And that means it's a complex number,
+and I can now take this expression
+and separate it into an imaginary part and a real part.
+So why do I do that?
+Well, the index of refraction appears in the propagation
+of the plane wave.
+If you're a plane wave, the k vector
+is no longer the k vector in vacuum.
+It's multiplied with the index of refraction,
+and that's what I gave you.
+And now you see that immediately, an imaginary part
+of the index of refraction leads to absorption,
+and the real part leads to a phase shift.
+
+OK.
+So what we have now is we have this expression
+for the plane wave, after it has propagated through the medium.
+And we see, there is exponential absorption.
+Exponential absorption on resonance,
+we have an optical density that's
+given by this expression.
+And the second term here gives us a phase shift.
+And it's clear since we have one medium which
+has a certain thickness that the optical density and the phase
+shift are related.
+Yes.
+If you are resonant, so you have the maximum optical density
+and the maximum absorption, and the optical density, of course,
+is 1 over detuning squared.
+[INAUDIBLE] Whereas for large detuning, the phase shift
+goes as 1 over delta.
+It's the dispersive scale with detuning,
+and this is also what we had when you would have started out
+with the polarizability.
+And not [INAUDIBLE] dissipation, because far away from resonance
+you simply have the original dispersing effect,
+and dissipation doesn't allow that.
+So anyway.
+
+I thought I would just show that to you, because this
+is a full understanding of what happens to optical beams
+when they pass the atomic medium.
+It's nothing else than the polarizability,
+or the harmonic oscillator response
+of an atom to electromagnetic variation.
+The only thing which is non-trivial here is--
+and that's what you will discuss later in this course--
+is that in order to get the final result, which you will
+want to use in analyzing your data,
+you have to set the dissipative-- the damping
+of the harmonic oscillator-- equal to this gamma parameter.
+And that's something I cannot tell you without talking about
+spontaneous emission.
+So just to remind you, I introduced peak gamma just
+as a parametrization of the matrix element.
+Then I introduced phenomenologically little gamma
+as just the damping of the harmonic oscillator.
+That those two quantities for two-level system are identical.
+And that's something I cannot show you here,
+because this requires a discussion of spontaneous
+emission, and the other modes of the electromagnetic field.
+This is not covered by the discussion of the AC
+polarizability.
+
+OK, any questions?
+
+But still-- I know I'm repeating myself--
+I always find it sort of interesting
+that the whole physics of absorption, the beams
+are absorbed, you can pretty much
+pull it out of the response of an harmonic oscillator.
+It's only that the damping rate of the harmonic
+oscillator-- that this is simply spontaneous emission-- that's
+the only point where you have to go beyond the AC Stark shift
+and bring in the current nature of the electromagnetic field,

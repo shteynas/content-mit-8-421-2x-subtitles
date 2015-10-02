@@ -1,0 +1,18 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L10k_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 8 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Which interaction reflects that the potential between nucleus
+and electron is not exactly a Coulomb potential, 1/r?
+We've usually discussed Schrodinger equation, hydrogen,
+Bohr model, for an exact 1/r potential.
+But then we discussed a lot of phenomena,
+and I want you to figure out now which of those choices
+mean in essence that you do not have a 1/r potential.

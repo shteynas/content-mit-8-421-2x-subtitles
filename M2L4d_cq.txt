@@ -1,0 +1,38 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L4d_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 29 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let me formulate a question, because I will need that
+later on.
+So if you have a hydrogen-like atom,
+and the electron is in a state with principal quantum number
+n.
+And let's assume there is no angular momentum.
+And so, what I'm writing down for you,
+is the probability for the electron to be at the nucleus.
+This will be very important later on,
+when we discuss hyperfine structure,
+because hyperfine structure is responsible-- for hyper fine
+structure-- what is responsible is the fact that the electron
+can overlap with the nucleus.
+So this factor will appear in our discussion
+of hyperfine structure.
+And what I want to ask you is, how does this quantity depend
+on the principle quantum number n, and on z.
+And I want to give you four choices.
+
+Of course, for dimensionalist reasons,
+everything is 1 over the Bohr radius cubed,
+because it's a density.
+But you cannot use dimensional analysis to guess how do things
+scale with z and with n.
+So here are your four choices.
+Does it scale with z, z squared, z cubed?
+Does it scale with n squared, n cubed, n to the six?

@@ -1,0 +1,107 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L11c.txt
+#
+# Captions for 8.421x module
+#
+# This file has 97 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So what we have is the following.
+We have, of course, the structure
+of atoms in excited field.
+Here is the electric field, and let me just pick three n
+values-- 18, 19, 20.
+And now the structure, of course,
+is that the criterion I actually gave
+you was the criterion for the application of perturbation
+theory.
+If the energy levels are smaller than the matrix element,
+you have to re-diagonalize between those levels,
+and that gives you then, not a quadratic but a linear effect.
+So therefore the structure is here,
+that you have a region where you have strong l mixing,
+so you have to use general perturbation
+theory for the different l states,
+but the many faults in n, the principle quantum number,
+are still well separated, but then
+eventually, when you go further, you have a region which
+is called n mixing.
+So now the electric field is really
+completely re-diagonalizing your states with different quantum
+numbers n.
+So the result of this discussion is
+that highly excited states of atoms
+behave very differently from ground state atoms.
+An end to the five scaling, a sensitivity
+to volt per centimeter, level mixing all over the place,
+and that's why for those highly excited states,
+people have coined the word Rydberg atoms or Rydberg meta.
+That means atoms with higher principle quantum numbers.
+And the study of Rydberg atoms was pioneered-- well,
+the early pioneering work-- by our own Dan Kleppner
+and then Herbert Walther in Munich,
+who happened to be my PhD advisor,
+and finally Serge Haroche, who was recognized
+with the last Nobel Prize, together with Dave Wineland.
+So this is not just theory.
+What I am showing to you here is spectroscopy
+done at MIT by Dan Kleppner.
+So what is done here, is from the ground state,
+they excite to an excited state, and whenever you hit an excited
+state, you see a signal that's focused on the upper part,
+so if at a given electric field, you scan the laser,
+you get one of the those traces.
+You find peaks, peaks, peaks, and those peaks
+correspond to the different n manifolds with strong Stark
+mixing.
+And eventually when you go to somewhat higher field,
+you have states all over the place,
+and this is the regime where you have done n mixing.
+So in the '70s and '80s, there was really--
+those experiments obtained a clear understanding
+and description of atoms in-- well,
+I would say high electric fields,
+but the fields were not so high.
+It was just the atoms were very sensitive that already
+had low electric fields, they reached or disregarded
+the high field limit.
+
+Now the question is, when we recorded signal suddenly
+the traces stop, and that means the electric field is now
+so high that the atom no longer has a stable state.
+The electric field is so high that it literally rips
+the electron away from atom, and if you go to higher states,
+the electric field where this happens is lower.
+This is the process of field ionization,
+and that's what we want to discuss next.
+Question?
+For what atoms?
+Those studies were actually done for lithium.
+
+It's actually peculiar.
+Dan Kleppner really liked hydrogen. Dan Kleppner
+is the person who tried to do almost all experiments
+with hydrogen-- the famous PZ experiment.
+He also had the Rydberg experiment,
+which was just in Building 26, where Vladan Vuletic teaches
+now his labs.
+This is where spectroscopy of hydrogen
+were done, with a goal of a precision
+measurement of the Rydberg constant,
+so he excited hydrogen to some of those high levels
+but, as probably the experts know,
+the hydrogen atom is the hardest atom to work with,
+because you need Lyman-alpha.
+You have this huge gap to the first excited state,
+and that's why if you can get away,
+you try to work with other atoms.
+In those experiments, those people
+worked with the lithium atom.
+So the lithium atom has a [? quantum ?] effect,
+in contrast to hydrogen where the [? quantum ?] effect is 0,
+and this will actually be very, very
+important for field ionization, as I want to discuss now.
+Other questions?

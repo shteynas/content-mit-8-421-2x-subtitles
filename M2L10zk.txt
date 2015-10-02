@@ -1,0 +1,267 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L10zk.txt
+#
+# Captions for 8.421x module
+#
+# This file has 257 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let's follow the standard approach,
+and let's do second order perturbation theory,
+and calculate the energy, calculate the dipole moment,
+and see that everything is as we expect now.
+So we want to do second order perturbation theory.
+We know already the first order term is 0.
+This was a discussion about parity.
+And in second order perturbation theory,
+the state, N, has an energy, which
+is the unperturbed energy.
+And then in second order, we have the matrix element
+to all other states.
+We square it.
+We divide by the energy denominator.
+We sum over all states, M. But I make a prime here.
+Of course, we are not summing over the state.
+We exclude N from the summation.
+
+And the prefactor here is electron charge squared
+times electric field squared.
+OK.
+Pretty much that's sorts it out in second order perturbation
+theory.
+So this is the energy.
+And we want to relate the energy to the dipole moment.
+So the next step is now is we calculate D.
+And we calculate D from the first order wave function
+because we already get an effect in first order.
+And everything here is about leading order.
+So the expectation value of the dipole operator--
+so we take the expectation value of the dipole operator and we
+use the 0s order, the unperturbed state,
+plus the first order correction.
+And we know already that the diagonal terms do not
+contribute.
+This is the parity selection rule.
+So we get contributions from the cross term,
+which is N0, the dipole operator with N1.
+
+So let's just suppress vectorial notation.
+We know everything is along the z-axis.
+So we have the 0s all the way function.
+Our operator is Z. And now we have
+to write down the first order correction to the wave
+function.
+And the first order correction is
+the sum over all other states.
+We may connect mixture of the state, M.
+And this mixture uses a matrix element.
+And here we have the energy denominator.
+So what we obtain is-- we have the electron charge here
+from the dipole moment.
+We have the electron charge due to the perturbation operator.
+So it's electron squared.
+we have the electric field.
+And then this is due to the mixture of the wave function
+with the dipole operator.
+And now because we take the dipole matrix element
+of the dipole operator, we get another occurrence
+of the dipole operator.
+So therefore, we do first order perturbation theory,
+but we take the first order result
+and ask what is the expectation value for the dipole moment.
+And that means the dipole operator or the perturbation
+operator appears twice.
+And our result is as expected, quadratic in the matrix
+element.
+And it has it's energy denominator.
+So the definition is that the dipole moment is alpha
+times the electric field.
+So therefore, all of that equals alpha.
+And if you compare now the result for the dipole moment
+with the second order perturbation
+theory for the electric field and for the energy
+we find-- here is a factor of two,
+but there is no factor of two up there--
+we find that the energy of the energy shift delta En,
+it has exactly the same matrix element as the polarizability.
+
+It is this, one half alpha x squared.
+
+Since the perturbation operator--
+I'm just writing it down here-- was dipole moment times
+electron, that means that the energy shift is--
+and this is what we expected now--
+is one half times the expectation
+value of the dipole moment times the electric field.
+So now we have obtained the quantum mechanical calculation,
+the result I told you that the energy is
+one half-- the energy shift-- the energy levels,
+is one half the dipole moment times the electric field.
+
+Let me just redo the calculation in the way I like.
+And this is-- I want to determine now the total energy
+but solve the terms in a little bit different way.
+So I want to know what is the energy in our result.
+And what we do is we are calculating the energy using
+our wave functions.
+
+We take the total Hamiltonian and take the wave function.
+This leads us to three terms.
+One is the unperturbed energy.
+
+The unperturbed energy, the energy contribution
+of the first order correction.
+So this is the part.
+This is the part due to H naught.
+And the part due to H prime is simply the dipole moment
+times the electric field.
+So the first part is of course simply
+the energy E naught times the norm
+of wave function in naught.
+For the second term we use a first order perturbation theory
+for N1.
+This is our sum over M. Em minus E naught.
+M H prime 0.
+Because M1 is on either side.
+This is the amplitude of the state and 1.
+We have to square it.
+And since we calculate what is the expectation
+value of H naught, we multiply with the energy Em.
+OK.
+So we're done.
+We have recalculate the total energy.
+We get three terms.
+One is the unperturbed energy.
+One is the dipole energy in the electric field.
+And one is the extra term, which I want to discuss.
+And it is actually-- this term is the internal energy, which
+would correspond to the stretching
+of the spring in Hooke's law.
+Now, in order to show it to you explicitly,
+I want to use E naught equals 0 for the energy
+because then this term is 0.
+I can collect this.
+And one of the squares, 1 over Em squared cancels with the Em
+So it confused me for a while if I don't set E naught to 0.
+The result looks different.
+But what happens is, if you do perturbation theory,
+there are certain issues with the normalization of the wave
+function.
+And the wave function in naught has to be the contribution.
+If you look at the save function and perturbation
+theory of a state, the 0s of the wave function
+has an amplitude of 1.
+And this amplitude of 1 only changes in second order.
+So since I'm doing a second order calculation here,
+I have to include those nonstandard terms.
+But I can also bypass it by setting E naught to 0.
+Then the second order determine.
+The norm doesn't matter.
+So in other words, if you set E naught to 0,
+you make your life easier.
+If you do not set E naught to 0, you
+have to include some more terms in your calculation.
+But the result is this one here.
+It is a positive energy.
+You can immediately inspect that these positive energy
+is the dipole moment times the electric field over 2.
+This is exactly analogues to the energy of the spring
+in the gravitational problem.
+So in other words, this is the energy, the internal energy,
+because we mixed excited states to the ground set.
+This caused energy.
+And it exactly accounts for the occurrence
+of the vectors of one half.
+Anyway, this is just the standard theory
+of the DC stock effect of the atomic polarizibility.
+But I put a little bit of emphasis
+on those vectors of one half, and tried
+to explain in greater detail the contributions to the AC stock
+effect, to the DC stock effect, which
+come from the electrostatic energy,
+and which come from the internal energy.
+Questions?
+
+Yes?
+I just have a question.
+What is allowing you to use non-degenerate perturbation
+theory?
+[INAUDIBLE]
+
+Well, I'm looking-- what allows me
+to do non-degenerate perturbation theory?
+Well, I assume we don't have [INAUDIBLE]
+If you would go to very high Rydberg states--
+and actually we do that.
+No.
+Not today, but on Monday-- we are looking at a situation
+where the splitting between states of different L
+become so small that the electric field mixes them.
+Then we have to degenerate perturbation theory.
+And it means we get now a linear term, a linear stock
+effect, and not a quadratic stock effect.
+Here I would say, you're doing perturbation theory
+of the ground state.
+It's an S state.
+It's non-degenerate.
+
+Maybe your question is also addressing--
+but we have multiple ground states.
+We have hyperfine structure.
+However, the electronics, the AC-- so
+the stock effect, the electric field,
+does not couple to the spin at all.
+So therefore, all the magnetic energies,
+the hyperfine energies are completely unaffected.
+And also, if you apply an electric field,
+all of the hyperfine states experience the same shift.
+And there's no coupling between them.
+So also we have multiple ground states.
+We have hyperfine structure.
+It's a non-degenerate problem because there
+is no coupling between the different hyperfine states.
+In other words, the theory or the discussion of the DC stock
+shift is you have an S state.
+You couple with an electric field.
+And there is not degeneracy in the S state.
+Other questions?
+
+Well, then we've talked about alpha.
+The only parameter which comes out of this treatment is alpha.
+And now we want to discuss how big is alpha, or first,
+what are the units of alpha?
+Well, the units of alpha, where-- you can go back
+to the second order perturbation result-- but the units of alpha
+were the charge times the lengths.
+This was the dipole operator.
+it was squared.
+And in perturbation theory, we divide it by energy
+because we have an energy denominator.
+Well, we can write that as Q squared over L times L cubed.
+But Q squared over L is a Coulomb energy.
+And therefore, when I'm interested in the units,
+the units cancel.
+So therefore, we find that the unit of the polarizability,
+at least in [INAUDIBLE] units or atomic units, which I've chosen
+here, is simply the volume.
+The question is, what volume?
+if you would calculate the polarizability for height
+option, and simply make the assumption
+that the only important matrix element goes from the S
+to the P state, then we have a matrix element, which
+is on the order of A in A0.
+And the energy splitting between the first ground state
+and first excited state is three quarter
+of the Rydberg constant.
+
+So for a height option in the 1s state,
+if you only use the coupling to the 2p state,
+we find that alpha is the Bohr radius cube.
+And the prefactor is 2.96.
+If you do the summation over all states,
+the prefactor would be 4.5 because there
+are higher states, especially continuum states, which
+contribute to the sum.

@@ -1,0 +1,83 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L4b.txt
+#
+# Captions for 8.421x module
+#
+# This file has 73 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Today, we start with single electron atom,
+with a hydrogen atom, and I cannot resist to start with
+some quotes from Dan Kleppner, who, I sometimes call Mr.
+Hydrogen, so there is a beautiful piece of writing
+in the Reference Frame in Physics Today,
+The Yin and Yang of Hydrogen. I mean,
+those of you who know Dan Kleppner know that he's always
+said, hydrogen is the only atom, other atom he wants to work
+with.
+Other atoms are too complicated.
+And he studied-- actually hydrogen
+was, he did a little bit on alkali atom of course,
+but hydrogen was really the central part
+of his scientific work.
+But that he studied [? root ?] [? back ?] states in hydrogen,
+or Bose-Einstein Condensation in hydrogen.
+And this column in Physics Today, I
+mean he talks both the yin and yang,
+the simplicity of hydrogen, it's the simplest atom.
+But if you want to work with hydrogen, you need vacuum UV.
+Because the step from the 1s to the 2p transition
+is Lyman-alpha, is vacuum UV, at 121 nanometer.
+So it's simple, but challenging.
+And hydrogen is the most pristine atom.
+but for those of you who Bose-Einstein Condensation,
+it's the hardest atom to Bose condense.
+Because the physical properties of hydrogen--
+it's simple in its structure-- but the properties of hydrogen,
+in particular, the coalition core section,
+which is important for evaporative cooling,
+is very, very unfavorable.
+So that's why he talks about the yin and the yang of hydrogen.
+Let me show you the first sentence of this paper,
+of this Reference Frame.
+Well, why don't we read it together.
+It tributes to hydrogen, it tributes to famous people.
+Viki Weisskopf was on the faculty at MIT.
+I make him, but he was already retired at this point,
+but Dan Kleppner interacted with him.
+And you see the first quote, "To understand hydrogen
+is to understand all of physics!"
+Well, it simply, it's says that, if you understand
+some of this paradigmatic systems in physics,
+you understand all the physics.
+I would actually say, well, you really
+have to understand the harmonic oscillator,
+the two-level system, and hydrogen, and maybe
+a little bit about three-level systems.
+But if you understand, really, those simple systems-- they're
+not so simple-- but if you understand
+those so-called simple systems very well, in all
+its glorious detail, then you really
+understood, maybe not all of physics,
+but a hell of a lot of physics.
+And this quote goes on that, to understand hydrogen is
+to understand all of physics.
+But then Viki Weisskopf said, well,
+I wish I had understood all of hydrogen.
+And this is sort of Dan's, Dan Kleppner's wise words,
+"For me, hydrogen holds an almost mystical attraction,
+possibly because I am among the small band of physicists
+who actually confront it more or less daily."
+So, that's what we're starting out now,
+to talk about hydrogen. I know that a discussion
+of the hydrogen atom, the solution of the Schrodinger
+equation of the hydrogen atom isn't in all quantum mechanics
+textbooks, I'm not doing it here.
+I rather want to sort of give you
+a few insightful comments about the structure of hydrogen,
+some scaling of length scales and energy levels,
+because this is something we need later in the course.
+So in other words, I want to highlight

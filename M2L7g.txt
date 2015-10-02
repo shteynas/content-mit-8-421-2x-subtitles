@@ -1,0 +1,199 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L7g.txt
+#
+# Captions for 8.421x module
+#
+# This file has 190 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+The second term is spin orbit interaction,
+and as such, it is, I would say, more interesting,
+because it now really addresses the spin.
+So yes, the term comes from the Dirac equation
+and appears separately as an identifiable term.
+If you do the Pauli approximation
+of dirac equation, so I could just stop there and say here,
+that's what it is.
+But I think it's insightful if I re-derive this term for you
+by using a physical picture, what
+do we have to add to the Schrodinger equation to get it.
+So what we have to add what we have to add to the Schrodinger
+equation is, of course, you have to put in
+that the electron has a spin.
+the Dirac equation is formulated in spin
+or it's automatically formulated for spin one-half particles.
+But if you start with the Schrodinger equation,
+you can first write it down for spinless particle,
+and now you have to add the spin by hand.
+So we have to add to the Schrodinger equation,
+or to the Bohr model, that we have
+an electron with an intrinsic spin,
+and this spin will couple to the rest of the world
+because it has a magnetic moment, which
+is the G factor-- we'll talk about G factors later in more
+detail-- the Bohr magneton times the spin,
+and if you add a it to the Schrodinger equation,
+we have to assume the experimental value,
+or you can say, the value which, the approximate value
+of the exact value from the Dirac equation,
+which is the G factor of two.
+OK.
+So if you put in, by hand, that the electron has a spin,
+the spin is associated with a magnetic moment,
+now we have a coupling because an electron which
+moves, in the Coulomb field of the nucleus,
+sees in its moving frame, a magnetic field.
+And this magnetic field couples to the spin.
+So the moving electron sees motional magnetic field.
+Well, you know when you have an electric field,
+and you look at the-- you have an electric field in one frame,
+and you have a second frame, special relativity, which
+moves with a velocity v, then in the moving frame,
+you observe a motional magnetic field.
+And well, our moving frame is now the electron.
+
+So that looks like coupling to the Coulomb field,
+but we can immediately write it in a form
+where we recognize angular momentum.
+So this is the Coulomb field.
+And it involves v cross r, and v cross
+r is just minus L, the optical angular momentum.
+
+So this is now our motional magnetic field.
+And then the spin couples to it, and we get spin orbit coupling.
+By the way, an equivalent picture--
+because you will read about it or hear
+about it-- is you can get the magnetic field, which couples
+to the spin, by simply transforming the Coulomb
+field into the from of the moving electron.
+But there is a more naive picture,
+which is correct to, if you are in the frame of the electron,
+then the proton is orbiting around you.
+And the orbiting proton is a wind current,
+which creates a magnetic field.
+And this magnetic field is, or it
+has to be, the same as we just got
+by doing the relativistic transformation of the Coulomb
+field into the frame of the moving electron.
+So, therefore, if you want the spin orbit Hamiltonian,
+it's now the magnetic moment of the electron
+times this B-field, and just collecting
+the terms, e squared, h bar squared, m squared, c squared,
+1 over r cubed, the magnetic moment
+is proportional to s, the spin, the motional B-field
+is proportional to L, and now we have the famous spin orbit
+coupling term.
+
+OK, that would be too simple.
+So we need, we have to now consider one more thing,
+and this is, I told you that we can transform
+the electric field into the moving frame of the electron,
+but those transformations from one lowest frame
+into the other, are simple when you go from one frame
+to another, and then move with a constant velocity
+relative to each other.
+The electron is not moving at constant velocity,
+it actually has a constant acceleration because it's
+on a circular orbit.
+So therefore, we have to use a relativistic transformation
+between coordinate frames-- and it is in textbooks
+on special relativity-- what happens
+is, if you do relativistic transformations
+between different moving coordinate systems,
+then you find that-- you know, if you
+have a velocity like this, velocity like this,
+and do subsequent transformations,
+you're not just going into a Lorentz frame, which
+has the resultant relativistic addition of the velocities.
+In addition, you're final Lorentz frame,
+is rotated against the first frame.
+So adding a number of velocities which are not colinear--
+and this is what we have to do if the electron goes
+in a circle, we have to sort of follow the electron,
+follow different velocities, and do
+relativistic transformations-- several relativistic Lorentz
+transformation, executed in sequence,
+are not a simple Lorentz transformation,
+they are Lorentz transformation plus rotation.
+And that means that if we go, and the result can
+be summarized as follows, there is a rotational angular
+velocity, which can be written as follows,
+you see immediately that this term
+is zero, when a, acceleration and velocity are the same.
+So if you were moving frame and you accelerate the moving
+frame, you don't get this term, if everything
+is in one dimension.
+But if the acceleration is not in one dimension--
+and that's the case when the electron goes on a circle,
+you get an additional contribution--
+and if the acceleration is constant,
+you get-- and this is on the left-hand side--
+a constant angular velocity, the precession velocity.
+And the letter t indicates that it's
+the Thomas must precession.
+Now, we have learned-- and it's nice to come back
+to the beginning of this course-- we have discussed
+that if you have a magnetic field,
+we can go into a rotating frame, and the magnetic field
+disappears.
+Well, now, due to relativistic kinematics,
+we have an additional rotation, but using the same argument
+we used at the beginning of the course
+this additional rotation corresponds
+to an addition magnetic field.
+So therefore, this precession is identical to the effect of
+and additional magnetic field.
+So there is an additional magnetic field,
+with the letter T, the Thomas magnetic field,
+those magnetic fields are related to the precession
+frequency by the gyromagnetic ratio.
+And, if we use the value for the electron's gyromagnetic ratio,
+and in addition, we use the fact that, the acceleration
+term for this relativistic kinematics,
+is nothing else than the Coulomb acceleration,
+then we find that the Thomas magnetic field is
+just minus one-half the motional magnetic field
+we derived earlier.
+So therefore, if you go back and want
+to find an expression for this spin orbit coupling,
+we have to use the magnetic field, which
+is the sum of the two contributions
+we discussed, the motional contribution
+for-- if the electrons would move
+in a linear way, plus the Thomas precession
+due to the rotational motion due to relativistic kinematics--
+and this will just reduce the final result
+by a factor of one-half.
+Yes?
+Small one.
+What letter is the gyromagnetic ratio denoted by?
+So for the handwriting, which we have usually used lower case
+gamma, and the E means the electron,
+so gamma electron is the gyromagnetic ratio
+of the electron.
+Then my other question are more substantively concerned,
+or confused, I guess.
+I wasn't sure where the h bar comes
+from in the expression for angular momentum,
+I guess one line up.
+
+You go from v cross r to h bar over m L,
+and I wasn't sure where the h bar came from.
+
+Oh, It now depends-- you're correct,
+angular momentum is r cross v , r cross v gives angular
+momentum, and because it's r cross v and not v cross r,
+the minus sign is absorbed into it.
+Now, the angular momentum, it depends now,
+it's purely definitional.
+If you want that the angular momentum has eigenvalues
+of L times L plus 1, which as dimensionless,
+then we have to account for h bar explicitly.
+So question is, do we want the angular momentum operator
+to have this kind of integer, or L time L plus 1.
+Yeah, in this integer spectrum, or do we want to measure,
+or do we want to use operators, which have units of h bar.
+That's where the h bar comes from.
+Other questions?

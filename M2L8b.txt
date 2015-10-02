@@ -1,0 +1,85 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L8b.txt
+#
+# Captions for 8.421x module
+#
+# This file has 75 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+We have discussed the Lamb shift,
+but we have only discussed one contribution to the Lamb shift.
+So this was the contribution that the Coulomb potential
+is effectively smeared out.
+And the result of this is that there
+is a weaker binding energy.
+However, there is a second contribution to the Lamb shift.
+
+I've sometimes seen sources where
+this is discussed as the main contribution to the Lamb shift.
+But this is not correct.
+This is only 3% of the total and contributes
+20 second megahertz.
+This is what is called the vacuum polarization.
+So if you have a proton positive charge,
+and you have the electron.
+And they scatter off each other.
+And we use this kind of diagram to indicate that.
+Now there is an additional diagram
+which has this bubble, which is this production of e
+minus, e plus pairs.
+And you can see that if an electron and proton attract
+each other, and you create, by virtue of pair production,
+because the vacuum is alive, things
+can happen in the vacuum.
+It will virtue emit an electron positron pair,
+that now you create a electron positron pairs, which
+shield the Coulomb field.
+And this is a second contribution
+in addition to this shaking motion of the electron.
+So I want you to just think about it for 10 seconds
+before I tell you the answer.
+Does this vacuum polarization strengthen or weaken
+the binding energy?
+
+Anybody wants to offer an opinion?
+
+Whatever you say, you can't be wrong
+because their are two aspects to the answer.
+
+Well, the natural answer is to say,
+if you create charges between the electron and the proton,
+you have a shielding effect, and the shielding effect
+should weaken the Coulomb field.
+But the question is, what do we regard
+as the element heavy charge, e, in our Schrodinger equation.
+And what we regard as the charge, what
+is measured in a Milliken droplet
+the experiment is already the shielded charge.
+So therefore, the effect that vacuum polarization exists
+means we always measure the shielded charge.
+But because vacuum polarization happens at a finite distance,
+the electron in an s state can sort of penetrate the shield
+and feel a somewhat stronger Coulomb potential.
+So therefore, accounting for the effect
+that we have these virtual electron positron
+pairs, actually means that the binding energy is increased.
+And the vacuum polarization has the opposite sign
+as the dominant effect we've mentioned earlier.
+So the summary is we observe the shielded charge,
+and vacuum polarization implies that the s electron can
+penetrate the shield and sees a higher charge.
+So we normally observe the shielded charge,
+but the electron can see the higher charge.
+So therefore, that means now that we
+have not an up-shift in energy but a downshift in energy,
+which for the 2s one half state is 27 megahertz,
+as I mentioned earlier.
+Anyway I'm not really deriving it.
+But I want to sort of uncover certain myth, so the vacuum
+polarization, number one, is not dominant, and number two,
+has the opposite sign as everybody would naively assume.
+
+Questions?

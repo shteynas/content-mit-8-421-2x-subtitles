@@ -1,0 +1,16 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L10d_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 6 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+Yeah.
+Next question, how does psi 0 of 0
+square, how does the density of the electron at the origin
+scale with [INAUDIBLE] quantum number?
+1 over n, 1 over n square, 1 over n cubed, or 1
+over n to the 6th.

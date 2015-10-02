@@ -1,0 +1,234 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L7m.txt
+#
+# Captions for 8.421x module
+#
+# This file has 224 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let's get started with the Lamb shift.
+Just to make sure that you're not getting confused,
+there is also a lamp shift.
+This is actually an old-fashioned word
+for an AC Stark Effect.
+People in the '50s and '60s found
+that spectral lines in a mercury discharge
+shifted when you took another mercury lamp
+and illuminated the mercury with a strong light of another lamp.
+So a lamp shift is simply a shift
+due to the electromagnetic radiation emitted by a lamp.
+But that's not what we're talking about.
+We're going to talk about the Lamb shift which
+is named after Willis Lamb who received the Nobel
+Prize for the discovery that the 2 s one-half,
+and the 2 p one-half level in hydrogen are not degenerate.
+And he wouldn't have gotten the Nobel Prize
+if he would have been simply off one little feature
+in the spectrum of hydrogen. But the discovery
+of this lifting of the degeneracy,
+was actually opened up the field for the development of quantum
+electrodynamics.
+So this was the experimental discovery
+which led to quantum electrodynamics,
+and this is why it's a very famous effect, done by a now,
+very famous man, Willis Lamb.
+So, the full description of the Lamb shift would require QED,
+and later in this course, we are developing the tools
+to do that, I don't want to do it here,
+I want to give you a simplified physical picture, which
+actually nicely relates the Lamb shift to the Darwin term which
+we have just discussed.
+But sort of just in full disclosure, what you have to do
+is, if you fully quantized the electromagnetic field,
+you have a vector potential, which describes the vacuum mode
+and you have a vector potential, which
+is the operator of the fully quantized field.
+And if you now carry out-- if you now carry out
+second-order perturbation theory,
+in this operator a of the quantized electromagnetic
+field.
+In other words, you allow the atom,
+or the electron in the atom, to couple to all the empty modes
+of the vacuum.
+When you obtain the Lamb shift in its full beauty--
+and this is discussed nicely in Atom-Photon Interactions by Claude Cohen-Tannoudji et al.
+
+So this is the nature.
+The nature of the Lamb shift is a coupling to the vacuum modes.
+But I want to capture that now in the same classical picture.
+So the picture I am presenting here,
+is due to Welton and Viki Weisskopf.
+And yes, it has to address the nature of the Lamb shift,
+and this is the coupling of the electron to the vacuum,
+but the vacuum is not empty, the vacuum
+is filled with the zero-point energy
+of the electromagnetic field.
+What we need is, that we have electromagnetic modes,
+and they have a zero-point energy.
+And each mode has a zero-point energy of h bar omega.
+And maybe before I do any equations,
+I should just give you the physical picture.
+I think it's much clearer to understand that.
+so the moment each mode has an energy,
+then each mode has a fluctuating electric field.
+Now what we have to do is, we have
+to multiply the contribution, the energy of each mode,
+by the density of modes.
+We have to some over all modes.
+But then, in the end, what we get
+is an expression for the fluctuating electric field.
+And remember, in the Darwin term,
+be assumed that the electron is trembling by itself,
+and is smeared out over the Compton wavelengths.
+But now in addition to its own trembling motion,
+the electron is now shaken by the electric field
+of the vacuum, and this leads to an additional smear out,
+and this is the Lamb shift.
+So, that's what you want to put together.
+So we want to calculate an additional contribution
+to a trembling motion of the electron,
+but this time it is driven by the electric field, which
+persists even in the vacuum.
+So that's the Lamb shift.
+OK, so it's one-half h bar omega, per mode.
+We have to use the density of modes,
+and the density is per unit volume, and frequency interval.
+So we have a density, u is the frequency,
+and you probably remember that the density of mode
+scales with frequency squared.
+
+That means that zero-point, the density
+of the zero-point energy is one-half h nu per mode,
+times the mode density, and this means
+it's scales now with nu cubed, the frequency cubed.
+And since we want to introduce now
+the electric field, the energy in the electric field,
+if you go from electric field to energy,
+the energy density of the electric field
+is proportional to e squared.
+So therefore, what we derive from this picture,
+that the vacuum is filled with an oscillating electric field.
+And this oscillating electric field
+is characterized by an value, by a spectral density e squared,
+which is proportional to nu cubed,
+and if I collect the constants h and speed of light, it's this.
+So the question is, what does this electric field
+do to the electron?
+Well, let's not discuss the electron in a hydrogenic orbit.
+Let's rather discuss, in a simplified picture,
+what is the effect of such a field on a free electron?
+And we will later discuss, that for very high frequencies,
+an electron can be regarded as free.
+So therefore, if s is the coordinate of the electron,
+and you drive it with an oscillating electric field,
+at frequency nu, then the driven amplitude of the electron
+is the electric field.
+I just want to make sure we keep track of the powers of nu.
+
+Because we take the second derivative, acceleration,
+we get two powers of nu, so we have an extra u squared term.
+
+Of course, the phase is random, so we're not
+interested in the amplitude, we are
+interested in sort of an average amplitude squared,
+or an RMS amplitude.
+Which is, the amplitude was proportional
+to the electric field.
+The amplitude squared is proportional to the square
+of the electric field, and our prefactor involves, now, nu
+to the four.
+Just in the equation at the top, we
+had an expression for the spectral density
+of the electric field e squared, which goes nu cubed.
+So that means now that the spectral density
+of the motion of the electron s u squared, goes as one over nu.
+And yeah, e squared, h bar, pi square, m square, e cubed.
+
+And now, yes, I've wanted to do it
+in the same lecture as the Darwin term,
+because we know that there was a change in the Coulomb potential
+to the Darwin term, which came because the electron was
+smeared out over an area s squared-- remember this was
+the Compton radius squared-- and it involved the Laplacian
+of the potential-- Taylor expansion,
+second order, second derivative in three dimension,
+is the Laplacian-- and for the Coulomb potential,
+this is non-vanishing of course, only at the origin.
+
+So therefore, we have now executed
+what I discussed before.
+We calculated the sort of displacement
+of the free electron driven by the vacuum
+fluctuations of electric field, and these smear
+out of the electron leads to a change
+of the the average Coulomb potential, the average Coulomb
+potential over the fast motion of the electron.
+And that means now that we get a change of the binding
+energy of the electron, which is nothing else-- in perturbation
+theory-- then the matrix element of the perturbation operator,
+but this perturbation operator was a delta function, we still,
+and we have the prefactor, which is
+the spectral density of the displacement s nu squared.
+So let's wrap up.
+So we know, because of the delta function,
+it only affects s electrons.
+
+Remember, I discussed at great lengths, that for an electron,
+with principle quantum number n, the probability
+to be at the center was n cubed.
+So here, again, we have the n cubed factor
+which we discussed for the hydrogenic wavefunction.
+And the only thing which is no nontrivial, we have to do
+is, we have to integrate over all modes nu.
+
+So therefore, what we had so far was
+the shift cost by one frequency of the electromagnetic
+spectrum, but now we have to integrate over all frequencies.
+So what we have to do what is, our spectrum
+s square goes as one over nu.
+And if you integrate one over nu over all frequencies,
+you get a logarithm, you get logarithmic divergences.
+So therefore, our result is-- and I'm
+using now atomic units alpha cubed,
+c to the four, the n-cubed factor,
+everything is in units of atomic units,
+the atomic unit of energy is one-half hartree
+or two Rydberg.
+But the factor which is now non-trivial
+is from the logarithm, we integrate,
+and we have divergences at both ends.
+So we need a cutoff at the minimum
+and at a maximum frequency.
+For the maximum frequency, well, there is an natural cutoff.
+We have to cutoff at the rest energy of the electron,
+otherwise we are no longer doing single particle theory.
+And the cutoff, the lower cutoff, is the following.
+We've used a picture here for a free electron,
+but we can regard the orbiting electron only as
+a free electron on timescales, which are much faster than one
+orbital period.
+So therefore, we have to use, as a lower cutoff, the frequency
+of the orbiting electron.
+Which is c squared, n cubed in atomic units.
+So with that-- a little bit handwavingly, but it appears
+in a logarithm anyway-- we have gotten
+for the ratio of the upper and the lower cutoff
+an expression which is n cubed over z squared times alpha
+squared.
+And if you apply it to the 2 s state,
+where it most important because there
+is the degeneracy between p one-half
+and p three-half to be lifted, we get the result
+that the energy splitting is now, and with the assumptions
+we have made, the logarithm is 8 over a squared, alpha squared,
+and from that, we would have derived
+a Lamb shift of 1600 megahertz.
+Well, the exact value is 1,058 megahertz.
+I'm missing five minutes to discuss the result in terms
+of my vacuum polarization, but that's
+something we do on Monday.
+Any quick question?
+OK, great.

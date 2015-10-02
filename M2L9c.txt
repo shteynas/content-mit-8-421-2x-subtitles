@@ -1,0 +1,68 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L9c.txt
+#
+# Captions for 8.421x module
+#
+# This file has 58 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+What I want to discuss next is give you
+a little bit of an historic summary how spectroscopy
+of hydrogen has developed.
+In particular, also focusing on one important discovery,
+the discovery of QED for the Lamb shift.
+And of course, we all love hydrogen
+because it's the simplest atom, but it
+has so much interesting physics in it.
+So I've summarized for you here some papers on hydrogen.
+And I used it to illustrate several points.
+I will show you that actually the discovery of the Lamb shift
+had precursors.
+10 years before the Lamb shift was discovered,
+people had even some idea that something
+may be wrong with the understanding
+of the structure of hydrogen.
+So you can say they came so close-- people--
+10 years before in realizing the Lamb shift.
+There were people who may be missed the Nobel Prize by just
+a tiny little bit.
+They had all the insight that there
+may be [INAUDIBLE] QED [INAUDIBLE] in hydrogen. They
+just didn't have the technology to measure it
+accurately enough.
+The second example I want to show
+is that we always talk about fundamental limitations.
+But fundamental limitations can disappear in time
+because they may not be as fundamental as they appear.
+So for instance, there were limitations in with
+the measurement of the Lamb shift because you had a short
+lifetime of p states But with the advent of [? two-fold ?]
+[INAUDIBLE] transition, you can go from s to s and s to d
+states, and therefore, map out Lamb shift with much,
+much higher precision not limited by the finite lifetime
+of p states.
+Or finally, you would say Lamb shifts are small splittings.
+And for many, many years Lamb shifts
+were very measured by making radio frequency transitions
+between two s and two p states.
+Well, today, the most accurate measurement of the Lamb shift
+is with an optical transition where
+you need a much, much higher relative precision
+to see the tiny Lamb shift.
+But optical [INAUDIBLE] with direct frequency measurements
+and frequency [? codes ?] has so much improved in precision that
+now, an optical measurement, even if it comes to tiny
+difference is more accurate than a [? directive ?]
+of measurement.
+So I think that the history of hydrogen
+shows you that technology can completely
+change the paradigm of measurements [? admitted. ?]
+Fundamental limits disappear because in two weeks
+a new insight is available.
+And also, I find it interesting that discoveries often
+have precursors, and people have a hunch, know about it,
+and then finally it is discovered.
+So let me just give you some historic papers.

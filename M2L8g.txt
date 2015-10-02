@@ -1,0 +1,124 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L8g.txt
+#
+# Captions for 8.421x module
+#
+# This file has 114 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I've not done any experiment in my life
+where higher order moments became important.
+But I want to teach you about it because the discussion
+whether those higher moments exist
+or not is really an interesting discussion about what
+is allowed by symmetry and whatnot.
+So I'm bringing in higher order moments,
+not so much because you needed to understand the level
+structure of your favorite atom, but because it teaches us
+a really nice piece of physics.
+So let me now discuss higher order moments.
+And the leading one is the electric quadrupole moment.
+So I want to raise in general the question, what
+further moments can a nucleus have?
+What we have discussed so far is the magnetic moment mu.
+So beyond mu, what further electric or magnetic moments
+can a nucleus have?
+Well, it's a question about symmetry.
+And if you look at the parity of my multipoles,
+if you have an electric multipole-- well,
+you know if you have a dipole plus minus, you invert it.
+The dipole becomes minus the dipole.
+So for L equals 1, it is minus 1.
+L is 1.
+But in general, it is minus L. If you have a quadrupole,
+you invert your coordinate system, it's L equals 2.
+Plus, plus, minus, minus, you invert it.
+Nothing changes.
+So at least I've shown you for dipole and quadrupole
+that this formula is correct.
+So an electric multipole has this parity.
+And for a magnetic case-- well, magnetic,
+we have axial vectors versus polar vectors.
+There's always an extra factor of minus 1.
+So therefore, if we go magnetic, magnetic multipoles, with L
+have a parity of minus L plus 1.
+So this really restricts what multipoles are possible.
+Instead of giving you general discussion,
+let me just look at the very important case
+whether a nucleus can have an electric dipole moment.
+And you will immediately see what it needs to,
+and then I give you the general result.
+So let's assume a nucleus have angular momentum i.
+And there is a magnetic moment u associated with it.
+So the general result is that odd electric and even magnetic
+multipole moments would violate-- not just one,
+but two symmetries would violate parity and time reversal
+symmetry.
+So the argument goes as follows.
+Let us assume this is the magnetic moment
+mu or the angular momentum i.
+It's a vector.
+And now we are asking is it possible to have
+a vector of the dipole moment.
+And dipole moment, you should just think about it
+as a plus minus charge separated.
+We can now do the parity operation and the time reversal
+operation.
+If you do the time reversal operation,
+the current, which generates a magnetic moment,
+if you want to think about it in this picture,
+goes the other way.
+So mu flips.
+But nothing moves, of course, for an electric dipole moment.
+So reversing time is not changing anything.
+So in other words, time reversal symmetry
+transforms parallel mu and d into anti-parallel mu and d.
+And similar, parity is not changing mu,
+but it is changing d.
+So in both cases, would parity or time reversal symmetry,
+if you had a mu d, a scalar product of mu
+and d, which would be non-0, then post p or t
+would change the sine.
+But that would mean that two kinds of particles would exist,
+one where the sine is positive, one where the sine is negative.
+But we have assumed that we have one nucleus and only
+one nucleus of this kind.
+So we cannot have one nucleus which has the property
+of having simultaneously a magnetic and electric dipole
+moment.
+So therefore, we conclude that mu times d has to be 0.
+And if you generalize this argument,
+we have ruled out that there is an electric dipole
+moment, an odd electric moment.
+The first, the lowest possible electric moment
+is the quadrupole moment.
+So the leading electric moment is not L equals 2.
+It's L equals 2.
+It's not L equals 1, the dipole.
+It's L equals 2, the quadrupole.
+And of course, if you generalize the argument, L equals 4,
+l equals 6 would be possible.
+But those effects would be very small.
+OK, so we've talked about parity and time reversal symmetry,
+which restricts what kind of magnetic and electric dipole
+moments particles may have.
+And maybe in this context, I should just
+mention that John Doyle, Jerry Gabrielse, and Dave DeMille
+at Harvard and Yale, they just published the most accurate
+result for the electric dipole moment of the electron.
+They found a bound which was more than an order of magnitude
+lower than the best upper bound before.
+And this has really made headlines.
+So to measure accurately that the electric dipole
+moment vanishes, in this case of the electron,
+but other people do it also for neutrons,
+is testing fundamental symmetries.
+In particular, it tests whether nature
+is time reversal invariant.
+
+And the reason why, until now, everybody
+has found that the results are compatible with 0
+is pretty much based on the argument I just gave you.

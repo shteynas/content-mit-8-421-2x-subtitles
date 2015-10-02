@@ -1,0 +1,66 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L10zg.txt
+#
+# Captions for 8.421x module
+#
+# This file has 56 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let's talk about atoms in electric field.
+We put the atoms in a uniform electric field.
+Again, we assume that it points in the Z direction,
+and its magnitude is epsilon, and we
+want to ask, what is the electrostatic energy
+in this electric field?
+And we're using the fact that electrostatic energy
+can be expended in a multipole expansion.
+We have a monopole term, we have a dipole term,
+and we have a quadratic term.
+So the charge, of course, is the atom
+itself is a neutral atom, so there is no monopole term.
+The linear term in the electric field
+would correspond to a permanent dipole moment,
+and I will remind you in a moment that this is 0.
+And then the term which provides us with a Stark effect
+with the energy shift of atoms in electric field
+will be the third term here, which is characterized
+by the polarizability alpha, and it corresponds
+to an induced dipole moment that there is an induced dipole
+moment, which is alpha times epsilon,
+and then the induced dipole moment interacts
+with the electric field, and that gives then epsilon times
+epsilon, epsilon squared.
+So this would be a classical multipole expansion,
+and we will now derive results quantum mechanically.
+The perturbation operator for us is the dipole operator
+and that could, in principle, include
+a permanent or an induced dipole moment that
+would take care of the second and third term,
+the dipole operator and its projection on the z-axis.
+So the dipole operator is the charge
+of the electron times the position,
+and as long as the polarizability
+in this situation is isotropic-- the [INAUDIBLE] is a minus
+sign, minus e is a charge.
+If you apply an electric field in the Z direction,
+all the relevant dipole moments are in the Z direction.
+For anisotropic materials, you could
+have an electric field in the Z direction,
+and the dipole moment points at an angle,
+but we do not have such a situation for our atoms.
+So the operator is then simply charge of the electron,
+the Z coordinate times the electric field,
+and this has odd parity, and that
+leads us immediately to the result
+when we have an atom in an eigenstate n.
+And we ask, what is the expectation value of H prime?
+It is 0, because of parity, so the answer
+is, we have no permanent dipole moment until we
+have degenerate energy levels.
+If n is a non-degenerate level, this matrix element
+is 0 by the parity selection rule.
+Now we want to do perturbation theory,
+so our perturbation operator is this.

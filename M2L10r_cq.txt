@@ -1,0 +1,15 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L10r_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 5 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+In Dirac-- that should be easy, but it's just a warm-up
+question for the next one.
+Which states are degenerate in Dirac theory.
+And you have a few choices.

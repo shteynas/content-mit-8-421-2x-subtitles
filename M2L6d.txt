@@ -1,0 +1,141 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L6d.txt
+#
+# Captions for 8.421x module
+#
+# This file has 131 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+OK then, let me spend five to 10 minutes
+on spectroscopic notation.
+
+So the next five or 10 minutes, how
+we describe the configuration of an atom,
+it's, well, I don't particularly like to teach it,
+because it's more nomenclature about old-fashioned symbols.
+On the other hand, if you're working with the atoms,
+you have to learn the language of how to describe atoms.
+And I also know that in, an appreciable fraction
+of oral exams, there will be one person in the committee,
+and say, what is your favorite atom,
+and what is the configuration of your atom?
+So, it's something, if you're an atomic physicist,
+you're supposed to know.
+The spectroscopic notation, the term designation
+focuses on the fact that if you have an isolated atom,
+we have angular momentum conservation,
+and so we have at least two quantum numbers, which I was
+also two good quantum numbers.
+We have some approximate quantum numbers,
+where we have additional terms which break certain symmetries,
+but an isolated atom lifts an isotropic space.
+The total angular momentum of this atom is conserved.
+It's absolutely conserved.
+It's an absolutely good quantum number,
+and the good quantum numbers is the total angular momentum J,
+and its projection M j.
+So, in the language of atomic physics, we call J a level,
+it's different from states, so one level
+has now, 2 J plus 1 sublevels, or states.
+So usually when we talk about a level,
+we assume the level has degeneracy, degeneracies,
+because there is the M j quantum number.
+So J-- we're talking about electronic structure--
+so J can have, when we have a isolated atom,
+can have contributions from several electrons.
+
+It can of contributions, and these electrons
+can contribute through spin, s, and orbital angular momentum L.
+In many situations, especially with alkali atoms,
+the inner core is completely filled shell.
+There is no s, no L from the inner electrons
+which contribute, and all the contribution
+of the angular momentum comes from the outer electron.
+Especially for the lighter atoms,
+to non-relativistic atom, the different electrons
+undergo LS coupling.
+In other words, if you have multiple electrons,
+their orbital angular momentum couple up
+to the total orbital angular momentum L,
+and all the spins couple up to the total spin, s.
+So therefore, before we introduce spin orbit coupling,
+L is a good quantum number, s is a good quantum number,
+and then they couple to a good quantum number J.
+Of course, once L and s couple to J, orbital and spin,
+angular momentum precess around the total angular momentum.
+But anyway, I just want to say when
+I talk about J, what are possible ingredients?
+So let's assume we have an atom which has total angular
+momentum J, which is the sum of orbital angular momentum
+and spin angular momentum.
+
+And then, in this case, we use a term designation,
+a level is designated by a term which
+is written as L, the value of orbital angular momentum.
+The spin multiplicity 2s plus 1, is an upper left index,
+and a lower right index is J. And of course if L is zero,
+we use the letter S P D. This is sort of the historic letter
+designation for L equals zero, one, and two.
+
+So, in other words, if you have an atom where the total angular
+momentum is composed of orbital angular momentum and spin,
+you can always write the [INAUDIBLE]
+and this [INAUDIBLE] is to turn designation which characterizes
+the state, the ground state, or an excited state of your atom.
+If you have the hydrogenic atom, you
+precede the term by the principal quantum number n.
+So let me give you an example.
+If you have the sodium atom, the outer electron
+has n equals three, it has zero orbital angular momentum,
+it has spin one-half, and 2 s plus 1 is 2,
+and the total angular momentum is one-half.
+If you go to the first excited state,
+you are still in n equals three, but you
+have promoted the electron from an s state to a p state.
+So therefore, the orbital angular momentum
+is now one, designated by p.
+The spin is still spin one-half, but now,
+orbital angular momentum of one, and spin one-half,
+can form a total angular momentum, which
+can either be one-half or 3/2.
+So, if you ask what is a state, you prepare your atom
+and you would give it a symbol three double it p one-half,
+and I've explained to you what it means.
+There is one addition, and sometimes you
+want to not just mention what is the principal quantum
+number of the outer electrons, sometimes
+you want to specify the whole configuration.
+
+So this would mean you want to sort of build up the electron
+shell, and day that I have two electrons in 1 s,
+tow electrons in 2 s, one electron in 2 p, and so on.
+So you use-- I think this would now be, so 1 s is hydrogen,
+1 s 2 is helium, OK, so this would
+be boron-- so what you use is, here we use the products,
+we use products of symbols n, l, m.
+So to come back to the example of sodium,
+so sodium is filled up, in the first two shells,
+so it's 2 p 6.
+And then we have one electron, the outer electron in 3 s.
+However let me point out, that this way
+to specify the configuration, strongly
+depends an a hydrogenic model.
+It assumes that the electrons are non-interacting, and is
+therefore an approximation.
+In contrast, the term designation,
+with a total angular momentum, is always exact,
+because-- well, it is the total angular
+momentum is an exact quantum number--
+whereas the configuration is based
+on the independent electron approximation
+and hydrogenic orbits.
+Usually when you have a real atom,
+and you calculate, with high precision,
+what the electronic wavefunction is,
+you find, actually, that's the total many body
+wavefunction is a superposition of many such configurations.
+But as long as one configuration is dominant,
+this configuration designation make sense.

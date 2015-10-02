@@ -1,0 +1,167 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L9b.txt
+#
+# Captions for 8.421x module
+#
+# This file has 158 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+If you have a definition of a nucleus
+or if you have an kind of an isotopic shape of an object,
+what is the minimum angular momentum in order
+go observe it.
+And I know a lot of you got confused about it.
+So I want to discuss the same thing again but by now focusing
+on two different frames, the lab frame and the body-fixed frame.
+And I hope you find this discussion insightful.
+
+So let's assume we have an object.
+It can be a molecule.
+Actually, you have a homework assignment
+where you can observe the permanent dipole
+moment of a molecule.
+And this will lead you into a discussion of lab
+frame versus body-fixed frame.
+So but let's assume we have an object-- assume
+it's a nucleus-- which has a really odd shape.
+However, if it has angular momentum of 0,
+all you have is one level.
+If you have an angular momentum of one half,
+you have two levels, and you can now define in the laboratory
+that the energy difference is due to the magnetic dipole
+moment, for instance, or in the electric dipole moment
+if you put in electric field.
+If you have I equals 1, you can have three levels--
+E1, E0, E minus 1.
+And let's say you have put the atoms into an electric field
+gradient, you can then ask if E0 is
+in the middle between up and down, plus 1 or minus 1,
+or whether it's displaced or not.
+And depending if this is larger or smaller than 0,
+you would say that it's a quadrupole moment, which
+is larger or smaller than 0.
+In other words, what I'm telling you
+is, if you have only one level, I equals 0,
+you can't say anything about the shape of the object.
+If you have two levels, you can determine the dipole moment.
+If you have three levels, by the deviation
+from the equidistance, you can find a higher order moment.
+
+OK.
+But now comes a point.
+If you assume you can now take two positions,
+you can say that for low I, the deformation.
+of the magnetic moment for I equals 0 cannot be measured.
+
+Therefore, it is 0.
+Or, you can say deformation exists
+but only not in the lab frame but in the body-fixed frame.
+So in other words, you would say that the deformation exists
+always.
+It's just a measurement problem.
+At low angular momentum, I cannot measure it.
+Or, the other statement would be, well,
+it you can't measure it in quantum mechanics,
+it means it doesn't exist.
+So which statement or which conclusion is correct?
+
+So this is the body-fixed frame augment and this is more
+based on the lab frame.
+I would say the lab frame argument is always correct
+because you can't measure it.
+You can't determine it in the lab.
+But let me go from there.
+Let's assume we have an object.
+And we think it has a deformation,
+but it has a low angular momentum state.
+Can we still say that in its body-fixed frame
+we have an object which has a deformation or not?
+Now, my personal opinion is the following.
+It really depends.
+If you have a system where you can add angular momentum
+without changing the internal structure-- for it's
+if I have this stick and I can just spin it up.
+If I can spin it up, I can get an angular momentum
+[INAUDIBLE].
+I can orient it and measure its deformation.
+Then I think I would say even if this state has 0 angular
+momentum, it has a deformation.
+And the way I know it because if I add angular momentum,
+I can measure the deformation.
+I cannot measure it at low angular momentum.
+So then you would say in the body-fixed system
+there is a deformation, but it only
+manifests itself in the lab frame
+if I had angular momentum.
+However, you may have an object, let's say a molecule,
+which is so weakly bound that one
+quantum of angular momentum due to centrifugal forces
+rips it apart.
+That exists, a extremely bound state,
+which cannot provide enough binding force to withstand even
+one unit of angular momentum.
+So that's an object which you cannot rotate--
+you cannot transfer any angular momentum without destroying it,
+without ripping it apart.
+And now to say that this molecule has a dipole moment
+or has some isotropy it's like if you are making a statement
+which cannot be tested at all.
+so at that point, you should rather say,
+what matters is what I can measure in the lab,
+but I will never be able to measure
+any deformation in the lab.
+So the first approach with the stick-- the first example
+with the stick will apply to a very stable molecule,
+which may have a dipole moment.
+And you assume it has the same dipole moment
+whether it's rotating or not.
+And then you would say at 0 angular momentum,
+I cannot measure the dipole moment,
+but I know it exists in the body-fixed frame.
+
+If you have nuclei-- if you have a nucleus
+and you have sort of a wave function of the protons
+and neutrons, and it's i equals 0,
+you will not find any moment.
+And at least for the ground set of nulcei,
+when you add angular momentum, you really
+change the internal structure.
+You have to promote nucleons to higher orbits.
+So you cannot add angular momentum and still have
+the same object.
+So therefore you have to say the ground state of I
+equals 0 has no deformation because there is not way
+to ever find if there's a deformation,
+so it doesn't exist.
+But there are excited state or nuclei,
+which have a deformation.
+And these deformed nuclei can be put onto a multi-plate
+of angular momentum states.
+So then you would see I have the same kind of nucleus
+but at different angular momentum states.
+And at higher angular momentum states
+you can, with higher [? QVC, ?] determine quadrupole moments
+and things like this.
+And then you may say the same internal state has now
+a non-rotating state, and you would still be tempted--
+and you are correct with that, to associate a deformation even
+at the non-rotating state.
+I hope those remarks help you to sort of reconcile the two
+aspects, whether you have an object which
+is stable enough to be spun up.
+And then I think you can always talk
+about the body-fixed frame.
+But if you have an object where you change the internal
+structure when you add angular momentum,
+I think for fundamental reasons, you cannot associate any
+deformation with it.
+
+Any questions about that?
+So let me just write down one sentence of a summary
+so that the definition of a deformation
+in the body-fixed frame makes sense
+only if you can add or change angular
+momentum without significantly changing
+the internal structure.

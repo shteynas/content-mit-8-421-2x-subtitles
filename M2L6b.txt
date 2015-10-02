@@ -1,0 +1,41 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L6b.txt
+#
+# Captions for 8.421x module
+#
+# This file has 31 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let's talk now about some general properties of one
+electron atoms with cores.
+
+A lot of research in our field is done with alkali atoms.
+Alkali atoms are not the hydrogen atom,
+but they have one outer electron.
+So they are hydrogen-like and now we want to sort of figure
+out what is the main difference.
+Because for one outer electron in rubidium and sodium,
+and the electron in hydrogen.
+Well if we have an electron, and this electron orbits around
+in the alkali atom.
+There is an ionic core which has a charge of z plus,
+but then in this sort of compact core,
+they are also c minus 1 electron.
+So the electron-- the outer electron pretty much
+feels the electric field overseeing the charge,
+but there is a presence of the core.
+So what I want to discuss with you
+is now what is the leading correction
+to the properties of this atom.
+What is the leading correction to the hydrogen-like wave
+function due to the fact that we have an ionic core and not
+a proton.
+For hydrogen, we would have the Rydberg formula
+that for principal quantum number, n,
+the energy is z square times the Rydberg constant divided
+by n square.
+
+So this would simply be what an electron

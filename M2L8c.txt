@@ -1,0 +1,129 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L8c.txt
+#
+# Captions for 8.421x module
+#
+# This file has 119 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So what is next now in revealing the atomic structure
+is we want to go beyond the Coulomb field created
+by a point charge, and that means
+we want to address the fact that we don't have a point charge,
+but we have a nucleus.
+And we are discussing now effects
+of the nucleus, which also go by the name hyperfine structures.
+So just to summarize, so far we have
+treated in pretty much complete detail what
+happens for an atom which consists of a point charge
+and electrons, but now we want to bring
+in what creates a Coulomb field, the nucleus, has structure.
+
+And there are actually four different ways
+how the nucleus has structure and contributes
+to observable effects on the atomic structure
+and atomic energy levels.
+The most important one is that the nucleus has
+a magnetic moment associated with the angular
+momentum of the nucleus I. The second contribution
+is, in addition to magnetic moment,
+there may be a quadrupole moment,
+and since those effects can lead to a splitting,
+this is actually usually called hyperfine structure,
+but then there are two more effects.
+One is the nucleus has finite mass,
+and the nucleus has a finite volume.
+Both the mass and volume effect lead to energy shifts,
+but tiny energy shifts are hard to measure unless you have
+two different shifts, and therefore those effects
+go as isotrope shifts because when you have an atom which
+comes into different isotropes, you
+find that due to those two effects
+the energy levels are not the same.
+So this goes by the name of isotrope shifts.
+
+By far the most important phenomenon
+is the first one, the fact that, if a nucleus has angular
+momentum, we have hyperfine structure,
+and for the high torsion atom, that
+means that the ground state, this single at s 1/2 state,
+actually splits into two states with total angular momentum
+quantum number F. So the relevance
+of hyperfine splitting is-- it's actually of huge relevance--
+one is you don't have a single ground state of many atoms.
+You have several ground states.
+So the lowest electronic state has several ground states, so
+several hyperfine states.
+Due to angular momentum selection
+you can actually talk to them individually.
+You can prepare them individually,
+and many of you who do magnetic trapping know
+that when you do magnetic trapping
+you better prepare the atom in a single hyperfine state,
+otherwise you are in trouble.
+So you can prepare individual states.
+In the old days, this was done by optical pumping,
+and you can use several hyperfine states
+to great advantage for the manipulation of atoms.
+For instance, if you want to, you
+can put atoms into a hyperfine state
+where they don't absorb light, and then you
+can have resonant light for the other ones.
+Blast those away so you can play your tricks
+because you have two states between which
+you can juggle the atoms.
+What else is the relevance of hyperfine structure?
+
+If you have two levels-- F equals 1,
+F equals 0-- you can observe a transition,
+and the famous 21 centimeter line
+is used for astronomical observations.
+
+Hydrogen is the most abundant element in the universe,
+and how do you see hydrogen out there?
+Well, it is due to hyperfine transition, the 21 centimeter
+line.
+And finally, another aspect why hyperfine structure is relevant
+where people use it is for the determination
+of nuclear properties.
+How do you know what the properties of nuclei are?
+Well, there are techniques in nuclear physics,
+but a lot about the knowledge of nuclei
+comes from atomic spectroscopy.
+If you measure atomic energy levels with high accuracy,
+you figure out what the properties of the nucleus is.
+And one of the most outstanding examples
+we will discuss later on, and some
+of which is also on your homework assignment,
+is you can use atomic spectroscopy of hydrogen
+to obtain the most accurate measurement-- how
+big is the proton?
+And the big surprise is that there was a surprise
+that people figured out that, until now, even in 2014,
+we do not fully understand how big the proton is,
+but we'll talk about that later.
+So for at the level of this introduction,
+we can use it for the termination of nuclear
+properties, and actually you cannot only determine nuclear
+properties of stable nuclei.
+You can also determine properties of unstable nuclei.
+At various accelerators, they will
+facility when by high energy collisions
+they create unstable nuclei.
+Maybe helium six.
+Helium with four neutrons.
+It exists, and you can take helium six, extract it,
+neutralize it, and then have a neutral helium atom,
+which looks like your everyday helium atom,
+but it has two more neutrons in the nucleus,
+and by performing atomic spectroscopy,
+you can figure out what is the deformation, what
+is the structure of this-- I want to say alpha particle,
+but it's an alpha particle plus two neutrons.
+So people have really learned to do those atomic physics
+measurement within a few seconds after the element has been
+produced, and thus determined nuclear properties even
+of unstable nuclei.

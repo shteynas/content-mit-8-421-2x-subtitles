@@ -1,0 +1,152 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L8p.txt
+#
+# Captions for 8.421x module
+#
+# This file has 142 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So we have two effects now.
+We have the volume effect, which is the stronger, the bigger
+and the heavier the nucleus is.
+So it's largest for heavy nuclei.
+And the mass effect or the effective mass effect
+is of course largest for the lightest
+nuclei, with the extreme example of positronium.
+
+Any questions?
+What sort of energy scales are consistent with the volume
+factor?
+What energy is--
+Is that comparable?
+No, let's estimate it.
+You're working with rubidium.
+What is the isotope shift in rubidium between 85 and 87?
+So many people worked with rubidium.
+What is the difference in transition frequency
+between rubidium 85 and 87?
+[INAUDIBLE]
+It's much more than gigahertz.
+You really have to tune your laser.
+I think if you look at a vapor cell,
+you will never accidentally see rubidium 85 flying.
+And for the mass effect, we said--
+So then they would be comparable.
+The mass effect is easy to estimate
+because the mass convection is one part in a few thousand.
+So that would mean on the order of 10
+to the 10 hertz, 10 gigahertz.
+So the volume effect, it really depends.
+It's tiny for light elements.
+Rubidium is already heavy.
+So right now, I would say they're comparable.
+But since it's of interest, I will give you
+more accurate numbers on Wednesday.
+Any the other questions?
+Yes.
+Can you explain the graph on the previous page,
+how the lines are joined up?
+The potential?
+Yes.
+Yeah, so what happens is-- so if we're being cryptic,
+this is the charge distribution.
+And what I'm doing now is I'm solving Laplace equation.
+I'm solving Laplace's equation.
+I'm indicating from r equals infinity.
+And as long as I'm outside the charge radius,
+I get the 1 over r Coulomb potential.
+But the moment I hit the surface of the nucleus,
+I continue to indicate Laplace's equation.
+But what is now inside is a smaller and smaller charge.
+So therefore, I don't-- I can also say I use a form
+of Gauss's law.
+So I'm therefore not continuing on the 1 over r.
+And if you look at Jackson or if you look at maybe a piece
+that you have solved, the 1 over r potential
+becomes now a parabola.
+And so what I wanted of indicate here
+is once you hit the surface of the nucleus,
+you're not continuing on the one over r trajectory.
+You have in a way which is continuous and has
+a continuous derivative, you have to fit in a parabola.
+And for the heavier nucleus, this
+leads us to this potential.
+And whereas for the lighter nucleus,
+the potential is deeper.
+And that explains why the binding
+energy for heavier nuclei is smaller
+than for lighter nuclei.
+Yes.
+So for the other orbitals, [INAUDIBLE] exactly
+0 or negative [INAUDIBLE]?
+
+OK, for the other orbitals, what we have to do
+is-- and actually, you have an homework assignment
+to do it for hydrogen and the proton--
+you take the difference between the actual potential
+and the Coulomb potential.
+So you take the difference.
+And the difference is your perturbation operator
+for the finite size of the nucleus.
+And now you take this perturbation operator
+between your wave function and calculate the lowest order
+of the expectation value.
+For the S electron, you can immediately
+factor out the probability for the electron at S equals 0.
+But as we discussed, if you have orbital angular momentun--
+let me just scribble it down here--
+the wave function is proportional to r to the L.
+The wave function is exactly 0 only at r equals 0.
+And then it slowly grows.
+So therefore, given the finite size or the nucleus,
+you will get a tiny, an absolutely tiny effect
+if you indicate a wave function r
+to the L over your perturbation operator.
+So it's not mathematically 0.
+But for all practical purposes, it vanishes.
+Nancy.
+For the different UPI, for example, in the video,
+is [INAUDIBLE] affecting anything?
+Or is it making [INAUDIBLE] also important in these isotopes?
+Because the nuclear structure would
+be different for both of them if they have
+different [INAUDIBLE].
+Oh, yeah.
+When we talk isotope effects, I was
+talking about the isotope effects of mass and volume.
+But different isotopes, really generally,
+have different magnetic moments, or different quadrupolar
+deformations.
+So what I discussed about hyperfine structure also
+applies to isotopes.
+I only separated it because usually when
+you don't have isotopes, you don't talk about-- like sodium.
+Who has ever talked about the mass shift or volume
+effect in sodium?
+Usually, you don't because sodium
+has 100% natural abundance in sodium-23.
+So therefore, the hyperfine effects,
+they lead to observable splittings even
+if you have only one isotope.
+But in general, yes, different isotopes
+differ in all four effects, the mass effect, the volume effect,
+the deformation effect, and the magnetic moment effect.
+But the [INAUDIBLE] mass and volume effects
+are used more than [INAUDIBLE]?
+Because [INAUDIBLE] something different, right,
+for different isotopes.
+
+In the start of the lecture, you were
+talking about adding [INAUDIBLE] to the other particles.
+That will change.
+So you would look at that in two different states.
+Oh, yeah.
+This would change.
+But you can separate those effects
+because I mentioned that in hyperfine structure,
+the center of mass of the energy levels is the same.
+So if you see a splitting but take the center for mass,
+then the center of ass will only depend on volume and mass

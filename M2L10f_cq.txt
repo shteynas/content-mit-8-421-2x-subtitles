@@ -1,0 +1,23 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L10f_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 13 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Next question, from hydrogen to helium.
+In helium, for the same electronic configuration,
+singlet or triplet states more tightly bound?
+So we talked about a shift or splitting between singlet
+and triplets states.
+Which way does it go?
+For the same electronic configuration, I'm not asking,
+the ground state has only one configuration.
+There's only one state in the ground state,
+but now we go to the excited state, to the excited states.
+And there are a number of excited states, because they
+have the same configuration, but they

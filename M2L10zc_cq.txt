@@ -1,0 +1,18 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L10zc_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 8 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+The question is, again, at high and low magnetic fields,
+what are the magnetic moments of those states?
+
+So we have four states-- spin up,
+spin down of the electron and the positron.
+And the question is what are the magnetic moments
+of those with hyperfine states?

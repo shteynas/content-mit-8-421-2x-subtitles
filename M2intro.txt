@@ -1,0 +1,37 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2intro.txt
+#
+# Captions for 8.421x module
+#
+# This file has 27 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Welcome to the second module of the course
+on atomic and optical physics.
+In module one we focused on the theme of resonance and two
+paradigmatic examples.
+One was the harmonic oscillator and the other one
+was a magnetic moment precessing in a magnetic field, which
+is a realization of a two-level system.
+Now we are addressing the question,
+where do those levels come from?
+Well, these are atomic states, discrete states
+of a system consisting of an atomic nucleus and electrons.
+In atomic physics the main actors are the atoms,
+and in this module we are inviting them to come
+to the stage of this course.
+The ingredients of an atom go beyond just
+positive and negative charges, because both the electron
+and the nucleus have spin, and this gives rise
+to additional richness called fine structure
+and hyperfine structure.
+Furthermore, the atomic states and the atomic energy levels
+can be modified, and therefore controlled, by external fields,
+by electric fields and magnetic fields.
+This control of quantum states is
+indispensable in the areas of quantum engineering
+of new systems or quantum simulations.
+And in this module, in module two of this course,

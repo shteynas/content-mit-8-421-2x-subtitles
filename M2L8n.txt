@@ -1,0 +1,86 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L8n.txt
+#
+# Captions for 8.421x module
+#
+# This file has 76 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let me now quickly discuss with you isotope effects.
+
+And I know that many people here know about isotope effects
+because, if you lock your laser to a lithium cell
+or to a rubidium cell, you find lithium-6 and lithium-7 peaks,
+and in rubidium, rubidium-85 and rubidium-87.
+So there are two peaks, which are spectrally very, very
+well resolved.
+And now I tell you what causes the splitting between the lines
+of rubidium-85 and rubidium-87.
+Well the first effect is really trivial.
+It's the mass effect.
+And I have to remind you that the Rydberg
+formula for a single electron energy level
+contains the reduced mass.
+In other words, the energy levels
+are the energy levels if you assume
+that the mass of the nucleus is infinite.
+That means you just take, for the electron mass
+in the Rydberg constant, the electron mass.
+But in general, you have to take the reduced mass.
+
+The big M is the nucleus, and small m is the electron.
+The simplest case, is if you set the nuclear mass to infinity,
+then you simply have the Rydberg constant with the electron
+mass.
+So in the limit that the nuclear mass is
+much larger than the electron mass,
+this correction factor is 1 minus little m over big M.
+So therefore, the correction factor is on the order of 10
+to the 4 or 10 to the 5.
+Visible frequencies are on the order of 10 to the 14.
+So 10 to the minus 4 or 10 to the minus 5 of it
+is between 1 and 10 gigahertz.
+So this is the scale for mass corrections
+due to the isotope effect.
+What is the sign of the isotope effect?
+Does the fact that the nucleus has a finite mass,
+does that mean that the binding energy of the electron
+is smaller or larger?
+[INAUDIBLE]
+
+The absolute value of the binding ener--
+[INAUDIBLE]
+Look at your signs.
+I would say it in the following Let's start
+out with an infinite nucleus, and only the electron
+is moving.
+But now we make the nucleus lighter.
+And that means the nucleus also has
+to move because it's a two-body problem.
+And there is additional kinetic energy,
+additional kinetic energy of the nucleus.
+And kinetic energy is positive and weakens the binding energy
+of the total system.
+So therefore, the fact that-- and
+the effective mass correction means,
+the lighter the nucleus is, the more kinetic energy
+has to be added to the system for the nuclear motion.
+And the more the binding energy is weakened.
+The most dramatic example is not the hydrogen atom.
+It is positronium.
+Where your nucleus is not a nucleus,
+it's a positively charged electron.
+It's a positronium.
+And in this situation, you have an effective mass,
+which is only one half of the electron mass.
+And the 1S-2S transition, which is Lyman-alpha for hydrogen,
+is now not even in the vacuum UV.
+It just happens at ordinary UV transitions.
+And that means now, you know, the 1S-2S energy
+is smaller by a factor of two.
+That really means the binding energy between an electron
+and a positron is only 50% of the binding
+energy of an electron in the hydrogen atom.

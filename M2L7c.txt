@@ -1,0 +1,126 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L7c.txt
+#
+# Captions for 8.421x module
+#
+# This file has 116 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let's go back to the helium atom,
+and look at the special symmetry, which
+comes, of course, because operators
+are symmetric with regards to the two electrons.
+What we have is, we have the total spin
+is the sum of the spins of electron one and electron two.
+All spin operators the spin operator s and its components,
+are symmetric against particle exchange.
+
+In other words, if you couple to the spin
+through a magnetic field, you couple to the two electrons
+symmetrically.
+And therefore, you have the selection
+rule that only symmetric and symmetric, and anti-symmetric
+and anti symmetric states couple.
+Or, to say the same thing-- to say
+the same result in different words--
+both the spatial and the spin symmetry, each of them
+can be symmetric and anti-symmetric.
+Of course, the product of them has
+to be anti-symmetric because we're talking about fermions.
+So both of these symmetries are good quantum numbers.
+
+Or, more formally, all observables commute
+with the particle exchange operator.
+So in any arbitrary observable commute.
+
+So the commutator of the particle exchange operator
+benefits.
+OK, but now what is special to the approximation in which we
+have treated helium, as long as wavefunctions
+and operators separate into spin-dependent and
+space-dependent parts-- of wavefunction
+had a spatial part, and then be multiply it
+with a spin wavefunction.
+So the wavefunction factorize, separated into a spin
+part and a spatial part.
+Also, the operator, if you operator for total spin,
+if you operator for dipole moment,
+the operators are either addressing
+the spatial degree of freedom, or the spin degree of freedom.
+So as long as this is the case, we
+have an even extended conservation law for both spin
+exchange, for exchange of the particles
+in the spatial domain, and the spin domain.
+So as long as wavefunctions and operators
+separate into spin and space dependent parts,
+then the particle exchange operator
+can be regarded as the product of an exchange operator, which
+only acts on the spatial wavefunction,
+and on the spin part of the wavefunction.
+And both quantum numbers, for spin exchange,
+symmetric, anti-symmetric, and for exchange of particles
+in the spatial part of the wavefunction,
+symmetric or anti symmetric, are conserved.
+
+So often we discuss symmetries and the reason
+why something is conserved, because then we can think
+about, how do we violate it?
+Often you can say, conservation laws
+are often written down just as a way to think about it.
+How can we break them?
+And in this case, we can break this symmetries, which
+doesn't allowed transitions between singlet and triplet,
+we have to break them to get an intercombination lines.
+So in order to get and simulate to triplet transition,
+is only possible when we violate the assumptions
+we've just discussed.
+
+And, of course, an assumption was
+that the wavefunction factors into spin
+part and a spatial part, but when spin and spatial
+wavefunctions are mixed, for instance by spin orbit
+coupling, then the assumptions we've discussed
+are no longer valid.
+So what we need is, for instance a mixing of spin and spatial
+wavefunctions by spin and coupling.
+
+Well, as we will learn later today,
+spin orbit coupling is actually a relativistic effect,
+it naturally arises in the dirac equation,
+and it scales with the nuclear charge s z to the four.
+So therefore in Helium it is very, very busy weak.
+Therefore, the triplet ground state is extremely long-lived.
+The lifetime in Helium is 8,000 seconds.
+It's one of the most longest-lived metastable states
+you can imagine in which you find in atomic physics.
+Now, since spin orbit coupling becomes rapidly stronger
+with nuclear charge, you would expect the metastable lifetime
+to be much shorter time for the analogous
+state in the other rare gases.
+And indeed, the other rare gases are on the order of 40 seconds.
+You have other atoms where you have singlet and triplet lines.
+We need two electrons, and the two spins
+can from singlet or triplet.
+So that naturally also happens in two atoms which
+are in the second column of the periodic table,
+magnesium, calcium, strontium, have intercombination lines.
+And they are actually very relevant in current research
+because these are candidates for atomic clocks.
+In those atoms, magnesium, calcium, strontium,
+physics is more complicated.
+The line rate is typically kilohertz.
+But that's probably just what you want.
+If the line rate is kilohertz, the lifetime is millisecond,
+you still have a matrix element that you can drive
+the transition and observe it.
+For an atomic clock, you don't want a transition
+which is thousands of seconds, or half the age
+of the universe, because it's too weak to be observed, too
+weak to be driven.
+So in the combination lines of kilohertz
+lined with a few hundred Hertz or such,
+are almost ideal for optical atomic clocks.
+Any questions?

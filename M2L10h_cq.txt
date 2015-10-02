@@ -1,0 +1,20 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L10h_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 10 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+The next question.
+So we understand now, there's a difference between triplet
+and singlet state in excited states
+for the same electronic configuration.
+And the question is, what is the origin
+of the energy which is splitting the singlet
+from the triplet state?
+Magnetic energy, spin-spin interactions,
+or electrostatic interactions?

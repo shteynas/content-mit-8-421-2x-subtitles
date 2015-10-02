@@ -1,0 +1,35 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L4a.txt
+#
+# Captions for 8.421x module
+#
+# This file has 25 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So our big next chapter is now atoms or atomic structure.
+And we build it up in several stages.
+Well, first things first.
+And the first things are the big chunks of energy
+which define the electronic structure.
+We discuss electronic structure for one electron and two
+electron atoms, hydrogen and helium.
+We don't go higher in the periodic table.
+But then we talk about other contributions
+to the energy of atoms, other contributions to the level
+structure of atoms.
+And this will start with fine structure, the lamb shift.
+We bring in properties of the nucleus
+by discussing hyperfine structure.
+And then, as the next big chapter,
+we will learn how external fields, magnetic fields,
+electric fields, and electromagnetic fields
+will modify the level structure of atoms.
+So by going through all those differently layers,
+we will arrive at a rather complete description.
+If you have an atom in the laboratory,
+what determines its energy level and the transitions
+between those energy levels?
+So this is our agenda for the next few lectures.

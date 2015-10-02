@@ -1,0 +1,166 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L11g.txt
+#
+# Captions for 8.421x module
+#
+# This file has 156 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let's now be specific.
+Let's assume the electric field points
+in the z direction for an isotropic medium.
+Our dipole moment, the time-dependent dipole moment
+which we induce, is also pointing in the z direction.
+And so we want to calculate now, what
+is the dipole moment which is created by the drive term,
+by the driven electric field?
+And for that, we simply use the perturbation field
+we have just applied.
+We take the ground state and its first order correction,
+and calculate the expectation value of the dipole moment.
+In the line at the top, we have the first order correction
+to the ground state wave function,
+and so we just plug it in and what we obtain
+is result where we have the matrix element squared.
+Remember, we do first order perturbation field,
+which is one occurrence of the matrix element,
+but now we take a second matrix element because we induced it
+in the dipole operator.
+So this gives us now a sum over matrix element squared.
+We have e to the plus i omega t and e to the minus i omega t.
+This means we get two times the real part of this expression,
+and the time-dependent term is e to the i omega t,
+and then we have the term with plus and minus omega.
+
+And here, [INAUDIBLE] most importantly,
+everything is driven by the electric field.
+We can now write the result in an easier way.
+We can use this result with omega minus omega.
+We can write that as 2 times omega kg omega
+kg squared minus omega squared times cosine omega
+t times the electric field.
+So we have the matrix element.
+We have integrated the e to the i omega t function and such,
+so what we have here now is the time-dependent electric field,
+and what we have here is the factor by which we multiply
+the electric field to obtain the dipole moment,
+and this is the definition of the now
+time-dependent or frequency-dependent
+polarizability.
+This part here can actually-- that's how we often report
+and that's how you often find in textbook the result,
+the frequency dependence of the AC polarizability,
+but I like to rewrite it now in a different way which
+is identical, and it shows now that there
+are two contributions.
+Those two contributions, one has in the denominator,
+let's assume we excite the system close to resonance.
+Omega is close to omega kg.
+Then one term is much, much closer.
+[INAUDIBLE] to a [? real ?] resonant excitation,
+and from our discussion about rotating frames,
+we have all this [? real ?] resonant excitation corresponds
+to a co-rotating term, and the other one corresponds
+to a counter-rotating term.
+We've not assumed any rotating fields here,
+but we find those terms with the same mathematical signature,
+and I will discuss a little bit later what the physics is
+between the co-rotating and counter-rotating term,
+and it's the co-rotating rotating term which
+is the term which survives this so-called rotating wave
+approximation.
+I just want to identify those two terms,
+and let's hold the thought until we have the discussion.
+What I first want to see is the limiting case.
+We have not made any assumptions about frequency.
+
+When we let omega go to zero, we obtain the DC result.
+It is important to point out there
+when we have the DC result, we can only
+get the correct results because we
+have equal contributions from co- and counter-rotating terms.
+
+So that's sort of a question one could ask,
+which mistake do you do for the DC polarizability
+when you do the rotating wave approximation?
+Well, you miss out on exactly 50% of it
+because both terms become equally important.
+
+I have deliberately focused here on the calculation
+of the dipole moment because the dipole-- I simply calculated
+the dipole moment as being proportional
+to the electric field, and the coefficient in front of it
+is alpha, the polarizability.
+You may remember that when we calculated
+the effect of a static electric field,
+we looked for the DC Stark shift,
+for the shift of energy levels.
+We can now discuss also the AC Stark shift, which
+is a shift of the energy levels due to the time-dependent
+field, but I have to say, you have
+to be a little bit careful.
+And sometimes when I looked at equations like this,
+there is the moment of confusion what the question
+is because the wave function is now a time-dependent wave
+function.
+It's a driven system.
+It's no longer your time-independent Schrodinger
+equation and you ask what is the shift
+in the value of eigenvalues.
+So the AC Stark shift here is now
+given by the frequency-dependent polarizability.
+And then, and I know some textbooks do it
+right away and at the end of the day it may confuse you,
+it uses an average of E square.
+So in other words, if you have an electric field which
+is cosine omega t and you calculate what is the AC Stark
+shift, you get another factor of 1/2
+because cosine square omega t time averaged is 1/2.
+So anyway, just think about that.
+It's one of those factors of 1/2 which is confusing.
+Will, you have a question?
+So when we take omega goes to zero from our previous results,
+are we still justified in neglecting the transient term?
+
+Yes, but why?
+
+What will happen is the transient term is really
+a term which has time dependence,
+and even if omega is zero, just a step function
+of switching it on creates an oscillation
+in the atom at a frequency which is omega excited
+state minus omega ground state.
+You may think about it like this-- I give you
+more the intuitive answer.
+Take an atom and put it in electric field.
+If you readily switch on the electric field,
+you create a dipole moment by admixing at zero frequency
+a P-state into the S-state, and that displaces the electron
+from the origin.
+But if you suddenly switch on the electric field,
+you actually create a response of the atoms which
+has a beat note between the excitation
+frequency of the P-state and the excitation
+frequency of the S-state.
+And what you regard is the DC response of the atom
+is everything except for this transient term.
+However, and this tells me something
+about the different formulas in quantum mechanics,
+when we talked about the time-independent perturbation
+field, we never worried about the switch
+on because we just did time-independent perturbation
+field and we sort of assumed that the perturbation
+term had already existed from the beginning of the universe.
+So it's not that we excluded the term.
+We formulated the theory in such a way
+that the term just didn't appear.
+But if you switch on a DC field, you
+should actually if you want an accurate description
+to time-dependent perturbation theory,
+you get the transient term even for a DC field,
+and then you discuss it the way I did.
+
+OK, so if you want, these are the textbook result.

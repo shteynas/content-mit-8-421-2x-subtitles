@@ -1,0 +1,210 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L11h.txt
+#
+# Captions for 8.421x module
+#
+# This file has 200 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I want to add three points to the discussion.
+You can also see at this point we have really
+understand the AC Stark shift theory as you find it
+in generic quantum mechanics textbooks.
+And now I want to give you a little bit of sort
+off extra insight based on my knowledge of atomic physics.
+So there are three points I would like to discuss here.
+The first one is the relation to dressed to the dressed atom
+picture.
+The second one is, I want to parametrize the results
+for the polarized ability using the concept of oscillator
+strengths.
+And thirdly, I want to tell you how
+you can already at this point take our result for the AC
+polarized ability and calculate how do atoms absorb light?
+And what is the disperse of phase shift,
+which atoms generate when they're exposed to light.
+Or, in other words, I want to show you
+that based on this simple result,
+we have pretty much already all the information we need
+to understand how absorption imaging and dispersive
+imaging is done in the laboratory.
+Let's start with number one, the relation to the dressed atom.
+So what I want to show you now is, that the result
+we obtained in time-dependant perturbation theory,
+we could've actually obtained in time-independent perturbation
+theory by not using the coherent electric field, which
+oscillates, but just assuming that they're stationary Fock
+states or photons.
+And this is actually the dressed atom picture.
+I know I'm throwing now a lot of sort of lingo at you.
+It's actually very, very trivial.
+But I want to show you that you've
+a result where if you just open your eyes
+you see actually the dressed atom shining through.
+So what we had is, we had an energy shift here,
+which was-- let me just summarize what we've derived.
+It was this result with a polarized ability,
+which we derived.
+And let me rewrite the result from above.
+
+So this is why I make the remark about the averaging
+of the electric field.
+If you combine it with, as you will see,
+Rabi frequencies and dressed atom picture,
+you meet the amplitude of the electric field.
+And formulated in the amplitude of the electric field,
+you have one quarter.
+And this is not a mistake.
+And you can really trace it down to the time
+average of the course in term.
+OK.
+So this is now-- I'm really copying from the previous page.
+We had the difference frequency between state one and state
+two.
+So I'm simply assuming we couple two states now in S
+and P state.
+If you want, we have a matrix element,
+which is the matrix element of the position
+operator, Z, between state one and state two squared.
+We have an energy denominator, which was this one.
+And we have-- so I'm just rewriting the previous result.
+But now, I usually hate matrix elements
+when they appear in a creation.
+I mean, who knows matrix elements.
+What is the relevant thing when we
+couple two different states is the Rabi frequency.
+Frequency units is what we want.
+So therefore, I've prepared the formula
+that I can take the matrix element
+with the electric field.
+And this is nothing else than the Rabi frequency squared.
+Or actually, one is measured in energy units.
+The other is frequency units, or there's an H plus squared.
+So therefore, I've now written this result
+in what I think is a more physically insightful way
+by explicitly identifying the Rabi frequency with [INAUDIBLE]
+and excited state.
+And I also want to separate-- I want
+to introduce the detuning of the time-dependent oscillating
+electric field from resonance.
+
+And then I obtain this result.
+Doesn't it look so much simpler than what we had before?
+And it has a lot of physics we can discuss now.
+One over delta is sort of-- it's like an AC Stark effect
+in one limit.
+It's a far-off resonate case or of an optical trapping
+potential.
+So this formula that has a lot of insight,
+which I want to provide now.
+The second part-- I give you the name
+and the interpretation will become obvious in the moment--
+is the important bloch-siegert shift.
+It is the AC Stark shift due to the count of rotating term.
+So what I'm motivating here is-- just don't get confused.
+What I write down is very simple.
+And I sometimes use advanced language for those of you
+who you have heard those passwords.
+But what I really mean is-- what I want to discuss
+and for you to follow are the simple steps we do here.
+So anyway, what I've just done is
+I've rewritten the result from the previous page,
+but just introducing what I suggest as more
+physically appealing symbols.
+And now I want to remind you that this result for the AC
+Stark effect, doesn't it look very
+similar not to result to the standard result
+of time-independent perturbation theory?
+
+And, of course, you remember that
+in time-independent perturbation theory,
+you get an energy shift, which is
+the square of a matrix element divided by detuning.
+
+So it seems when we inspect our result for the AC Stark
+effect, which came from time-dependent perturbation
+theory, that this result here has actually-- if you map it
+on time-dependent-- independent theory,
+if has two terms, both coupled by the Rabi frequency.
+But one has a detuning of delta and the other
+has a detuning of minus 2 omega minus delta.
+So it seems that the result for the AC Stark shift
+can be completely understood by--
+and a mixture of not one, but two different states
+with different detunings.
+And this is exactly what we will do in 8422 in the crest atom
+picture when we have quantized the electromagnetic field.
+In other words, we have photons.
+Because then what we have is the following.
+We have the ground state with N photons in gamma.
+Well, there are sort of N quanti in this use than N photons.
+But what we can do is we can now have one quantum of excitation
+with the atom and N minus 1 photons.
+So it's almost like absorbing a photon.
+And this state has a detuning of delta.
+
+But then we can also consider an excited state.
+In other words, here we connect to the excited state
+by absorbing a photon, but we can also
+talk about it more and later.
+We can also connect to the excited state
+by emitting a photon.
+
+So this state has now not one quanta excitation.
+It's three quanta of excitation, one in the atom
+and two in the photon.
+So therefore, it's detuning-- it's now much, much larger.
+Actually, if we're on resonant own,
+the detuning would be just 2 omega.
+But if you are detuned there is the delta.
+So in other words, we can just say,
+if we would do time-independent--
+I'm not doing it here.
+And I leave kind of all the beauty
+to when we discuss the dressed atom picture
+in it's full-fleshed version.
+But all I'm telling you is that the result for the AC Stark
+shift looks like time-independent perturbation
+theory with those two detunings.
+And I'm now offering you the physical picture behind it
+by saying, look.
+When we have the ground state with N photons
+and we have those two other states,
+they have exactly the detuning, which our result suggests.
+And yes, indeed.
+If you look at the manifold of those three states
+and we would simply do time-independent perturbation
+theory, we would find exactly the same frequency shift
+to AC Stark shift as we just obtained
+in a time-dependent picture.
+So in other words, what I'm telling you is there
+are two ways to obtain the AC Stark shift.
+One is, you do time-dependent perturbation theory,
+assume an oscillating electric field.
+And that would mean in the quantized language
+you assume the electromagnetic field is in a coherent state.
+Alternatively, you can quantize the electric field
+and introduce Fock states.
+And then, because Fock states are time-independent,
+then these are the eigenstates of the electromagnetic field
+in a cavity.
+And now you obtain the same atomic level
+shift in time-independent perturbation theory.
+So in other words, we can have photon number states
+and do time-independent perturbation theory,
+or alternatively, we can use the same classical electric field,
+which means we have a classical electric field.
+And then we can treat it in time-dependent.
+
+All of the textbooks generally use the letter approach
+because it uses a seemingly classic electric field.
+But I can tell you I strongly prefer the first approach,
+because in the first approach you've no problems whatsoever,
+but is a time-dependent wave function.
+What is an energy level shift when you have a driven system?
+
+In a time-independent way everything just
+is simple and right there in a simple way.

@@ -1,0 +1,14 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L10t_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 4 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+OK.
+The next question is, what effects lifts now
+the degeneracy between the 2S 1/2 and the 2P 1/2 in turn.
