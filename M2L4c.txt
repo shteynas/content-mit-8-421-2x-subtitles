@@ -18,7 +18,7 @@ And it says that the energy levels, let me write it
 in the following way.
 It depends on the electron mass, the electron charge, h bar
 square.
-It has a reduced mass [? correction. ?]
+It has a reduced mass correction.
 And then n is the principal quantum number.
 It scales as 1 over n square.
 So this here is the reduced mass factor.
@@ -27,7 +27,7 @@ Sometimes with the index infinity
 because it is the Rydberg constant which
 describes the spectrum of a hydrogen atom
 where the nucleus has infinite mass.
-If you include the reduced mass [? collection ?]
+If you include the reduced mass correction
 for the mass of the proton, then this factor
 which determines the spectrum of hydrogen,
 is called the Rydberg constant with an index h for hydrogen.
@@ -39,7 +39,7 @@ We're not talking about that.
 But there is a radial part, radial-way function.
 
 If you solve it, if you find those wave functions,
-there are a number of node [? diversity ?] results.
+there are a number of noteworthy results.
 One is, in short form, the spectrum is the Rydberg
 constant divided by n square.
 I want to talk to you about your intuition
@@ -55,14 +55,14 @@ The expectation value for the radius
 is a little bit more complicated-- 1/2 1 minus l
 times l plus 1 over n square.
 Whereas the result for the inverse radius is very simple.
-What I've introduced here is the natural [? length ?] scale
-for the hydrogen atom which is [? simple ?] radius.
-And just to be general, u is the reduced mass.
+What I've introduced here is the natural length scale
+for the hydrogen atom which is the Bohr radius.
+And just to be general, mu is the reduced mass.
 So it's close to the electron mass.
 The one thing I want to discuss with you and you should--
-we will need later on for the discussion of [? quantum ?]
-[? defects ?] for field ionization and other
-[? forces ?] is we have to know what the size of the wave
+we will need later on for the discussion of quantum
+defects  for field ionization and other
+processes is we have to know what the size of the wave
 function is.
 And so usually if you a wave your hands,
 you would see the expectation value of 1
@@ -71,7 +71,7 @@ But there are now some important differences.
 I first want to sort of ask you why
 is the expectation value of 1 over r, why does it have
 this very, very simple form?
-[INAUDIBLE]
+[Student]: The virial theorem.
 The virial theorem.
 Yes.
 We know that there is a very simple form for the energy
@@ -92,8 +92,8 @@ And therefore, the total energy is proportional to 1 over r,
 and therefore 1 over r has to scale exactly as the energy,
 since the energy, until we introduce fine structure is
 independent of l, only depends on the principle
-[? quantum ?] number n.
-We find there's only an [? n-dependence. ?] But if you
+quantum number n.
+We find there's only an  n-dependence.  But if you
 would ask what is the expectation value
 for the radius, you find an l-dependence
 because you're talking about a very different quantity.
@@ -116,18 +116,18 @@ is minus 1/2 times the potential energy.
 So, this factor of 2 appears now in a number of relations.
 And it's as follows.
 If you take the Rydberg constant,
-the Rydberg constant in [? cgs ?] units,
-is well that's the columb energy at the [INAUDIBLE] radius.
+the Rydberg constant in  cgs units,
+is well that's the columb energy at the Bohr radius.
 But the Rydberg constant is 1/2 of it.
 So the Rydberg constant is 1/2 of another quantity
-which is called 1 hartree.
+which is called 1 Hartree.
 We'll talk on Monday about atomic units,
 about a fundamental system of units.
 And the fundamental way-- the fundamental energy
 of the hydrogen atom-- the fundamental unit of energy
 is whatever you can-- whatever energy you
-can construct using the electron mass, the electron charge and h
-bar.
+can construct using the electron mass, the electron charge and
+hbar.
 And what you get is 1 hartree.
 If you ever wondered why the Rydberg is 1/2 hartree, what
 happens is in the ground state of hydrogen,
@@ -136,15 +136,15 @@ But then because of the virial theorem, you have minus 1/2
 of it is kinetic energy.
 And therefore the binding energy in the n
 equals 1 ground state, which is 1 Rydberg,
-is 1/2 of the hartree.
+is 1/2 of the Hartree.
 So this factor of 1/2 of the virial theorem
 is responsible for this factor of 2-- for those 2 energies.
-I usually prefer [? si ?] units for all calculations.
+I usually prefer SI units for all calculations.
 But there are certain relations where
-we should use [? cgs ?] units.
-Just as a side remark, if you want to go to [? si ?] units,
+we should use CGS units.
+Just as a side remark, if you want to go to SI units,
 you simply replace the electron charge e square by e square
-divided by 4 pi x [? 0 ?] [? 0. ?]
+divided by 4 pi epsilon_0.
 
 So I've discussed the hydrogen atom.
 It's also insightful and you should actually
@@ -156,10 +156,10 @@ if you have a stronger attraction,
 if you would go to helium nucleus or even a more highly
 charged nucleus and put 1 electron in it.
 Because of the stronger columb attraction, all
-the [? link ?] scales are divided by z.
+the length scales are divided by z.
 So everything is small enough by a factor of z.
 So what does that now imply for the energy?
 Well, you have a columb field which is z times stronger.
-But you [? probe it ?] now.
-It is z times smaller radius, so therefore the energies scale
+But you  probe it now,
+at a z times smaller radius, so therefore the energies scale
 with z square.
