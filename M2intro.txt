@@ -34,4 +34,4 @@ by electric fields and magnetic fields.
 This control of quantum states is
 indispensable in the areas of quantum engineering
 of new systems or quantum simulations.
-And in this module, in module two of this course,
+And in this module, in module two of this course, you will learn about the concepts behind those tools.
