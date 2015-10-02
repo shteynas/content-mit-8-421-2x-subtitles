@@ -53,7 +53,7 @@ is with an optical transition where
 you need a much, much higher relative precision
 to see the tiny Lamb shift.
 But optical [INAUDIBLE] with direct frequency measurements
-and frequency [? codes ?] has so much improved in precision that
+and frequency combs has so much improved in precision that
 now, an optical measurement, even if it comes to tiny
 difference is more accurate than a [? directive ?]
 of measurement.
