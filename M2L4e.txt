@@ -1,0 +1,55 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L4e.txt
+#
+# Captions for 8.421x module
+#
+# This file has 45 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+The interesting thing about the length scaling
+is-- and I just want to draw your attention to it,
+because it can be confusing-- that in hydrogen we
+have not only one length scale but two length scales.
+We have mentioned one of them already,
+which is the energetic length scale, 1 over r; 1 over r
+is the Coulomb energy.
+Because of the Virial theorem it's
+proportional to the total energy,
+and that's what you know-- what you remember-- when you wake up
+in the middle of the night out of deep sleep,
+that the energy of hydrogen is 1 over n square.
+So therefore this is a0 over n square.
+However, if you look at the wave function of hydrogen,
+you factor out when you solve the radiant equation,
+you factor out an exponential.
+There's sort of polynomial and then there is an exponential ek
+decay, and the characteristic lengths
+in the exponential decay of the wave function is na0 over z.
+So therefore we have-- when we talk about wave functions
+with principle quantum number n, there
+are two length scales, 1 over rnl scales with n square,
+but it's the characteristic length
+scale in the exponential part of the radial wave function scales
+with n and not with n square.
+And it is this exponential part of the wave function
+which scales with n, which is responsible for the probability
+to find the electron s in nucleus which,
+as I said before, the z scaling is simple,
+but the n scaling is not n to the 6, its n cube.
+
+And this is really important, and this
+describes the scaling with n for everything which
+depends on the presence of the electron s in nucleus.
+One is to quantum defect and the other one
+is the hyperfine structure.
+Let me just give you one more scaling.
+I've discussed now what happens for 0 angular momentum,
+for finite angular momentum states,
+Psi is proportional to r to the l, so therefore if you ask what
+is size square, it scales with 2l and, at least for large n,
+the n scaling is, again, 1 over n cube.
+OK.
+That's what I wanted to present you today.

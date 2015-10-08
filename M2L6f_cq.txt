@@ -1,0 +1,57 @@
+#
+# File:   content-mit-8-421-2x-subtitles/M2L6f_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 47 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+OK.
+So the last thing I want to discuss
+is the new feature of two electrons,
+is that we have singlet and triplet levels,
+so we have a letter of states which
+are singlet states, and then-- and this
+is what we just discussed-- let me just make
+dash lines-- because of these ferromagnetic spin-spin
+interaction, we have triplet states,
+which have lower energy, so these
+are n equals 2 triplet states, n equals 2 triplet states,
+j equals 1, j equals 0, 1, 2.
+So, of course, there are transitions
+between those levels, and from a P-state,
+you can have transitions down to S-state.
+The question I have is, what about possible
+transitions between triplet and singlet?
+So what I want to ask you now with a clicker question
+is, what kind-- so those transitions here
+are transitions between singlet and triplet,
+and the technical term for transitions
+between singlet and triplet are intercombination lines.
+
+So the question I have for you is,
+what fields or couplings drive singlet-triplet transitions?
+
+I want you to think about the model we have discussed so far.
+All we have is Coulomb energy-- Coulomb energy
+between the nucleus and the electrons
+and between the electrons.
+That's it.
+We do not put any other terms into the Hamiltonian,
+and now we have obtained those wave functions,
+we have obtained those energy splitting,
+and now we want to ask, are there transitions possible?
+So one possibility is that we can drive the transition
+with optical fields.
+Let's say our dipole operator, which many of you
+have encountered in life.
+We have already discussed rotating magnetic fields
+the first part of the course.
+Is it possible to use force magnetic fields
+and optical fields?
+Or the last answer is none of the above.
+It's not possible with any of those fields
+to create any kind of transition between singlet and triplet.
