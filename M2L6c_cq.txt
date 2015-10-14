@@ -19,8 +19,8 @@ it would actually lead to a modified rescaled root back
 constant.
 Or is the correction higher order in n?
 Or finally, is it a correction which
-changes the you effective principle [INAUDIBLE]
-to number n?
+changes the effective principal quantum
+number n?
 
 Maybe you know the answer or maybe you
 want to try to guess the answer.
