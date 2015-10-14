@@ -54,7 +54,7 @@ if you create charges between the electron and the proton,
 you have a shielding effect, and the shielding effect
 should weaken the Coulomb field.
 But the question is, what do we regard
-as the element heavy charge, e, in our Schrodinger equation.
+as the elementary charge e in our Schrodinger equation.
 And what we regard as the charge, what
 is measured in a Milliken droplet
 the experiment is already the shielded charge.
