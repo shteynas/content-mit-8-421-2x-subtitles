@@ -69,7 +69,7 @@ Rydberg, twice the binding energy of the electron
 in the 1s state.
 And we had some discussion last week that the factor of two
 reflects the virial theorem.
-This is actually that one hardly is the Coulomb
+This is actually that one Hartree is the Coulomb
 energy of the electron in the 1s state, which
 is a binding energy.
 But then half of it is kinetic energy,
