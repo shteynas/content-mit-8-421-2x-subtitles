@@ -72,7 +72,7 @@ it was not clear what that the decay path is.
 Well, recently means probably a few decades ago,
 but for a long time it wasn't even clear
 and the calculations were not accurate enough--
-what was the mechanism by which the metastable constant
+what was the mechanism by which the metastable triplet ground state
 of helium could decay.
 
 When I prepared the class I wanted to give you
