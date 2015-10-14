@@ -39,3 +39,4 @@ the energy is z square times the Rydberg constant divided
 by n square.
 
 So this would simply be what an electron
+would do in the Coulomb field of a single charge.
