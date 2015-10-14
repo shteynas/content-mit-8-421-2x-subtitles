@@ -21,7 +21,7 @@ I've sometimes seen sources where
 this is discussed as the main contribution to the Lamb shift.
 But this is not correct.
 This is only 3% of the total and contributes
-20 second megahertz.
+only 22 megahertz.
 This is what is called the vacuum polarization.
 So if you have a proton positive charge,
 and you have the electron.
