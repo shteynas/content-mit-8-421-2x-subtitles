@@ -11,7 +11,7 @@
 
 The question is, what is the leading correction
 to this formula.
-This effect that we have in ionic core,
+Does the fact that we have in ionic core,
 does it make a constant offset to the binding energy?
 Or does it make the correction, which goes as 1 over n squared.
 This [INAUDIBLE] scale-- the overall spectrum--
