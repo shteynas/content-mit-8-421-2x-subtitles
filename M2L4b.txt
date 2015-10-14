@@ -80,4 +80,5 @@ I rather want to sort of give you
 a few insightful comments about the structure of hydrogen,
 some scaling of length scales and energy levels,
 because this is something we need later in the course.
-So in other words, I want to highlight
+So in other words, I want to highlight things which are often
+not emphasized in the textbooks.
