@@ -16,9 +16,9 @@ A lot of research in our field is done with alkali atoms.
 Alkali atoms are not the hydrogen atom,
 but they have one outer electron.
 So they are hydrogen-like and now we want to sort of figure
-out what is the main difference.
-Because for one outer electron in rubidium and sodium,
-and the electron in hydrogen.
+out what is the main difference
+between one outer electron in rubidium and sodium
+and the sole electron in hydrogen.
 Well if we have an electron, and this electron orbits around
 in the alkali atom.
 There is an ionic core which has a charge of z plus,
