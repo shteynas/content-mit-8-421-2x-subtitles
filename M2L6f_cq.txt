@@ -13,7 +13,7 @@ OK.
 So the last thing I want to discuss
 is the new feature of two electrons,
 is that we have singlet and triplet levels,
-so we have a letter of states which
+so we have a ladder of states which
 are singlet states, and then-- and this
 is what we just discussed-- let me just make
 dash lines-- because of these ferromagnetic spin-spin
