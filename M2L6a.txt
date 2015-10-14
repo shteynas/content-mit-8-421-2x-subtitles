@@ -51,7 +51,7 @@ So c is not part of the fundamental constants
 we have to consider now.
 It will later come in the fine-structure constant,
 but this is a different story.
-So, we have three units, e, m, z,
+So, we have three units, e, m, and h bar
 and you can just play the game of combinatorics
 and see can do find length which consist of those three units.
 And well, it's h squared, m over e squared.
