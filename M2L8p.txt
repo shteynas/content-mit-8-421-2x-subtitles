@@ -108,8 +108,7 @@ to the L over your perturbation operator.
 So it's not mathematically 0.
 But for all practical purposes, it vanishes.
 Nancy.
-[Student:
-For the different Rb isotopes, for example, in the video,
+[Student: For the different Rb isotopes, for example, in the video,
 do mass and volume affecting anything?
 Or is it making NAUDIBLE] also important in these isotopes?
 Because the nuclear structure would
