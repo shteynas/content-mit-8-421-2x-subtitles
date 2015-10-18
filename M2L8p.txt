@@ -28,7 +28,7 @@ What is the isotope shift in rubidium between 85 and 87?
 So many people worked with rubidium.
 What is the difference in transition frequency
 between rubidium 85 and 87?
-[INAUDIBLE]
+[Student: gigahertz?]
 It's much more than gigahertz.
 You really have to tune your laser.
 I think if you look at a vapor cell,
@@ -80,8 +80,8 @@ And that explains why the binding
 energy for heavier nuclei is smaller
 than for lighter nuclei.
 Yes.
-So for the other orbitals, [INAUDIBLE] exactly
-0 or negative [INAUDIBLE]?
+[Student: So for the other orbitals, is it exactly
+0 or negative? ]
 
 OK, for the other orbitals, what we have to do
 is-- and actually, you have an homework assignment
@@ -108,12 +108,13 @@ to the L over your perturbation operator.
 So it's not mathematically 0.
 But for all practical purposes, it vanishes.
 Nancy.
-For the different UPI, for example, in the video,
-is [INAUDIBLE] affecting anything?
-Or is it making [INAUDIBLE] also important in these isotopes?
+[Student:
+For the different Rb isotopes, for example, in the video,
+do mass and volume affecting anything?
+Or is it making NAUDIBLE] also important in these isotopes?
 Because the nuclear structure would
 be different for both of them if they have
-different [INAUDIBLE].
+different isotopes. ]
 Oh, yeah.
 When we talk isotope effects, I was
 talking about the isotope effects of mass and volume.
@@ -134,19 +135,19 @@ if you have only one isotope.
 But in general, yes, different isotopes
 differ in all four effects, the mass effect, the volume effect,
 the deformation effect, and the magnetic moment effect.
-But the [INAUDIBLE] mass and volume effects
-are used more than [INAUDIBLE]?
-Because [INAUDIBLE] something different, right,
-for different isotopes.
+[Student: But the experimentally mass and volume effects
+are used more than actually measuring the hyperfine splitting?
+Because hyperfine splitting is different right,
+for different isotopes.? 
 
 In the start of the lecture, you were
-talking about adding [INAUDIBLE] to the other particles.
+talking about adding four neutrons to the other particles.
 That will change.
-So you would look at that in two different states.
+So you would look at that in two different states. ]
 Oh, yeah.
 This would change.
 But you can separate those effects
 because I mentioned that in hyperfine structure,
 the center of mass of the energy levels is the same.
 So if you see a splitting but take the center for mass,
-then the center of ass will only depend on volume and mass
+then the center of mass will only depend on volume and mass effects.
