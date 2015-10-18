@@ -30,7 +30,7 @@ So you can say they came so close-- people--
 There were people who may be missed the Nobel Prize by just
 a tiny little bit.
 They had all the insight that there
-may be [INAUDIBLE] QED [INAUDIBLE] in hydrogen. They
+may be quantum / QED corrections in hydrogen. They
 just didn't have the technology to measure it
 accurately enough.
 The second example I want to show
@@ -39,8 +39,8 @@ But fundamental limitations can disappear in time
 because they may not be as fundamental as they appear.
 So for instance, there were limitations in with
 the measurement of the Lamb shift because you had a short
-lifetime of p states But with the advent of [? two-fold ?]
-[INAUDIBLE] transition, you can go from s to s and s to d
+lifetime of p states But with the advent of two-photon
+transition, you can go from s to s and s to d
 states, and therefore, map out Lamb shift with much,
 much higher precision not limited by the finite lifetime
 of p states.
@@ -52,17 +52,17 @@ Well, today, the most accurate measurement of the Lamb shift
 is with an optical transition where
 you need a much, much higher relative precision
 to see the tiny Lamb shift.
-But optical [INAUDIBLE] with direct frequency measurements
+But optical metrology with direct frequency measurements
 and frequency combs has so much improved in precision that
 now, an optical measurement, even if it comes to tiny
-difference is more accurate than a [? directive ?]
-of measurement.
+difference is more accurate than a microwave
+measurement.
 So I think that the history of hydrogen
 shows you that technology can completely
-change the paradigm of measurements [? admitted. ?]
+change the paradigm of measurements are made.
 Fundamental limits disappear because in two weeks
 a new insight is available.
 And also, I find it interesting that discoveries often
 have precursors, and people have a hunch, know about it,
 and then finally it is discovered.
-So let me just give you some historic papers.
+So let me just step you through some historic papers.
