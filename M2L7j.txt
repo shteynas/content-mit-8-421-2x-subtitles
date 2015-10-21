@@ -70,7 +70,7 @@ into the [INAUDIBLE], and it's a principle quantum number,
 and then the fine structure only depends on j and not on l
 and s separately.
 So that tells us that eventually,
-the spin of the electron and the fine structure are really
+the spin of the electron and the fine structure really
 have deep origins in the relativistic nature
 of the underlying physics.
 
