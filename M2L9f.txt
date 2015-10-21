@@ -23,7 +23,7 @@ stabilized their lasers, using Doppler-free saturation
 spectroscopy.
 And when saturation spectroscopy was
 invented by Hansch and Shawlow, for the first time
-you can break through the Doppler [INAUDIBLE].
+you can break through the Doppler width.
 And now you see the lines resolved.
 And here, I think for the first time,
 you see two peaks separated, and the splitting
