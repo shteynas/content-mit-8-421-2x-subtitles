@@ -53,7 +53,7 @@ field.
 In other words, you allow the atom,
 or the electron in the atom, to couple to all the empty modes
 of the vacuum.
-When you obtain the Lamb shift in its full beauty--
+Then you obtain the Lamb shift in its full beauty--
 and this is discussed nicely in Atom-Photon Interactions by Claude Cohen-Tannoudji et al.
 
 So this is the nature.
