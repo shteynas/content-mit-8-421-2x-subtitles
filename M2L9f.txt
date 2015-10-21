@@ -147,7 +147,7 @@ the size of the proton, and this was
 done by replacing the electron with a muon, which
 is a heavy electron.
 But since the muon is so much heavier,
-the bore orbit of the muon, the negative particle
+the Bohr orbit of the muon, the negative particle
 going around the proton is much smaller.
 
 So therefore the-- Lamb Shift also--
