@@ -132,7 +132,7 @@ and if the acceleration is constant,
 you get-- and this is on the left-hand side--
 a constant angular velocity, the precession velocity.
 And the letter t indicates that it's
-the Thomas must precession.
+the Thomas precession.
 Now, we have learned-- and it's nice to come back
 to the beginning of this course-- we have discussed
 that if you have a magnetic field,
