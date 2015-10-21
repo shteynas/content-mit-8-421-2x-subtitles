@@ -107,7 +107,7 @@ non-relativistic approximation.
 And the term which appears in the Pauli equation
 is actually the same.
 The only thing which is different
-is that the prefector is 1/6.
+is that the prefector is not 1/6.
 the exact prefector is 1/8.
 So this, the exact result, actually
 validates that the physical picture we have used
