@@ -46,7 +46,7 @@ And this dimension can only be the Compton wavelengths.
 Which is h bar over mc.
 And there is a nice German word for it,
 how you can imagine that the electron is smeared out.
-It was by the word [NON-ENGLISH SPEECH].
+It goes by the word "Zitterbewegung".
 And I think the German word is much nicer
 than its translation, which is trembling motion.
 So at least in this picture you assume that the electron
