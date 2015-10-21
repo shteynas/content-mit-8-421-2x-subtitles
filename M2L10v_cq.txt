@@ -12,7 +12,7 @@
 OK, and this is about hyperfine structure.
 The question is hydrogen, in the ground state, has four states.
 Because the electron can has a spin up and down
-and [? the broden ?] has a spin up and down, and two by two,
+and the proton has a spin up and down, and two by two,
 two times two is four.
 So we're talking about multiplicity of four.
 And I want you-- and I'm asking you
