@@ -84,7 +84,7 @@ If you have a system where you can add angular momentum
 without changing the internal structure-- for example
 if I have this stick and I can just spin it up.
 If I can spin it up, I can get an angular momentum
-[INAUDIBLE].
+wave packet.
 I can orient it and measure its deformation.
 Then I think I would say even if this state has 0 angular
 momentum, it has a deformation.
