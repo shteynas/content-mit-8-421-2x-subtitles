@@ -8,10 +8,10 @@
 # Do not add or delete any lines.
 #
 #----------------------------------------
-If you have a definition of a nucleus
-or if you have an kind of an isotopic shape of an object,
+If you have a deformation of a nucleus
+or if you have any kind of anisotropic shape of an object,
 what is the minimum angular momentum in order
-go observe it.
+go observe it?
 And I know a lot of you got confused about it.
 So I want to discuss the same thing again but by now focusing
 on two different frames, the lab frame and the body-fixed frame.
