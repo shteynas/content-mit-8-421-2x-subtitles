@@ -46,8 +46,8 @@ So let me first make one comment.
 When we integrated over all modes
 of the electromagnetic spectrum, we needed an upper cut off
 and a lower cut off due to logarithmic singularities.
-Eventually an upper cut off, yes.
-At relativistic, the last mass of the electron
+Eventually an upper cut off, yes, 
+at relativistic energies, the rest mass of the electron
 we have to cut off things.
 I just want to say one more word about the lower cut off.
 I suggested as a cut off the orbital frequency
