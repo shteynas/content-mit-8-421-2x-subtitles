@@ -11,5 +11,5 @@
 
 Then finally, the last question.
 Same situation, positronium, but now at low magnetic fields.
-What are the magnetic moments of the four hyper
-fined states of positronium at low magnetic field?
+What are the magnetic moments of the four 
+hyperfine states of positronium at LOW magnetic field?
