@@ -51,7 +51,7 @@ Can you explain the graph on the previous page,
 how the lines are joined up?
 The potential?
 Yes.
-Yeah, so what happens is-- so if we're being cryptic,
+Yeah, so what happens is-- sorry for being cryptic,
 this is the charge distribution.
 And what I'm doing now is I'm solving Laplace equation.
 I'm solving Laplace's equation.
