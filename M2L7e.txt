@@ -73,7 +73,7 @@ a clear understanding what is responsible
 for the fine-structure.
 
 So if you just want to get an accurate result,
-there's only one thing you have to do, sort the Dirac equation.
+there's only one thing you have to do, solve the Dirac equation.
 The solution of the Dirac equation for the hydrogen atom
 gives us the electronic structure,
 the same as comes out of the Bohr model,
