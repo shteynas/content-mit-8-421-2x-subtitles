@@ -81,7 +81,7 @@ we have an object which has a deformation or not?
 Now, my personal opinion is the following.
 It really depends.
 If you have a system where you can add angular momentum
-without changing the internal structure-- for it's
+without changing the internal structure-- for example
 if I have this stick and I can just spin it up.
 If I can spin it up, I can get an angular momentum
 [INAUDIBLE].
