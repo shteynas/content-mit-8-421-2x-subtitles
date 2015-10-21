@@ -99,7 +99,7 @@ However, you may have an object, let's say a molecule,
 which is so weakly bound that one
 quantum of angular momentum due to centrifugal forces
 rips it apart.
-That exists, a extremely bound state,
+That exists, an extremely weakly bound state,
 which cannot provide enough binding force to withstand even
 one unit of angular momentum.
 So that's an object which you cannot rotate--
