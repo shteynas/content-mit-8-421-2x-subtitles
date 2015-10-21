@@ -71,7 +71,7 @@ field into the frame of the moving electron.
 But there is a more naive picture,
 which is correct to, if you are in the frame of the electron,
 then the proton is orbiting around you.
-And the orbiting proton is a wind current,
+And the orbiting proton is a ring current,
 which creates a magnetic field.
 And this magnetic field is, or it
 has to be, the same as we just got
