@@ -36,7 +36,7 @@ is 77 megahertz only.
 The mass shift is 56 megahertz.
 And the remainder is mainly the volume effect.
 There's a specific mass effect due to electronic correlations
-if you [INAUDIBLE] electrons, which I think is small here,
+if you have multiple electrons, which I think is small here,
 but I don't want to discuss it.
 So we can now compare the mass effect
 in rubidium versus lithium.
