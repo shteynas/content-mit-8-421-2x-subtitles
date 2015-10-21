@@ -9,7 +9,7 @@
 #
 #----------------------------------------
 
-The kinetic energy contribution is a simply expansion.
+The kinetic energy contribution is a simple expansion.
 You can get it from the Pauli approximation.
 You take the Dirac equation, deal
 with all the operators in the Dirac equation
