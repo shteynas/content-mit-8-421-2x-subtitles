@@ -46,7 +46,7 @@ now we have a coupling because an electron which
 moves, in the Coulomb field of the nucleus,
 sees in its moving frame, a magnetic field.
 And this magnetic field couples to the spin.
-So the moving electron sees motional magnetic field.
+So the moving electron sees a motional magnetic field.
 Well, you know when you have an electric field,
 and you look at the-- you have an electric field in one frame,
 and you have a second frame, special relativity, which
