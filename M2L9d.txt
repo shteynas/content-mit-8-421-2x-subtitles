@@ -53,7 +53,7 @@ So the Coulomb Field has to be modified
 at short distances in a much stronger way than just
 the finite size of the proton.
 We talk about the finite size of the proton in a minute.
-And then of course, 1947, UIF oscillators
+And then of course, 1947, new RF oscillators
 have been developed in the pursuit of radar,
 experimental tools are there now.
 High power IF sources, tunable sources, and such.
