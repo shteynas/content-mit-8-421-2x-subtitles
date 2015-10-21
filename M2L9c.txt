@@ -13,7 +13,7 @@ What I want to discuss next is give you
 a little bit of an historic summary how spectroscopy
 of hydrogen has developed.
 In particular, also focusing on one important discovery,
-the discovery of QED for the Lamb shift.
+the discovery of QED through the Lamb shift.
 And of course, we all love hydrogen
 because it's the simplest atom, but it
 has so much interesting physics in it.
