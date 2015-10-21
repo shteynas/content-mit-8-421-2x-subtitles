@@ -18,9 +18,9 @@ So we're talking about multiplicity of four.
 And I'm asking you
 know about the limits of high and low fields,
 first, at high fields and at low fields.
-And the question is, what are they
-magnetic moments of those hyperfine states,
-and we neglect the nuclear magnetron
+And the question is, what are the
+magnetic moments of those hyperfine states.
+We neglect the nuclear magnetron
 compared to the Bohr magnetron.
 So, what are the magnetic moments
 of those hyperfine states in units of the Bohr magnetron.
