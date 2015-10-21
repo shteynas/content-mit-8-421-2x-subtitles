@@ -16,7 +16,7 @@ of those hyperfined states?
 So your four states, the number of states, of course,
 doesn't change.
 That's the dimension of our Hilbert space.
-But now, we had low magnetic field,
+But now, we have low magnetic field,
 and what is the magnetic moment, which is nothing
 else than, the derivative of the energy, with respect
 to the magnetic field?
