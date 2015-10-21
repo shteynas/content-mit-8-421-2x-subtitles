@@ -15,4 +15,4 @@ what are the magnetic moments of those states?
 So we have four states-- spin up,
 spin down of the electron and the positron.
 And the question is what are the magnetic moments
-of those with hyperfine states?
+of those hyperfine states?
