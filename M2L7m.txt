@@ -26,7 +26,7 @@ is named after Willis Lamb who received the Nobel
 Prize for the discovery that the 2 s one-half,
 and the 2 p one-half level in hydrogen are not degenerate.
 And he wouldn't have gotten the Nobel Prize
-if he would have been simply off one little feature
+if it would have been simply about one little feature
 in the spectrum of hydrogen. But the discovery
 of this lifting of the degeneracy,
 was actually opened up the field for the development of quantum
