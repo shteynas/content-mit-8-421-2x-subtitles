@@ -23,7 +23,7 @@ squared, and then you take the full relativistic expression
 for the total energy minus 1.
 And now you do a Taylor expansion of the square root.
 You find the non-relativistic kinetic energy
-in the first collection term with all
+in the first correction term with all
 of the correct pre-factors.
 It's this one.
 
