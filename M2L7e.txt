@@ -28,8 +28,8 @@ But this explains to you why alpha is called
 the fine-structure constant.
 People had learned about the hydrogen spectrum,
 Bohr's model and all that.
-And then they found r corrections.
-And those r corrections were on a scale
+And then they found finer corrections.
+And those finer corrections were on a scale
 alpha squared times smaller.
 And the constant which appears here,
 alpha, was called the fine-structure constant
