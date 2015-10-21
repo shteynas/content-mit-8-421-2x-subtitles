@@ -32,7 +32,7 @@ And the electron performs some oscillatory motion.
 And this oscillatory motion leads to an over reaching
 of the coulomb potential.
 And similarly, what we saw for the Darwin term,
-this overreaching of the coulomb potential
+this averaging of the coulomb potential
 takes away the singularity of the coulomb potential.
 And therefore, lowers the binding energy of the electron.
 
