@@ -125,7 +125,7 @@ If you have nuclei-- if you have a nucleus
 and you have sort of a wave function of the protons
 and neutrons, and it's i equals 0,
 you will not find any moment.
-And at least for the ground set of nulcei,
+And at least for the ground state of nulcei,
 when you add angular momentum, you really
 change the internal structure.
 You have to promote nucleons to higher orbits.
