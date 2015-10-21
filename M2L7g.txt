@@ -90,7 +90,7 @@ OK, that would be too simple.
 So we need, we have to now consider one more thing,
 and this is, I told you that we can transform
 the electric field into the moving frame of the electron,
-but those transformations from one lowest frame
+but those transformations from one Lorentz frame
 into the other, are simple when you go from one frame
 to another, and then move with a constant velocity
 relative to each other.
