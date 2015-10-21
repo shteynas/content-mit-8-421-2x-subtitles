@@ -67,7 +67,7 @@ By the way, an equivalent picture--
 because you will read about it or hear
 about it-- is you can get the magnetic field, which couples
 to the spin, by simply transforming the Coulomb
-field into the from of the moving electron.
+field into the frame of the moving electron.
 But there is a more naive picture,
 which is correct to, if you are in the frame of the electron,
 then the proton is orbiting around you.
