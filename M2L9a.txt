@@ -16,7 +16,7 @@ And I just looked up some information on lithium,
 which is a light atom.
 And this paper here shows calculations
 compared with experiments.
-The isotope shift will give from lithium 6 to lithium 7,
+The isotope shift between lithium 6 and lithium 7,
 due the mass, lithium 6 to lithium 7
 is about 10 gigahertz.
 The volume effect is only 2 megahertz.
