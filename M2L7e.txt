@@ -65,7 +65,7 @@ So let's talk about the fine-structure.
 
 You will actually find a complete discussion
 of the fine-structure in several textbooks
-on quantum mechanics-- Griffiths, Tannoudji,
+on quantum mechanics-- Griffiths, Cohe-Tannoudji,
 Gasiorowicz.
 What I want to do here is to have a careful discussion
 of the physical origin and provide
