@@ -20,9 +20,9 @@ and the lamb shift.
 So this is now the title of our next chapter, Fine-Structure
 and Lamb Shift.
 The fine-structure energies are alpha squared times smaller
-than the root back.
+than the Rydberg.
 So are on the order of alpha to the 4 mc squared.
-And well, if I write that as alpha square root back,
+And well, if I write that as alpha square Rydberg,
 which is the same.
 But this explains to you why alpha is called
 the fine-structure constant.
