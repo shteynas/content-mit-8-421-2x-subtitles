@@ -15,4 +15,4 @@ how does density and how does inverse size scale
 with principle quantum number?
 So the first question is, how does
 1 over r, 1 over the size of the electronic wave function,
-how does it scale within?
+how does it scale with n?
