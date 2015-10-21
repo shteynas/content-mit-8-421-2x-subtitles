@@ -77,7 +77,7 @@ So the correction is now-- well, if we average it
 in an isotopic way, the gradient term,
 the linear term doesn't contribute.
 It just averages to zero.
-So the leading correction can comes from the curvature term.
+So the leading correction comes from the curvature term.
 So therefore we have to take the curvature or the Laplacian
 of the coulomb potential.
 This scale of sx square sy square sz square is
