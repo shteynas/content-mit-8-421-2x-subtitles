@@ -32,7 +32,7 @@ between rubidium 85 and 87?
 It's much more than gigahertz.
 You really have to tune your laser.
 I think if you look at a vapor cell,
-you will never accidentally see rubidium 85 flying.
+you will never accidentally see rubidium 85 lines.
 And for the mass effect, we said--
 So then they would be comparable.
 The mass effect is easy to estimate
