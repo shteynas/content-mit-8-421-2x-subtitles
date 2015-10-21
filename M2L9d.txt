@@ -73,8 +73,8 @@ there is a theoretical paper by Hans Bethe providing
 an explanation for the Lamb Shift.
 So already coming up with the first model
 how to account for QED.
-I didn't look it up in detail, but I thought this [INAUDIBLE]
-was similar to what I presented you
+I didn't look it up in detail, but I thought the spirit
+was similar to what I presented to you
 in class, that the electromagnetic zero point
 energy is shaking the electron and leading to corrections.
 But it's amazing that within weeks, theorists
