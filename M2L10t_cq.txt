@@ -11,4 +11,4 @@
 
 OK.
 The next question is, what effects lifts now
-the degeneracy between the 2S 1/2 and the 2P 1/2 in turn.
+the degeneracy between the 2S 1/2 and the 2P 1/2 term.
