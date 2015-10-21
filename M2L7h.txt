@@ -13,7 +13,7 @@ The last conclusion to the fine structure is the Darwin term.
 The Darwin term is sort of peculiar,
 but there is a sort of an intuitive picture
 in which I can derive it.
-It starts by saying that an electron-- well, we an electron
+It starts by saying that an electron-- well, we know that an electron
 is, as far as we know, a point object.
 But in order to derive the Darwin term,
 we assume that the electron is not arbitrarily, accurately
