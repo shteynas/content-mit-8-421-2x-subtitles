@@ -19,7 +19,7 @@ Well, relative kinetic energy, of course.
 The Darwin term is only for s electrons.
 L-S does not contribute because an s electron has L equal zero.
 
-So if you go to p and d states, two states with finite angular
+So if you go to p and d states, to states with finite angular
 momentum, then we get contribution of l s.
 We always get a relativistic kinetic energy contribution,
 but for finite angular momentum we don't have the Darwin term.
