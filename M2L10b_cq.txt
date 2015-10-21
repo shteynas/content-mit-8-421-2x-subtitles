@@ -12,7 +12,7 @@
 The first questions take us back to electronic structure.
 It's a question about how do wave functions,
 how does density and how does inverse size scale
-with principle quantum number?
+with principal quantum number?
 So the first question is, how does
 1 over r, 1 over the size of the electronic wave function,
-how does it scale with n? 1 over, 1 over n squared, 1 over n cubed?
+how does it scale with n? 1 over n, 1 over n squared, 1 over n cubed?
