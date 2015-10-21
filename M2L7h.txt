@@ -30,8 +30,8 @@ than its Compton wavelengths.
 If you would localize a particle better than the Compton
 wavelengths, it would have a momentum uncertainty, which
 would lead to an energy uncertainty, which
-is larger than its rest mass and you get into quantum theory
-and [? pair ?] production.
+is larger than its rest mass and you get into quantum field theory
+and pair production.
 So at some point you have to be aware
 that single particle pictures break down
 when you assume a localization of particles
