@@ -23,7 +23,7 @@ And this is radiation.
 We will talk about the quantized electromagnetic field later.
 At this point I could introduce you
 to a simple model, fairly accurate model,
-of the lens shift by simply assuming--
+of the Lamb shift by simply assuming--
 and that's what we did on Friday-- that we have
 fluctuating electric fields.
 Those was fluctuating electric field shake, accelerate,
