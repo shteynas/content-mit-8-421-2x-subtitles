@@ -142,7 +142,7 @@ of angular momentum states.
 So then you would see I have the same kind of nucleus
 but at different angular momentum states.
 And at higher angular momentum states
-you can, with higher [? QVC, ?] determine quadrupole moments
+you can, with high accuracy deterrmine quadrupole moments
 and things like this.
 And then you may say the same internal state has now
 a non-rotating state, and you would still be tempted--
