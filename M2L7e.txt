@@ -10,7 +10,7 @@
 #----------------------------------------
 
 We can now proceed form electronic energies, which
-were on the order of a root back, or remember atomic units,
+were on the order of a Rydberg, or remember atomic units,
 fine-structure constant squared times
 rest mass of the electron.
 So we've taken care of those energies.
