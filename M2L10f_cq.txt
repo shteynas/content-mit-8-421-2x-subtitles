@@ -15,9 +15,9 @@ singlet or triplet states more tightly bound?
 So we talked about a shift or splitting between singlet
 and triplets states.
 Which way does it go?
-For the same electronic configuration, I'm not asking,
-the ground state has only one configuration.
+For the same electronic configuration. I'm not asking about
+the ground state which has only one state.
 There's only one state in the ground state,
 but now we go to the excited state, to the excited states.
 And there are a number of excited states, because they
-have the same configuration, but they
+have the same configuration, but they can be classified as singlet and triplet states.
