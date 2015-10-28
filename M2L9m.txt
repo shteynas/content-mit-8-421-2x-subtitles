@@ -43,7 +43,7 @@ Find the wave function, find the eigenenergies.
 And since for cases where S is equals 1/2, it's only a 2
 by 2 matrix, which has to be diagonalized.
 You can do it analytically, and this
-leads to the famous [INAUDIBLE] formula.
+leads to the famous Breit-Rabi formula.
 So the solution is analytic for 3 equals 1/2.
 And it's a beautiful example which you should solve
 in your homework assignment.
