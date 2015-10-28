@@ -71,8 +71,8 @@ on the right-hand side.
 On the other hand, we discussed in the context
 of Rydberg atoms, that Rydberg atoms
 can have huge matrix elements, matrix elements which
-they can really become huge.
-So how do you reconcile the fact that Rydberg atoms in large end
+can really become huge.
+So how do you reconcile the fact that Rydberg atoms in large n
 states-- in states with large principle quantum numbers--
 can have huge matrix elements?
 How do you reconcile it with our discussion of oscillator
@@ -80,9 +80,9 @@ strengths and sum rules?
 
 The answer is simple but subtle.
 
-So, is there the proof that peak matrix elements are not
+So, is that a proof that big matrix elements are not
 possible?
-Or if peak matrix elements-- huge matrix elements--
+Or if big matrix elements-- huge matrix elements--
 are possible, what property of the oscillator strength
 did I not emphasize?
 Use logic.
@@ -120,4 +120,4 @@ the transition matrix element cannot be larger than
 the geometric mean of the reduced wavelengths
 and the Compton wavelengths, but for excited states you have
 to be careful, because the oscillator strength can
-[INAUDIBLE].
+have both signs.  OK.
