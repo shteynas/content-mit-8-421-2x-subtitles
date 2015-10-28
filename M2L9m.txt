@@ -56,4 +56,4 @@ So when you go from one limit to the next,
 you connect only states where mI plus mJ equals mF.
 
 So the structure of the general solution
-can be explained by repulsion and anti-crossings
+can be explained by repulsion and anti-crossings of states with the same mF quantum number.
