@@ -56,7 +56,7 @@ that in the expression e to the ikr, kr is really small.
 So we can do that dipole approximation.
 
 Now, I have a question for you.
-I didn't think clickers, because I don't have many questions
+I didn't bring clickers, because I don't have many questions
 to discuss today, but this almost--
 I mentioned that there is a sum rule for the oscillator
 strengths, and the sum rule limits it to 1,
