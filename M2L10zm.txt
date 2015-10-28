@@ -14,7 +14,7 @@ is the Bohr radius cube, which is pretty much the volume
 of the hydrogen atom.
 But we can now do an approximation.
 It's not really relevant, but it has a historic name,
-so it's approximation.
+Unsold's approximation.
 It's just nice to show how things work out.
 We have a second order matrix element,
 so we couple this state, n, with the operator, z, to a state, m.
