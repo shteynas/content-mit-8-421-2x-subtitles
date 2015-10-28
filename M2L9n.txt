@@ -80,4 +80,4 @@ There is no recoupling taking place.
 And then you have three pairs of states.
 You have three pairs of states which form 2 by 2 matrix.
 And in each pair, if you would now focus on it,
-you really see the avoided crossing, typical for a 2
+you really see the avoided crossing, typical for a 2 by 2 matrix.
