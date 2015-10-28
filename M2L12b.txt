@@ -48,7 +48,7 @@ is very, very small, so therefore if the matrix element
 is the geometric mean of the two,
 that means that the matrix element is smaller
 than the optical wavelengths, and therefore the matrix
-element is the length scale-- development length scale--
+element is the length scale-- the relevant length scale--
 of the atom for transition.
 It is smaller than the optical wavelengths.
 And that means-- and we'll talk about it today--
