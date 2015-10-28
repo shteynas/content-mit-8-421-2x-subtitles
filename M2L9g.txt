@@ -9,7 +9,7 @@
 #
 #----------------------------------------
 
-So our next topic on our atoms in external magnetic fields,
+So our next topic is now atoms in external magnetic fields,
 and the first chapter is on fine structure and the Lande'
 g-factor.
 But maybe more colloquially, atoms in external fields
@@ -19,14 +19,14 @@ and spin angular momentum, and we
 discussed how spin orbit coupling eventually couples
 L and S to J, and so on.
 But now we extend the game by one more vector, B,
-in external magnetic field.
+the external magnetic field.
 And it really becomes sort of a player in the game,
 because you know that if you have spin orbit coupling,
 we use the vector model that L and S couple and precess
 around the axis of J, the total angular momentum.
 So the game we played when we couple angular momentum is
 that angular momentum couple, they
-precess around an axis that involves new [? quantum ?]
+precess around an axis that involves new quantum
 numbers and so on.
 But now, we can add a new axis, a quantization
 axis with a magnetic field, and then
@@ -38,7 +38,7 @@ And this is what we want to discuss now.
 So it is a game of L, S, and B. So what
 we are adding with magnetic fields is
 we are adding one term to the Hamilitonian, which
-is the zeeman term where we have an external magnetic field
+is the Zeeman term where we have an external magnetic field
 and we couple with a magnetic moment.
 So the one thing which makes it interesting
 when we discuss fine structure is the following,
