@@ -9,25 +9,25 @@
 #
 #----------------------------------------
 
-I want to give you sort of an-- summary
+I want to give you sort of a summary
 that you see the bigger picture.
 That you see beyond the details.
 That what I actually taught you about atoms in magnetic field
-is some-- you can see-- paradigmatic example of quantum
-physics.
-What happens if you have two different terms in Hamiltonian
+is a paradigmatic example of quantum
+physics:
+what happens if you have two different terms in Hamiltonian
 and you have to interpolate between one and the other.
 Let's summarize as follows.
-What we have is-- we have Hamiltonian
-and it has one part.
-The hyperfine direction which depends on I dot J.
+What we have is a Hamiltonian
+and it has one part, 
+the hyperfine direction which depends on I dot J.
 And then it has an external magnetic field part.
 And what happens to the magnetic field which we assume,
 is in the J direction-- in the Z direction,
 are the Z components of the magnetic moment.
 And the Z component of the magnetic moment
-are proportional to the MJ, or MI quantum number.
-To the magnetic quantum number of the atom and the nucleus.
+are proportional to the MJ, or MI quantum number, 
+to the magnetic quantum number of the atom and the nucleus.
 So in a weak field-- in a weak field
 it is the hyperfine structure which dominates.
 So in a weak field we first solve
