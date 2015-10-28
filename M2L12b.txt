@@ -12,11 +12,11 @@
 I mentioned that the oscillator strength is actually
 one way to parametrize a matrix element.
 We'll actually talk most of the lecture
-today about matrix element, but I
+today about matrix elements, but I
 come to that in a few minutes.
-For me, the matrix element is nothing what you ever
+For me, the matrix element itself is not a quantity you 
 want to think about.
-Sure, it is a dimension of the [INAUDIBLE],
+Sure, it has the dimension of the Bohr radius,
 but you don't even think in terms of length scale.
 There are two ways how you're going to use a matrix element.
 One is the matrix element squared times
@@ -40,7 +40,7 @@ as in the alkali d-lines where the oscillator
 strength is close to 1.
 You see that the matrix element is 1 over square root 2 times
 the geometric mean of the Compton
-wavelengths of the electron and the wavelengths
+wavelengths of the electron and the wavelength
 of the transition.
 So that's actually important for the dipole approximation,
 because the Compton wavelength of the electron
