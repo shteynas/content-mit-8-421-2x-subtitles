@@ -51,8 +51,8 @@ that the magnetic moment is just proportionate to the angular
 momentum, if the angular momentum comes from spin,
 it has a different weight than when the angular momentum comes
 from orbital angular momentum.
-And this is what people-- what we want to now understand.
-What is-- we want to understand, we
+And this is what ...  we want to now understand.
+We want to understand, we
 want to determine what is the magnetic moment
 of the atom when the angular momentum has
 two different sources.
