@@ -16,7 +16,7 @@ in generic quantum mechanics textbooks.
 And now I want to give you a little bit of sort
 off extra insight based on my knowledge of atomic physics.
 So there are three points I would like to discuss here.
-The first one is the relation to dressed to the dressed atom
+The first one is the relation to the dressed atom
 picture.
 The second one is, I want to parametrize the results
 for the polarized ability using the concept of oscillator
