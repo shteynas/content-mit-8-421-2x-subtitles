@@ -69,7 +69,7 @@ about it-- is you can get the magnetic field, which couples
 to the spin, by simply transforming the Coulomb
 field into the frame of the moving electron.
 But there is a more naive picture,
-which is correct to, if you are in the frame of the electron,
+which is correct too, if you are in the frame of the electron,
 then the proton is orbiting around you.
 And the orbiting proton is a ring current,
 which creates a magnetic field.
