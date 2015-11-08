@@ -29,7 +29,7 @@ fluctuating electric fields.
 Those was fluctuating electric field shake, accelerate,
 the electron.
 And the electron performs some oscillatory motion.
-And this oscillatory motion leads to an over reaching
+And this oscillatory motion leads to an averaging
 of the coulomb potential.
 And similarly, what we saw for the Darwin term,
 this averaging of the coulomb potential
