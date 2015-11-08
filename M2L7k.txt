@@ -40,7 +40,7 @@ is that what is the exact degeneracy between s 1/2
 and p 1/2 is actually lifted when we input use photons, when
 we allow the electrons to couple to the electromagnetic.
 That's QED, quantum electrodynamics.
-And that introduced a lens shift, which, in the n
+And that introduced a Lamb shift, which, in the n
 equals 2 state, is 10 to the minus 6
 electron volt, which is approximately 1 gigahertz.
 And that's what we want to derive next.
