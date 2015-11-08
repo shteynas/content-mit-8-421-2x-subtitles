@@ -31,10 +31,10 @@ Now there is an additional diagram
 which has this bubble, which is this production of e
 minus, e plus pairs.
 And you can see that if an electron and proton attract
-each other, and you create, by virtue of pair production,
+each other, and you create, by virtual pair production,
 because the vacuum is alive, things
 can happen in the vacuum.
-It will virtue emit an electron positron pair,
+It will virtually emit an electron positron pair,
 that now you create a electron positron pairs, which
 shield the Coulomb field.
 And this is a second contribution
@@ -56,7 +56,7 @@ should weaken the Coulomb field.
 But the question is, what do we regard
 as the elementary charge e in our Schrodinger equation.
 And what we regard as the charge, what
-is measured in a Milliken droplet
+is measured in a Millikan droplet
 the experiment is already the shielded charge.
 So therefore, the effect that vacuum polarization exists
 means we always measure the shielded charge.
