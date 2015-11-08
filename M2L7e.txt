@@ -9,7 +9,7 @@
 #
 #----------------------------------------
 
-We can now proceed form electronic energies, which
+We can now proceed from electronic energies, which
 were on the order of a Rydberg, or remember atomic units,
 fine-structure constant squared times
 rest mass of the electron.
