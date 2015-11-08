@@ -59,7 +59,7 @@ but we can immediately write it in a form
 where we recognize angular momentum.
 So this is the Coulomb field.
 And it involves v cross r, and v cross
-r is just minus L, the optical angular momentum.
+r is just minus L, the orbital angular momentum.
 
 So this is now our motional magnetic field.
 And then the spin couples to it, and we get spin orbit coupling.
