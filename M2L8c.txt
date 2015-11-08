@@ -39,17 +39,17 @@ and the nucleus has a finite volume.
 Both the mass and volume effect lead to energy shifts,
 but tiny energy shifts are hard to measure unless you have
 two different shifts, and therefore those effects
-go as isotrope shifts because when you have an atom which
-comes into different isotropes, you
+go as isotope shifts because when you have an atom which
+comes into different isotopes, you
 find that due to those two effects
 the energy levels are not the same.
-So this goes by the name of isotrope shifts.
+So this goes by the name of isotope shifts.
 
 By far the most important phenomenon
 is the first one, the fact that, if a nucleus has angular
 momentum, we have hyperfine structure,
-and for the high torsion atom, that
-means that the ground state, this single at s 1/2 state,
+and for the hydrogen atom, that
+means that the ground state, this singlet s 1/2 state,
 actually splits into two states with total angular momentum
 quantum number F. So the relevance
 of hyperfine splitting is-- it's actually of huge relevance--
