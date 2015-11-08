@@ -58,7 +58,7 @@ and this is discussed nicely in Atom-Photon Interactions by Claude Cohen-Tannoud
 
 So this is the nature.
 The nature of the Lamb shift is a coupling to the vacuum modes.
-But I want to capture that now in the same classical picture.
+But I want to capture that now in the semiclassical picture.
 So the picture I am presenting here,
 is due to Welton and Viki Weisskopf.
 And yes, it has to address the nature of the Lamb shift,
